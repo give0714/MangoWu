@@ -87,3 +87,9 @@ Result: INTERVAL (38:45.0005) MINUTE TO FRACTION(4)
 
 參考來源 : [IBM](https://www.ibm.com/docs/en/informix-servers/14.10?topic=bidt-time-data-types)
 
+{% hint style="danger" %}
+前往【 城市芒果留言區 】  
+如有建議芒果改進的地方，請前往芒果留言區留言  
+使芒果與你們一起成長進步
+{% endhint %}
+
