@@ -23,3 +23,11 @@ DEFINE recordName RECORD
 
 宣告一個紀錄，內含一個含以上的變數
 
+{% hint style="warning" %}
+####  用法
+
+* 存取所有 RECORD variables recordName.\*
+* 存取指定範圍 RECORD variable recordName.beginVariable THRU recordName.endVariable
+* 存取單一 RECORD variable recordName.variableName
+{% endhint %}
+
