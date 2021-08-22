@@ -52,7 +52,7 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
 #### 範例一
 
 ```objectivec
-DEFINE birthday DATE
+DEFINE birthday DATETIME
 ...
 LET birthday = '2021-08-22 12:01:00.00001'
 ```
