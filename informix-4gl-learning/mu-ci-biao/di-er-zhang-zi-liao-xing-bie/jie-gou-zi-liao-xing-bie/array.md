@@ -27,9 +27,7 @@ END RECORD
 {% hint style="warning" %}
 ####  用法
 
-* 存取所有 RECORD variables recordName.\*
-* 存取指定範圍 RECORD variable recordName.beginVariable THRU recordName.endVariable
-* 存取單一 RECORD variable recordName.variableName
+* 如在執行使用陣列時，需使用 ESC 鍵，方能離開此次陣列，執行後續程式
 {% endhint %}
 
 {% hint style="danger" %}
