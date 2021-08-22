@@ -48,4 +48,7 @@
       * [SERIAL](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/qi-ta-zi-liao-xing-bie/serial.md)
   * [第三章 程式架構](informix-4gl-learning/mu-ci-biao/di-san-zhang.md)
   * [第四章 庫存函數](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu.md)
+  * [第五章 資料庫操作及授權](informix-4gl-learning/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan.md)
+  * [第六章 資料操作及交易處理](informix-4gl-learning/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li.md)
+  * [第七章 FORM 及 WINDOW](informix-4gl-learning/mu-ci-biao/di-qi-zhang-form-ji-window.md)
 
