@@ -11,7 +11,7 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
 | 語法 | INTERVAL \( dateTime \) largestTime\(m\) TO smallestTime\(n\) |
 | 群組一 | YEAR 、 MONTH |
 | 群組二 | DAY 、 HOUR 、 MINUTE 、 SECOND 、FRACTION |
-| 使用方法 | 用於計算 DATE 、DATETIME 、 INTERVAL 的時間間距使用 |
+| 使用方法 | 用於計算 DATE 、DATETIME 、 INTERVAL 的時間間距，可按任何順序排列，結果為正值或負值的 INTERVAL 資料型別 |
 | 說明 | 同時只能使用其中一群組 |
 
 #### 範例一
