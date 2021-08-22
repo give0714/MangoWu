@@ -15,5 +15,5 @@ description: Informix-4GL 資料型別介紹
   * [RECORD](jie-gou-zi-liao-xing-bie/record.md)
   * [ARRAY](jie-gou-zi-liao-xing-bie/array.md)
 * 其他資料型別
-  * SERIAL
+  * [SERIAL](qi-ta-zi-liao-xing-bie/serial.md)
 
