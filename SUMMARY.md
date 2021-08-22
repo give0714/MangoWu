@@ -38,7 +38,11 @@
         * [DATE](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie-time/date.md)
         * [DATETIME](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie-time/datetime.md)
         * [INTERVAL](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie-time/interval.md)
-    * [大型資料型別](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/da-xing-zi-liao-xing-bie.md)
-    * [結構資料型別](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jie-gou-zi-liao-xing-bie.md)
+    * [大型資料型別](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/da-xing-zi-liao-xing-bie/README.md)
+      * [TEXT](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/da-xing-zi-liao-xing-bie/text.md)
+      * [BYTE](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/da-xing-zi-liao-xing-bie/byte.md)
+    * [結構資料型別](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jie-gou-zi-liao-xing-bie/README.md)
+      * [RECORD](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jie-gou-zi-liao-xing-bie/record.md)
+      * [ARRAY](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jie-gou-zi-liao-xing-bie/array.md)
     * [其他資料型別](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/qi-ta-zi-liao-xing-bie.md)
 
