@@ -45,7 +45,7 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
   </tbody>
 </table>
 
-#### 範例一
+#### 範例
 
 ```objectivec
 DEFINE birthday DATE
