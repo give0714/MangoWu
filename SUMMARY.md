@@ -26,7 +26,7 @@
       * [CHAR](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie-char-1/README.md)
         * [CHAR](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie-char-1/jian-chan-zi-liao-xing-bie-char.md)
         * [VARCHAR](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie-char-1/jian-chan-zi-liao-xing-bie-varchar.md)
-      * [NUMBER](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie-number/README.md)
+      * [NUMERIC](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie-number/README.md)
         * [INTEGER](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie-number/jian-chan-zi-liao-xing-bie-integer.md)
         * [INT](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie-number/int.md)
         * [SMALLINT](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie-number/jian-chan-zi-liao-xing-bie-smallint.md)
