@@ -4,7 +4,7 @@
 
 ## INFORMIX-4GL <a id="informix-4gl-learning"></a>
 
-* [章節一覽表](informix-4gl-learning/mu-ci-biao/README.md)
+* [INFORMIX-4GL 章節一覽表](informix-4gl-learning/mu-ci-biao/README.md)
   * [第一章 變數](informix-4gl-learning/mu-ci-biao/di-yi-zhang-bian-shu/README.md)
     * [宣告變數](informix-4gl-learning/mu-ci-biao/di-yi-zhang-bian-shu/xuan-gao-bian-shu.md)
     * [命名規則](informix-4gl-learning/mu-ci-biao/di-yi-zhang-bian-shu/untitled.md)
