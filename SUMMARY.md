@@ -44,5 +44,7 @@
     * [結構資料型別](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jie-gou-zi-liao-xing-bie/README.md)
       * [RECORD](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jie-gou-zi-liao-xing-bie/record.md)
       * [ARRAY](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jie-gou-zi-liao-xing-bie/array.md)
-    * [其他資料型別](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/qi-ta-zi-liao-xing-bie.md)
+    * [其他資料型別](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/qi-ta-zi-liao-xing-bie/README.md)
+      * [SERIAL](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/qi-ta-zi-liao-xing-bie/serial.md)
+  * [第三章](informix-4gl-learning/mu-ci-biao/di-san-zhang.md)
 
