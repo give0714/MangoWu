@@ -47,4 +47,5 @@
     * [其他資料型別](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/qi-ta-zi-liao-xing-bie/README.md)
       * [SERIAL](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/qi-ta-zi-liao-xing-bie/serial.md)
   * [第三章 程式架構](informix-4gl-learning/mu-ci-biao/di-san-zhang.md)
+  * [第四章 庫存函數](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu.md)
 
