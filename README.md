@@ -56,7 +56,7 @@ Informix-4GL 第三章\_程式架構
 {% endtab %}
 
 {% tab title="第四章" %}
-Informix-4GL 第四章\_
+Informix-4GL 第四章\_庫存函數
 
 1. 
 {% endtab %}
