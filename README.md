@@ -36,14 +36,21 @@ Informix-4GL 第一章\_變數
 Informix-4GL 第二章\_資料型別
 
 1. 簡單資料型別
-   1. [Character](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie-char-1/jian-chan-zi-liao-xing-bie-char.md)
-   2. [Number](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie-number/jian-chan-zi-liao-xing-bie-integer.md)
-   3. Time
-2. 3. 
+   1. [CHARACTER DATA](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie-char-1/)
+   2. [NUMERIC DATA](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie-number/)
+   3. [TIME DATA](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie/jian-chan-zi-liao-xing-bie-time/)
+2. 大型資料型別
+   1. [TEXT](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/da-xing-zi-liao-xing-bie/text.md)
+   2. [BYTE](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/da-xing-zi-liao-xing-bie/byte.md)
+3. 結構資料型別
+   1. [RECORD](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jie-gou-zi-liao-xing-bie/record.md)
+   2. [ARRAY](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/jie-gou-zi-liao-xing-bie/array.md)
+4. 其他資料型別
+   1. [SERIAL](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/qi-ta-zi-liao-xing-bie/serial.md)
 {% endtab %}
 
 {% tab title="第三章" %}
-Informix-4GL 第三章\_
+Informix-4GL 第三章\_程式架構
 
 1. 
 {% endtab %}

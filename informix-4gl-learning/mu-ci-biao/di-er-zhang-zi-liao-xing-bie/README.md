@@ -1,5 +1,5 @@
 ---
-description: Informix-4GL 資料型別介紹
+description: Informix-4GL 資料型別說明
 ---
 
 # 第二章 資料型別

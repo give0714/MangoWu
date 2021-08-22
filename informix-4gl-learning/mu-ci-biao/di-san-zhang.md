@@ -1,6 +1,6 @@
 ---
-description: Informix-4GL
+description: Informix-4GL 程式架構說明
 ---
 
-# 第三章
+# 第三章 程式架構
 
