@@ -17,19 +17,23 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
 #### 範例一
 
 ```objectivec
-DATETIME (2003-9-30 12:30) YEAR TO MINUTE
-- DATETIME (2003-8-1 11:00) YEAR TO HOUR
+DEFINE timeInterval DATETIME YEAR TO MONTH
+...
+timeInterval = DATETIME (2003-9) YEAR TO MONTH
+             - DATETIME (2003-8) YEAR TO MONTH
 
-Result: INTERVAL (60 01:30) DAY TO MINUTE
+=>> INTERVAL (1) YEAR TO MONTH
 ```
 
 #### 範例二
 
 ```objectivec
+DEFINE birthday DATETIME YEAR TO MONTH
+...
 DATETIME (2005-9-30) YEAR TO DAY
 - DATETIME (2005-10-1) MONTH TO DAY
 
-Result: INTERVAL (-1) DAY TO DAY
+=>> INTERVAL (-1) DAY TO DAY
 ```
 
 #### 範例三
