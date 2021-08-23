@@ -54,6 +54,8 @@ description: Informix-4GL 資料型別說明_Number 資料型態
 DEFINE unitPrice DECIMAL
 ...
 LET unitPrice = 1048.14
+
+=>> 1048.14
 ```
 
 說明 : unitPrice 為預設 16 個數字個數的浮點數，內含 2 個小數點數值的浮點數
@@ -64,6 +66,8 @@ LET unitPrice = 1048.14
 DEFINE unitPrice DECIMAL( 9 )
 ...
 LET unitPrice = 8791211.14
+
+=>> 8791211.14
 ```
 
 說明 : unitPrice 為有 9 個數字個數的浮點數
@@ -74,6 +78,8 @@ LET unitPrice = 8791211.14
 DEFINE unitPrice DECIMAL( 7, 3 )
 ...
 LET unitPrice = 4211.012
+
+=>> 4211.012
 ```
 
 說明 : unitPrice 為有 7 個數字個數，內含 4 個整數個數、 3 個小數點數值的浮點數
