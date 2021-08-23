@@ -19,6 +19,10 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
       <td style="text-align:left">DATETIME ( dateTime ) beginDateTime TO endDateTime</td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">DATETIME beginDateTime TO endDateTime</td>
+    </tr>
+    <tr>
       <td style="text-align:left">&#x8CC7;&#x6599;&#x9577;&#x5EA6;</td>
       <td style="text-align:left">4 byte</td>
     </tr>
