@@ -10,7 +10,7 @@ description: Informix-4GL 資料型別說明_Character 資料型態
 | :--- | :--- |
 | 語法 | CHAR \( n \) |
 | 資料長度 | n |
-| 資料範圍 | 1 &lt;= n &lt;= 255 |
+| 資料範圍 | 1 &lt;= n &lt;= 255 \( 位元 \) |
 
 #### 範例
 
@@ -18,6 +18,9 @@ description: Informix-4GL 資料型別說明_Character 資料型態
 DEFINE answer CHAR(1)
 ...
 LET answer = "a"
+DISPLAY answer
+
+=>> a
 ```
 
 {% hint style="danger" %}

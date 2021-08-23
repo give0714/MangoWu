@@ -18,6 +18,9 @@ description: Informix-4GL 資料型別說明_Character 資料型態
 DEFINE answer VARCHAR(1)
 ...
 LET answer = "a"
+DISPLAY answer
+
+=>> a
 ```
 
 {% hint style="danger" %}
