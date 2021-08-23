@@ -49,6 +49,7 @@ DEFINE timeInterval DATETIME YEAR TO MONTH
 ...
 timeInterval = DATETIME (2003-9) YEAR TO MONTH
              - DATETIME (2003-8) YEAR TO MONTH
+DISPLAY timeInterval
 
 =>> INTERVAL (1) YEAR TO MONTH
 ```
