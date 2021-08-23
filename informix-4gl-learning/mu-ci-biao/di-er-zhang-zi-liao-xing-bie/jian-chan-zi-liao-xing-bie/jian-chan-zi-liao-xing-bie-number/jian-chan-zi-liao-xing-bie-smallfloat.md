@@ -44,6 +44,10 @@ DEFINE sf SMALLFLOAT
 LET sf = 11.0014
 ```
 
+{% hint style="warning" %}
+強烈建議將 SMALLFLOAT 資料型別改使用成 DECIMAL 資料型別
+{% endhint %}
+
 {% hint style="danger" %}
 前往【 城市芒果留言區 】  
 如有建議芒果改進的地方，請前往芒果留言區留言  
