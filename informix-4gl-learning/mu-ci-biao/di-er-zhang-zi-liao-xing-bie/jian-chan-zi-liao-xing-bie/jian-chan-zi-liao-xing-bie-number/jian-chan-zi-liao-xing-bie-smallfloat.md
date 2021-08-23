@@ -41,7 +41,19 @@ description: Informix-4GL 資料型別說明_Number 資料型態
 ```objectivec
 DEFINE sf SMALLFLOAT
 ...
-LET sf = 11.0014
+LET sf = 11.01
+
+=>> $ 11.01
+```
+
+#### 範例二
+
+```objectivec
+DEFINE sf SMALLFLOAT
+...
+LET sf = 
+
+=>> $ 11.01
 ```
 
 {% hint style="warning" %}
