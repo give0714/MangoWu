@@ -32,7 +32,14 @@ description: Informix-4GL 資料型別說明_Number 資料型態
     </tr>
     <tr>
       <td style="text-align:left">&#x8CC7;&#x6599;&#x9577;&#x5EA6;</td>
-      <td style="text-align:left">byte = ROUND ( precision / 2 + 1 )</td>
+      <td style="text-align:left">
+        <p>byte = ROUND ( precision / 2 + 1 )</p>
+        <p>1.DECIMAL ( precision )</p>
+        <p>1+ precision / 2 byte</p>
+        <p>2.DECIMAL ( precision [, scale ] )</p>
+        <p>scale &#x70BA;&#x5947;&#x6578; ( precision + 3 ) / 2 byte</p>
+        <p>scale &#x70BA;&#x5076;&#x6578; ( precision + 4 ) / 2 byte</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">&#x8CC7;&#x6599;&#x7BC4;&#x570D;</td>
@@ -44,22 +51,32 @@ description: Informix-4GL 資料型別說明_Number 資料型態
 #### 範例一
 
 ```objectivec
-DEFINE unitPrice DECIMAL( 6 )
+DEFINE unitPrice DECIMAL
 ...
-LET unitPrice = 11.0014
+LET unitPrice = 1048.14
 ```
 
-說明 : unitPrice 為有6個數字個數的浮點數
+說明 : unitPrice 為預設 16 個數字個數的浮點數，內含 2 個小數點數值的浮點數
 
 #### 範例二
 
 ```objectivec
-DEFINE unitPrice DECIMAL( 6, 2 )
+DEFINE unitPrice DECIMAL( 9 )
 ...
-LET unitPrice = 4211.01
+LET unitPrice = 8791211.14
 ```
 
-說明 : unitPrice 為有6個數字個數，內含4個整數個數、2個小數點數值的浮點數
+說明 : unitPrice 為有 9 個數字個數的浮點數
+
+#### 範例三
+
+```objectivec
+DEFINE unitPrice DECIMAL( 7, 3 )
+...
+LET unitPrice = 4211.012
+```
+
+說明 : unitPrice 為有 7 個數字個數，內含 4 個整數個數、 3 個小數點數值的浮點數
 
 {% hint style="danger" %}
 前往【 城市芒果留言區 】  
