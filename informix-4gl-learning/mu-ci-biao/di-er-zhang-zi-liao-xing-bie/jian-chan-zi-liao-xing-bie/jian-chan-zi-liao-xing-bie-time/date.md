@@ -56,7 +56,7 @@ DEFINE birthday DATE
 LET birthday = '2021/08/22'
 DISPLAY birthday
 
-=>> 2021/08/222
+=>> 2021/08/22
 ```
 
 #### 範例二
@@ -67,7 +67,7 @@ DEFINE birthday DATE
 LET birthday = '2021-08-22'
 DISPLAY birthday
 
-=>> 2021/08/222
+=>> 2021/08/22
 ```
 
 #### 範例三
@@ -78,7 +78,7 @@ DEFINE birthday DATE
 LET birthday = '2021.08.22'
 DISPLAY birthday
 
-=>> 2021/08/222
+=>> 2021/08/22
 ```
 
 {% hint style="danger" %}
