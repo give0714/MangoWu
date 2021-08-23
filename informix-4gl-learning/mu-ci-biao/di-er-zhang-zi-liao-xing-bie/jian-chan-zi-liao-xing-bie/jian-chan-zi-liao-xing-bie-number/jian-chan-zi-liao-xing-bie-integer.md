@@ -18,6 +18,9 @@ description: Informix-4GL 資料型別說明_Number 資料型態
 DEFINE i INTEGER
 ...
 LET i = 1
+DISPLAY i
+
+=>> 1
 ```
 
 {% hint style="danger" %}
