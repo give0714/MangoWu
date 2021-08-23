@@ -85,6 +85,16 @@ LET birthday = '2021-08-22'
 =>> 2021-08-22
 ```
 
+#### 範例二
+
+```objectivec
+DEFINE birthday DATETIME HOUR TO SECOND
+...
+LET birthday = '12:30:01'
+
+=>> 12:30:01
+```
+
 {% hint style="danger" %}
 前往【 城市芒果留言區 】  
 如有建議芒果改進的地方，請前往芒果留言區留言  
