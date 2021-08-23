@@ -24,7 +24,10 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
     </tr>
     <tr>
       <td style="text-align:left">&#x683C;&#x5F0F;</td>
-      <td style="text-align:left">yyyymmdd</td>
+      <td style="text-align:left">
+        <p>yyyy-mm-dd || yyyy/mm/dd || yyyy.mm.dd</p>
+        <p>yy-mm-dd || yy/mm/dd || yy.mm.dd</p>
+      </td>
     </tr>
     <tr>
       <td style="text-align:left">&#x8AAA;&#x660E;</td>
