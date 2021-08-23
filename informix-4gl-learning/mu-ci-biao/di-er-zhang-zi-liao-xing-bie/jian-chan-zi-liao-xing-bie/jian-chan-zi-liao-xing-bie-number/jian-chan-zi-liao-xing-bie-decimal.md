@@ -88,7 +88,7 @@ DISPLAY unitPrice
 說明 : unitPrice 為有 7 個數字個數，內含 4 個整數個數、 3 個小數點數值的浮點數
 
 {% hint style="danger" %}
-前往【 城市芒果留言區 】  
+前往【 [城市芒果留言區](https://give0714.pixnet.net/blog/post/46110625-informix-4gl-%E7%B0%A1%E5%96%AE%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5%E3%80%8A-numeric-data-%E3%80%8B%28-%E5%9B%9B-%29) 】  
 如有建議芒果改進的地方，請前往芒果留言區留言  
 使芒果與你們一起成長進步
 {% endhint %}
