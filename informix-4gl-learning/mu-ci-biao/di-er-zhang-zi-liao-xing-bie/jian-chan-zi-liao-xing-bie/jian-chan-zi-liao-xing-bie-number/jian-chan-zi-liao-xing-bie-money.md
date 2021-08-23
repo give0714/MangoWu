@@ -21,6 +21,7 @@ description: Informix-4GL 資料型別說明_Number 資料型態
 DEFINE unitPrice MONEY
 ...
 LET unitPrice = 1048.145
+DISPLAY unitPrice
 
 =>> $ 1048.14
 ```
@@ -33,6 +34,7 @@ LET unitPrice = 1048.145
 DEFINE unitPrice MONEY( 6 )
 ...
 LET unitPrice = 11.0114
+DISPLAY unitPrice
 
 =>> $ 11.01
 ```
@@ -45,6 +47,7 @@ LET unitPrice = 11.0114
 DEFINE unitPrice MONEY( 6, 2 )
 ...
 LET unitPrice = 4211.01
+DISPLAY unitPrice
 
 =>> $ 4211.01
 ```

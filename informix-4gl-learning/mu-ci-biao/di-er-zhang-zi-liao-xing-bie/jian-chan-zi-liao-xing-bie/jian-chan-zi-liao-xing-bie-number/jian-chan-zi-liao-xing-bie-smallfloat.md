@@ -42,8 +42,9 @@ description: Informix-4GL 資料型別說明_Number 資料型態
 DEFINE sf SMALLFLOAT
 ...
 LET sf = 11.01
+DISPLAY sf
 
-=>> $ 11.01
+=>> 11.01
 ```
 
 #### 範例二
@@ -52,8 +53,9 @@ LET sf = 11.01
 DEFINE sf SMALLFLOAT
 ...
 LET sf = 89.4128
+DISPLAY sf
 
-=>> $ 89.41
+=>> 89.41
 ```
 
 {% hint style="warning" %}

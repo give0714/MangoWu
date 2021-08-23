@@ -19,8 +19,9 @@ description: Informix-4GL 資料型別說明_Number 資料型態
 DEFINE f FLOAT
 ...
 LET f = 11.0214
+DISPLAY f
 
-=>> $ 11.02
+=>> 11.02
 ```
 
 {% hint style="warning" %}

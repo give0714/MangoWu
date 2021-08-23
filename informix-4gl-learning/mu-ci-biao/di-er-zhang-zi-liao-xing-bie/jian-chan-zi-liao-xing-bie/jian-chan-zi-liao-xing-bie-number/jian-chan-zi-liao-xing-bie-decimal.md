@@ -54,6 +54,7 @@ description: Informix-4GL 資料型別說明_Number 資料型態
 DEFINE unitPrice DECIMAL
 ...
 LET unitPrice = 1048.14
+DISPLAY unitPrice
 
 =>> 1048.14
 ```
@@ -66,6 +67,7 @@ LET unitPrice = 1048.14
 DEFINE unitPrice DECIMAL( 9 )
 ...
 LET unitPrice = 8791211.14
+DISPLAY unitPrice
 
 =>> 8791211.14
 ```
@@ -78,6 +80,7 @@ LET unitPrice = 8791211.14
 DEFINE unitPrice DECIMAL( 7, 3 )
 ...
 LET unitPrice = 4211.012
+DISPLAY unitPrice
 
 =>> 4211.012
 ```
