@@ -53,7 +53,7 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
 ```objectivec
 DEFINE birthday DATE
 ...
-LET birthday = '20210822'
+LET birthday = '2021/08/22'
 ```
 
 {% hint style="danger" %}
