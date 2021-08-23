@@ -6,11 +6,35 @@ description: Informix-4GL 資料型別說明_Number 資料型態
 
 #### 說明
 
-|  |  |
-| :--- | :--- |
-| 語法 | SMALLFLOAT |
-| 資料長度 | 4 byte |
-| 說明 | 相當為 C 語言的 FLOAT 資料型別 |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x8A9E;&#x6CD5;</td>
+      <td style="text-align:left">SMALLFLOAT</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x8CC7;&#x6599;&#x9577;&#x5EA6;</td>
+      <td style="text-align:left">4 byte</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x5225;&#x540D;</td>
+      <td style="text-align:left">
+        <p>1.&#x55AE;&#x7CBE;&#x6E96;&#x6D6E;&#x9EDE;&#x6578;</p>
+        <p>2.&#x5BE6;&#x6578; &lt; REAL &gt;</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x8AAA;&#x660E;</td>
+      <td style="text-align:left">&#x76F8;&#x7576;&#x70BA; C &#x8A9E;&#x8A00;&#x7684; FLOAT &#x8CC7;&#x6599;&#x578B;&#x5225;</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 範例一
 
