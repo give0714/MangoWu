@@ -51,9 +51,9 @@ LET sf = 11.01
 ```objectivec
 DEFINE sf SMALLFLOAT
 ...
-LET sf = 
+LET sf = 89.4128
 
-=>> $ 11.01
+=>> $ 89.41
 ```
 
 {% hint style="warning" %}
