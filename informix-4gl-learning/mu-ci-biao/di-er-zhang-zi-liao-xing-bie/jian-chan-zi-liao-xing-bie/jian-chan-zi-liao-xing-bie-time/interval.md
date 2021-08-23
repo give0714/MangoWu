@@ -6,13 +6,41 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
 
 #### 說明
 
-|  |  |
-| :--- | :--- |
-| 語法 | INTERVAL \( dateTime \) largestTime\(m\) TO smallestTime\(n\) |
-| 群組一 | YEAR 、 MONTH |
-| 群組二 | DAY 、 HOUR 、 MINUTE 、 SECOND 、FRACTION |
-| 使用方法 | 用於計算 DATE 、DATETIME 、 INTERVAL 的時間間距，可按任何順序排列，結果為正值或負值的 INTERVAL 資料型別 |
-| 說明 | 同時只能使用其中一群組 |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:left"></th>
+      <th style="text-align:left"></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:left">&#x8A9E;&#x6CD5;</td>
+      <td style="text-align:left">INTERVAL largestTime(m) TO smallestTime(n)</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x7FA4;&#x7D44;&#x4E00;</td>
+      <td style="text-align:left">YEAR &#x3001; MONTH</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x7FA4;&#x7D44;&#x4E8C;</td>
+      <td style="text-align:left">DAY &#x3001; HOUR &#x3001; MINUTE &#x3001; SECOND &#x3001;FRACTION</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x4F7F;&#x7528;&#x65B9;&#x6CD5;</td>
+      <td style="text-align:left">
+        <p>&#x7528;&#x65BC;&#x8A08;&#x7B97; DATE &#x3001;DATETIME &#x3001; INTERVAL
+          &#x7684;&#x6642;&#x9593;&#x9593;&#x8DDD;&#xFF0C;&#x53EF;&#x6309;&#x4EFB;&#x4F55;&#x9806;&#x5E8F;&#x6392;&#x5217;</p>
+        <p>&#x8A08;&#x7B97;&#x7D50;&#x679C;&#x70BA;&#x6B63;&#x503C;&#x6216;&#x8CA0;&#x503C;&#x7684;
+          INTERVAL &#x8CC7;&#x6599;&#x578B;&#x5225;</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">&#x8AAA;&#x660E;</td>
+      <td style="text-align:left">&#x540C;&#x6642;&#x53EA;&#x80FD;&#x4F7F;&#x7528;&#x5176;&#x4E2D;&#x4E00;&#x7FA4;&#x7D44;</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 範例一
 
