@@ -40,7 +40,7 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
     </tr>
     <tr>
       <td style="text-align:left">&#x683C;&#x5F0F;</td>
-      <td style="text-align:left">yyyy/mm/dd hh:mm:ss.fffff</td>
+      <td style="text-align:left">yyyy/mm/dd hh:mm:ss.fffff ( n )</td>
     </tr>
     <tr>
       <td style="text-align:left">&#x8AAA;&#x660E;</td>
@@ -68,9 +68,11 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
 #### 範例一
 
 ```objectivec
-DEFINE birthday DATETIME
+DEFINE birthday DATETIME YEAR TO FRACTION
 ...
 LET birthday = '2021-08-22 12:01:00.00001'
+
+=>> 2021-08-22 12:01:00.00001
 ```
 
 {% hint style="danger" %}
