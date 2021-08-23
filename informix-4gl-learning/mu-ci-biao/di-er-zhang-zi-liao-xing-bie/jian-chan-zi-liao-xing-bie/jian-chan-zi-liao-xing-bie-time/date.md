@@ -54,6 +54,7 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
 DEFINE birthday DATE
 ...
 LET birthday = '2021/08/22'
+DISPLAY birthday
 
 =>> 2021/08/222
 ```
@@ -64,6 +65,7 @@ LET birthday = '2021/08/22'
 DEFINE birthday DATE
 ...
 LET birthday = '2021-08-22'
+DISPLAY birthday
 
 =>> 2021/08/222
 ```
@@ -74,6 +76,7 @@ LET birthday = '2021-08-22'
 DEFINE birthday DATE
 ...
 LET birthday = '2021.08.22'
+DISPLAY birthday
 
 =>> 2021/08/222
 ```
