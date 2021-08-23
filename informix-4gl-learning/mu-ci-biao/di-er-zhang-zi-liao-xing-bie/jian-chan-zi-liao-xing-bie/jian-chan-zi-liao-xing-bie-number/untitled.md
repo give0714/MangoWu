@@ -18,7 +18,9 @@ description: Informix-4GL 資料型別說明_Number 資料型態
 ```objectivec
 DEFINE f FLOAT
 ...
-LET f = 11.0014
+LET f = 11.0214
+
+=>> $ 11.02
 ```
 
 {% hint style="warning" %}
