@@ -71,6 +71,7 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
 DEFINE birthday DATETIME YEAR TO FRACTION
 ...
 LET birthday = '2021-08-22 12:01:00.00001'
+DISPLAY birthday
 
 =>> 2021-08-22 12:01:00.00001
 ```
@@ -81,6 +82,7 @@ LET birthday = '2021-08-22 12:01:00.00001'
 DEFINE birthday DATETIME YEAR TO DAY
 ...
 LET birthday = '2021-08-22'
+DISPLAY birthday
 
 =>> 2021-08-22
 ```
@@ -91,6 +93,7 @@ LET birthday = '2021-08-22'
 DEFINE birthday DATETIME HOUR TO SECOND
 ...
 LET birthday = '12:30:01'
+DISPLAY birthday
 
 =>> 12:30:01
 ```
