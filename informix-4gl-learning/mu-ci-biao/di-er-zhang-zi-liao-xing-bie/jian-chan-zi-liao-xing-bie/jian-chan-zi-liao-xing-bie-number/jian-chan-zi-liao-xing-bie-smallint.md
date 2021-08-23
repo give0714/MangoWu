@@ -18,6 +18,9 @@ description: Informix-4GL 資料型別說明_Number 資料型態
 DEFINE si SMALLINT
 ...
 LET si = 1
+DISPLAY si
+
+=>> 1
 ```
 
 {% hint style="danger" %}
