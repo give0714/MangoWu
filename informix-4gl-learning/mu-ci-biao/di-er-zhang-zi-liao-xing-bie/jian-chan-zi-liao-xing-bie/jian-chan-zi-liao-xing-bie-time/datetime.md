@@ -27,6 +27,18 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
       <td style="text-align:left">4 byte</td>
     </tr>
     <tr>
+      <td style="text-align:left">&#x7BC4;&#x570D;</td>
+      <td style="text-align:left">
+        <p>YEAR 0001 ~9999</p>
+        <p>MONTH 01 ~ 12</p>
+        <p>DAY 01 ~ 31</p>
+        <p>HOUR 01 ~ 24</p>
+        <p>MINUTE 00 ~ 59</p>
+        <p>SECOND 00~59</p>
+        <p>FRACTION 00000 ~ 99999</p>
+      </td>
+    </tr>
+    <tr>
       <td style="text-align:left">&#x683C;&#x5F0F;</td>
       <td style="text-align:left">yyyy/mm/dd hh:mm:ss.fffff</td>
     </tr>
