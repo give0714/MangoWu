@@ -48,12 +48,14 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
   </tbody>
 </table>
 
-#### 範例
+#### 範例一
 
 ```objectivec
 DEFINE birthday DATE
 ...
 LET birthday = '2021/08/22'
+
+=>> 2021/08/222
 ```
 
 {% hint style="danger" %}
