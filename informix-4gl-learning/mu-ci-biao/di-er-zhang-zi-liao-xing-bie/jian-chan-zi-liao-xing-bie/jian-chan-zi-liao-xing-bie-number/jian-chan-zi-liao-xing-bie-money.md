@@ -20,9 +20,9 @@ description: Informix-4GL 資料型別說明_Number 資料型態
 ```objectivec
 DEFINE unitPrice MONEY
 ...
-LET unitPrice = 1048.14
+LET unitPrice = 1048.145
 
-=>> $
+=>> $ 1048.14
 ```
 
 說明 : unitPrice 為預設 16 個數字個數的浮點數，內含 2 個小數點數值的浮點數
@@ -32,9 +32,9 @@ LET unitPrice = 1048.14
 ```objectivec
 DEFINE unitPrice MONEY( 6 )
 ...
-LET unitPrice = 11.0014
+LET unitPrice = 11.0114
 
-=>> $
+=>> $ 11.01
 ```
 
 說明 : unitPrice 為有6個數字個數的浮點數
@@ -46,7 +46,7 @@ DEFINE unitPrice MONEY( 6, 2 )
 ...
 LET unitPrice = 4211.01
 
-=>> $4211.01
+=>> $ 4211.01
 ```
 
 說明 : unitPrice 為有6個數字個數，內含4個整數個數、2個小數點數值的浮點數
