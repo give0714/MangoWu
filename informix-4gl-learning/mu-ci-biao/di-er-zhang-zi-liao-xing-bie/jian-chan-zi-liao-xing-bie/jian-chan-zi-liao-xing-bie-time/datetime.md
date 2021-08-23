@@ -80,9 +80,9 @@ LET birthday = '2021-08-22 12:01:00.00001'
 ```objectivec
 DEFINE birthday DATETIME YEAR TO DAY
 ...
-LET birthday = '2021-08-22 12:01:00.00001'
+LET birthday = '2021-08-22'
 
-=>> 2021-08-22 12:01:00.00001
+=>> 2021-08-22
 ```
 
 {% hint style="danger" %}
