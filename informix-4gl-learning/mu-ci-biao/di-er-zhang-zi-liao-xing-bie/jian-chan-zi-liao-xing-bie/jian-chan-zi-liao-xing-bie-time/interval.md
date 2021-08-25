@@ -94,27 +94,7 @@ DISPLAY timeInterval
 
 ### 二、DATE 運算範例
 
-### 三、組合運算
-
-#### 範例三
-
-```objectivec
-DATETIME (2000-8-1) YEAR TO DAY
-+ INTERVAL (3-5) YEAR TO MONTH
-
-=>> DATETIME (2004-01-01) YEAR TO DAY
-```
-
-#### 範例四
-
-```objectivec
-EXTEND (DATETIME (2008-8-1) YEAR TO DAY, YEAR TO MINUTE)
-   - INTERVAL (720) MINUTE(3) TO MINUTE
-
-=>> DATETIME (2008-07-31 12:00) YEAR TO MINUTE
-```
-
-#### 範例五
+#### 範例一
 
 ```objectivec
 (DATE ('5/2/2007') - DATE ('4/6/1968')) UNITS DAY
@@ -122,7 +102,15 @@ EXTEND (DATETIME (2008-8-1) YEAR TO DAY, YEAR TO MINUTE)
 =>> INTERVAL (12810) DAY(5) TO DAY
 ```
 
-#### 範例六
+#### 範例二
+
+```objectivec
+(DATE ('5/2/2007') - DATE ('4/6/1968')) UNITS DAY
+
+=>> INTERVAL (12810) DAY(5) TO DAY
+```
+
+#### 範例三
 
 ```objectivec
 EXTEND (DATE ('5/2/2007'), YEAR TO MONTH) - DATE ('4/6/1969')
@@ -130,7 +118,9 @@ EXTEND (DATE ('5/2/2007'), YEAR TO MONTH) - DATE ('4/6/1969')
 =>> INTERVAL (39-01) YEAR TO MONTH
 ```
 
-#### 範例七
+### 三、INTERVAL 運算範例
+
+#### 範例一
 
 ```objectivec
 INTERVAL (100:30.0005) MINUTE(3) TO FRACTION(4)
@@ -139,12 +129,32 @@ INTERVAL (100:30.0005) MINUTE(3) TO FRACTION(4)
 =>> INTERVAL (98:29.9905) MINUTE TO FRACTION(4)
 ```
 
-#### 範例八
+#### 範例二
 
 ```objectivec
 INTERVAL (15:30.0002) MINUTE TO FRACTION(4) * 2.5
 
 =>> INTERVAL (38:45.0005) MINUTE TO FRACTION(4)
+```
+
+### 四、組合運算
+
+#### 範例一
+
+```objectivec
+DATETIME (2000-8-1) YEAR TO DAY
++ INTERVAL (3-5) YEAR TO MONTH
+
+=>> DATETIME (2004-01-01) YEAR TO DAY
+```
+
+#### 範例二
+
+```objectivec
+EXTEND (DATETIME (2008-8-1) YEAR TO DAY, YEAR TO MINUTE)
+   - INTERVAL (720) MINUTE(3) TO MINUTE
+
+=>> DATETIME (2008-07-31 12:00) YEAR TO MINUTE
 ```
 
 說明：從加減 DATE 、 DATETIME 、 INTERVAL 資料型別的變數，按任何順序排列，可得到結果正值或負值的 INTERVAL 資料型別的變數
