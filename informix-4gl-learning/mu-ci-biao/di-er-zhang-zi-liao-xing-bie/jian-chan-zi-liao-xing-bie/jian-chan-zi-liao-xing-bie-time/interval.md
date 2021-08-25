@@ -45,7 +45,7 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">&#x8AAA;&#x660E;</td>
+      <td style="text-align:left">&#x6CE8;&#x610F;&#x4E8B;&#x9805;</td>
       <td style="text-align:left">&#x53EA;&#x80FD;&#x540C;&#x6642;&#x904B;&#x7528;&#x4E0A;&#x8FF0;&#x5176;&#x4E2D;&#x4E00;&#x7FA4;&#x7D44;</td>
     </tr>
   </tbody>
