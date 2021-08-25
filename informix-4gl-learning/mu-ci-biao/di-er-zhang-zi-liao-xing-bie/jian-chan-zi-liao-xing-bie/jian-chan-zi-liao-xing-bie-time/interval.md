@@ -119,9 +119,10 @@ DISPLAY timeInterval
 #### 範例三
 
 ```objectivec
-DEFINE timeInterval INTERVAL DAY TO DAY
+DEFINE timeInterval INTERVAL DAY(5) TO DAY
 ...
-(DATE ('5/2/2007') - DATE ('4/6/1968')) UNITS DAY
+LET timeInterval = (DATE ('2007/02/05') - DATE ('1968/06/04')) UNITS DAY
+DISPLAY timeInterval
 
 =>> INTERVAL (12810) DAY(5) TO DAY
 ```
@@ -139,7 +140,7 @@ EXTEND (DATE ('5/2/2007'), YEAR TO MONTH) - DATE ('4/6/1969')
 #### 範例一
 
 ```objectivec
-DEFINE timeInterval MINUTE TO FRACTION(4)
+DEFINE timeInterval INTERVAL MINUTE TO FRACTION(4)
 ...
 LET timeInterval = INTERVAL (100:30.0005) MINUTE(3) TO FRACTION(4)
                  - INTERVAL (120.01) SECOND(3) TO FRACTION
@@ -151,7 +152,7 @@ DISPLAY timeInterval
 #### 範例二
 
 ```objectivec
-DEFINE timeInterval MINUTE TO FRACTION(4)
+DEFINE timeInterval INTERVAL MINUTE TO FRACTION(4)
 ...
 LET timeInterval = INTERVAL (15:30.0002) MINUTE TO FRACTION(4) * 2.5
 DISPLAY timeInterval
@@ -164,10 +165,13 @@ DISPLAY timeInterval
 #### 範例一
 
 ```objectivec
-DATETIME (2000-8-1) YEAR TO DAY
-+ INTERVAL (3-5) YEAR TO MONTH
+DEFINE timeInterval DATETIME YEAR TO DAY
+...
+LET timeInterval = DATETIME (2000-8-1) YEAR TO DAY
+                 + INTERVAL (3-5) YEAR TO MONTH
+DISPLAY timeInterval
 
-=>> DATETIME (2004-01-01) YEAR TO DAY
+=>> 2004-01-01
 ```
 
 #### 範例二
