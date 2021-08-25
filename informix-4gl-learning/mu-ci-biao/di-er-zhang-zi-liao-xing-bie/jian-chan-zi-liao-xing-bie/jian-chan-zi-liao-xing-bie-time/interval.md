@@ -141,6 +141,7 @@ DEFINE timeInterval MINUTE TO FRACTION(4)
 ...
 LET timeInterval = INTERVAL (100:30.0005) MINUTE(3) TO FRACTION(4)
                  - INTERVAL (120.01) SECOND(3) TO FRACTION
+DISPLAY timeInterval
 
 =>> 98:29.9905
 ```
@@ -148,9 +149,12 @@ LET timeInterval = INTERVAL (100:30.0005) MINUTE(3) TO FRACTION(4)
 #### 範例二
 
 ```objectivec
-INTERVAL (15:30.0002) MINUTE TO FRACTION(4) * 2.5
+DEFINE timeInterval MINUTE TO FRACTION(4)
+...
+LET timeInterval = INTERVAL (15:30.0002) MINUTE TO FRACTION(4) * 2.5
+DISPLAY timeInterval
 
-=>> INTERVAL (38:45.0005) MINUTE TO FRACTION(4)
+=>> 38:45.0005
 ```
 
 ### 四、組合運算
