@@ -35,7 +35,8 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
       <td style="text-align:left">DAY &#x3001; HOUR &#x3001; MINUTE &#x3001; SECOND &#x3001;FRACTION</td>
     </tr>
     <tr>
-      <td style="text-align:left">&#x4F7F;&#x7528;&#x65B9;&#x6CD5;</td>
+      <td style="text-align:left">&#x4F7F;&#x7528;
+        <br />&#x65B9;&#x6CD5;</td>
       <td style="text-align:left">
         <p>&#x7528;&#x65BC;&#x8A08;&#x7B97; DATE &#x3001;DATETIME &#x3001; INTERVAL
           &#x7684;&#x6642;&#x9593;&#x9593;&#x8DDD;&#xFF0C;&#x53EF;&#x6309;&#x4EFB;&#x4F55;&#x9806;&#x5E8F;&#x6392;&#x5217;</p>
