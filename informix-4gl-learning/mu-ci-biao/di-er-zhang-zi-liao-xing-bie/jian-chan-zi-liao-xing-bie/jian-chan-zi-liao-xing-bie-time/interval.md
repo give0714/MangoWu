@@ -119,6 +119,8 @@ DISPLAY timeInterval
 #### 範例三
 
 ```objectivec
+DEFINE timeInterval INTERVAL DAY TO DAY
+...
 (DATE ('5/2/2007') - DATE ('4/6/1968')) UNITS DAY
 
 =>> INTERVAL (12810) DAY(5) TO DAY
