@@ -45,24 +45,35 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
 #### 範例一
 
 ```objectivec
-DEFINE timeInterval DATETIME YEAR TO MONTH
+DEFINE timeInterval INTERVAL YEAR TO MONTH
 ...
-timeInterval = DATETIME (2003-9) YEAR TO MONTH
-             - DATETIME (2003-8) YEAR TO MONTH
+LET timeInterval = DATETIME (2003-9) YEAR TO MONTH
+                 - DATETIME (2003-8) YEAR TO MONTH
 DISPLAY timeInterval
 
-=>> INTERVAL (1) YEAR TO MONTH
+=>> 1
 ```
 
-#### 範例二
+#### 範例二之一
 
 ```objectivec
-DEFINE birthday DATETIME YEAR TO MONTH
+DEFINE timeInterval INTERVAL YEAR TO MONTH
 ...
-DATETIME (2005-9-30) YEAR TO DAY
-- DATETIME (2005-10-1) MONTH TO DAY
+LET timeInterval = DATETIME (2005-09) YEAR TO MONTH
+                 - DATETIME (2005-10) YEAR TO MONTH
 
-=>> INTERVAL (-1) DAY TO DAY
+=>> -1
+```
+
+#### 範例二之二
+
+```objectivec
+DEFINE timeInterval INTERVAL YEAR TO MONTH
+...
+LET timeInterval = DATETIME (2005-10 YEAR TO MONTH
+                 - DATETIME (2005-09) YEAR TO MONTH
+
+=>> 1
 ```
 
 #### 範例三
