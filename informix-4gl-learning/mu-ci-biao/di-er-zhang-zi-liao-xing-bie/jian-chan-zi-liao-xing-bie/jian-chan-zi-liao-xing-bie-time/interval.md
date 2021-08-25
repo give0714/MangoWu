@@ -70,7 +70,7 @@ LET timeInterval = DATETIME (2005-09) YEAR TO MONTH
 ```objectivec
 DEFINE timeInterval INTERVAL YEAR TO MONTH
 ...
-LET timeInterval = DATETIME (2005-10 YEAR TO MONTH
+LET timeInterval = DATETIME (2005-10) YEAR TO MONTH
                  - DATETIME (2005-09) YEAR TO MONTH
 
 =>> 1
