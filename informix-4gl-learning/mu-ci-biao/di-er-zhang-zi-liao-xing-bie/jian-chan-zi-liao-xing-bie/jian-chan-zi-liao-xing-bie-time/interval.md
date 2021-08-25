@@ -42,7 +42,7 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
   </tbody>
 </table>
 
-#### 範例一
+#### 範例一之一
 
 ```objectivec
 DEFINE timeInterval INTERVAL YEAR TO MONTH
@@ -54,7 +54,7 @@ DISPLAY timeInterval
 =>> 1
 ```
 
-#### 範例二之一
+#### 範例一之一
 
 ```objectivec
 DEFINE timeInterval INTERVAL YEAR TO MONTH
@@ -65,13 +65,13 @@ LET timeInterval = DATETIME (2005-09) YEAR TO MONTH
 =>> -1
 ```
 
-#### 範例二之二
+#### 範例二之一
 
 ```objectivec
-DEFINE timeInterval INTERVAL YEAR TO MONTH
+DEFINE timeInterval INTERVAL DAY TO SECOND
 ...
-LET timeInterval = DATETIME (2005-10) YEAR TO MONTH
-                 - DATETIME (2005-09) YEAR TO MONTH
+LET timeInterval = DATETIME (23 12:00:00) DAY TO SECOND
+                 - DATETIME (14 12:30:00) DAY TO SECOND
 
 =>> 1
 ```
