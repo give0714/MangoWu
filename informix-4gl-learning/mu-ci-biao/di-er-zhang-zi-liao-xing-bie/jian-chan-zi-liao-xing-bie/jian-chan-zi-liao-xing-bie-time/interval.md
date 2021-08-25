@@ -61,6 +61,7 @@ DEFINE timeInterval INTERVAL YEAR TO MONTH
 ...
 LET timeInterval = DATETIME (2005-09) YEAR TO MONTH
                  - DATETIME (2005-10) YEAR TO MONTH
+DISPLAY timeInterval
 
 =>> -1
 ```
@@ -72,8 +73,9 @@ DEFINE timeInterval INTERVAL DAY TO SECOND
 ...
 LET timeInterval = DATETIME (23 12:00:00) DAY TO SECOND
                  - DATETIME (14 12:30:00) DAY TO SECOND
+DISPLAY timeInterval
 
-=>> 1
+=>> 823:30:00
 ```
 
 #### 範例三
