@@ -42,6 +42,8 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
   </tbody>
 </table>
 
+### 一、DATETIME 運算範例
+
 #### 範例一之一
 
 ```objectivec
@@ -89,6 +91,10 @@ DISPLAY timeInterval
 
 =>> -30:00
 ```
+
+### 二、DATE 運算範例
+
+### 三、組合運算
 
 #### 範例三
 
