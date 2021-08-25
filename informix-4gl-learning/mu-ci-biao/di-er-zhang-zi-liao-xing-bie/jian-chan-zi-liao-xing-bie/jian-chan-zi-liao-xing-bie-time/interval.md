@@ -75,7 +75,7 @@ LET timeInterval = DATETIME (23 12:00:00) DAY TO SECOND
                  - DATETIME (14 12:30:00) DAY TO SECOND
 DISPLAY timeInterval
 
-=>> 823:30:00
+=>> 8 23:30:00
 ```
 
 #### 範例三
