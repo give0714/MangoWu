@@ -19,6 +19,14 @@ description: Informix-4GL 資料型別說明_TIME 資料型態
       <td style="text-align:left">INTERVAL largestTime(m) TO smallestTime(n)</td>
     </tr>
     <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">m : &#x8A2D;&#x5B9A;&#x8D77;&#x59CB;&#x8A08;&#x7B97;&#x6642;&#x9593;&#x7684;&#x4F4D;&#x6578;</td>
+    </tr>
+    <tr>
+      <td style="text-align:left"></td>
+      <td style="text-align:left">n : &#x8A2D;&#x5B9A;&#x7D50;&#x675F;&#x8A08;&#x7B97;&#x6642;&#x9593;&#x7684;&#x4F4D;&#x6578;</td>
+    </tr>
+    <tr>
       <td style="text-align:left">&#x7FA4;&#x7D44;&#x4E00;</td>
       <td style="text-align:left">YEAR &#x3001; MONTH</td>
     </tr>
@@ -124,7 +132,7 @@ DEFINE timeInterval INTERVAL DAY(5) TO DAY
 LET timeInterval = (DATE ('2007/02/05') - DATE ('1968/06/04')) UNITS DAY
 DISPLAY timeInterval
 
-=>> INTERVAL (12810) DAY(5) TO DAY
+=>> 12810
 ```
 
 #### 範例四
