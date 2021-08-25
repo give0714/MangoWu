@@ -195,8 +195,6 @@ DISPLAY timeInterval
 =>> 2008-07-31 12:00
 ```
 
-說明：從加減 DATE 、 DATETIME 、 INTERVAL 資料型別的變數，按任何順序排列，可得到結果正值或負值的 INTERVAL 資料型別的變數
-
 參考來源 : [IBM](https://www.ibm.com/docs/en/informix-servers/14.10?topic=bidt-time-data-types)
 
 {% hint style="danger" %}
