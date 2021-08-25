@@ -78,6 +78,18 @@ DISPLAY timeInterval
 =>> 8 23:30:00
 ```
 
+#### 範例二之二
+
+```objectivec
+DEFINE timeInterval INTERVAL DAY TO SECOND
+...
+LET timeInterval = DATETIME (22 12:00:00) DAY TO SECOND
+                 - DATETIME (22 12:30:00) DAY TO SECOND
+DISPLAY timeInterval
+
+=>> -00:30:00
+```
+
 #### 範例三
 
 ```objectivec
