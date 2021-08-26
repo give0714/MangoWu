@@ -108,7 +108,8 @@ DISPLAY timeInterval
 ```objectivec
 DEFINE timeInterval INTERVAL YEAR TO YEAR
 ...
-LET timeInterval = DATE ('2007-02-05') - DATE ('1968-06-04')
+LET timeInterval = EXTEND ( DATE ('2007-02-05'), YEAR TO YEAR )
+                 - DATE ('1968-06-04')
 DISPLAY timeInterval 
 
 =>> 39
@@ -119,7 +120,8 @@ DISPLAY timeInterval
 ```objectivec
 DEFINE timeInterval INTERVAL MONTH TO MONTH
 ...
-LET timeInterval = DATE ('2007-02-05') - DATE ('2007-06-04')
+LET timeInterval = EXTEND ( DATE ('2007-02-05'), MONTH TO MONTH )
+                 - DATE ('2007-06-04')
 DISPLAY timeInterval 
 
 =>> -4
