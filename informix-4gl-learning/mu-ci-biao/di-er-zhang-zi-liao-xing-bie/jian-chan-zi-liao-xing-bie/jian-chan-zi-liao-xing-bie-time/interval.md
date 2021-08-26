@@ -62,7 +62,7 @@ LET timeInterval = DATETIME (2003-9) YEAR TO MONTH
                  - DATETIME (2003-8) YEAR TO MONTH
 DISPLAY timeInterval
 
-=>> 1
+=>> 0-01
 ```
 
 #### 範例一之一
