@@ -65,7 +65,7 @@ DISPLAY timeInterval
 =>> 0-01
 ```
 
-#### 範例一之一
+#### 範例一之二
 
 ```objectivec
 DEFINE timeInterval INTERVAL YEAR TO MONTH
@@ -74,7 +74,7 @@ LET timeInterval = DATETIME (2005-09) YEAR TO MONTH
                  - DATETIME (2005-10) YEAR TO MONTH
 DISPLAY timeInterval
 
-=>> -1
+=>> -0-01
 ```
 
 #### 範例二之一
