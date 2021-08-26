@@ -98,7 +98,7 @@ LET timeInterval = DATETIME (22 12:00:00) DAY TO SECOND
                  - DATETIME (22 12:30:00) DAY TO SECOND
 DISPLAY timeInterval
 
-=>> -30:00
+=>> -0 00:30:00
 ```
 
 ### 二、DATE 運算範例
