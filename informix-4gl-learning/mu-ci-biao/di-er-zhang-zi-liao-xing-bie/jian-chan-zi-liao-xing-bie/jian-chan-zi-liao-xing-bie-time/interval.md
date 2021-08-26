@@ -132,18 +132,22 @@ DISPLAY timeInterval
 ```objectivec
 DEFINE timeInterval INTERVAL DAY(5) TO DAY
 ...
-LET timeInterval = (DATE ('2007/02/05') - DATE ('1968/06/04')) UNITS DAY
+LET timeInterval = ( DATE ('2007/02/05') - DATE ('1968/06/04') ) UNITS DAY
 DISPLAY timeInterval
 
-=>> 12810
+=>> 14125
 ```
 
 #### 範例四
 
 ```objectivec
-EXTEND (DATE ('5/2/2007'), YEAR TO MONTH) - DATE ('4/6/1969')
+DEFINE timeInterval INTERVAL YEAR TO MONTH
+...
+LET timeInterval = EXTEND ( DATE ('2007-02-05'), YEAR TO MONTH )
+                 - DATE ('1969-06-04')
+DISPLAY timeInterval
 
-=>> INTERVAL (39-01) YEAR TO MONTH
+=>> 37-08
 ```
 
 ### 三、INTERVAL 運算範例
