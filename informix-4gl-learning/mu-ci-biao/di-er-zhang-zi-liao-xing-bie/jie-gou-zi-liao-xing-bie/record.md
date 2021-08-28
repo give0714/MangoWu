@@ -19,6 +19,7 @@ DEFINE recordName RECORD
        variableName1 datatype
     [, variableName2 datatype
      , ...                    ]
+END RECORD
 ```
 
 宣告一個紀錄，內含一個含以上的變數
