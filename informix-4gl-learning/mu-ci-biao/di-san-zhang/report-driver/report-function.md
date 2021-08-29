@@ -46,7 +46,8 @@ END REPORT
 說明
 
 * DEFINE Section：定義 reportName 所使用到的報表變數 使用時機 1. ON EVERY ROW 所產生的報表，每筆的紀錄值均需傳遞至此時 2. ORDER BY 的變數值時 3. AFTER GROUP OF 的變數值時
-* OUTPUT Section：
+* OUTPUT Section：用法如同 START REPORT 敘述的設定相關頁面格式及輸出檔案方式等資訊，系統會以 START REPORT 敘述設定為主
+* ORDER BY：
 {% endhint %}
 
 {% hint style="danger" %}
