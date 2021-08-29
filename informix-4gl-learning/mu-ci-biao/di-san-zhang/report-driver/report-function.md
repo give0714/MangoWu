@@ -53,6 +53,8 @@ END REPORT
 * BEFORE GROUP OF variableName：設定在開始 variableName 的 GROUP 前，所要完成的動作，需先將 variableName 排序過 使用限制： 1. 不能使用 SKIP num LINES 於迴圈內 2. 不能使用 NEED 3. 使用 IF 敘述時，THEN 的列數需與 ELSE 的列數一致 4. 在 CASE 敘述、 FOR 敘述、 WHILE 敘述使用 PRINT 時，每一 PRINT 的結束皆使用 5. 不能使用 PRINT FILE
 * ON EVERY ROW：設定每一筆 INPUT RECORD 的動作及報表顯示方式
 * AFTER GROUP OF variableName：設定在結束 variableName 的 GROUP 後，所要完成的動作，需先將 variableName 排序過 執行時機： 1. variableName 值改變時 2. 更高階的 GROUP 的值改變時 3. 最後一筆被輸出，但在執行 PAGE TRAILER 及 ON LAST ROW 時
+* PAGE TRAILER：設定報表每一頁表底資訊
+* ON LAST ROW：設定 input record 最後一筆後的動作
 {% endhint %}
 
 {% hint style="danger" %}
