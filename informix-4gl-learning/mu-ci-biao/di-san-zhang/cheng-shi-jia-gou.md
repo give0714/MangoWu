@@ -18,15 +18,31 @@ DEFINE programVariableName datatype
 MAIN
     DEFINE mainVariableName datatype
     ...
-    CALL functionName( mainVariableName )
+    CALL functionName1( mainVariableName )
     RETURNING programVariableName
+    ...
+    CALL functionName2( )
+    RETURNING programVariableName
+    ...
+    CALL functionName3( )
     ...    
 END MAIN
 
-FUNCTION functionName( functionVariableName )
+FUNCTION functionName1( functionVariableName )
          DEFINE functionVariableName datatype
          ...
          RETURN functionVariableName
+END FUNCTION
+
+FUNCTION functionName2( )
+         DEFINE functionVariableName datatype
+         ...
+         RETURN functionVariableName
+END FUNCTION
+
+FUNCTION functionName3( )
+         DEFINE functionVariableName datatype
+         ...
 END FUNCTION
 
 REPORT reportName( )
