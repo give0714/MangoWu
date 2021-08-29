@@ -28,7 +28,7 @@ FUNCTION functionName( { transferVariableName1
 END FUNCTION
 ```
 
-{% hint style="danger" %}
+{% hint style="info" %}
 建置中
 {% endhint %}
 

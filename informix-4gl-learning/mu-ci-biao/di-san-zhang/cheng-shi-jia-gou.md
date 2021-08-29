@@ -35,7 +35,7 @@ REPORT reportName( )
 END REPORT
 ```
 
-{% hint style="warning" %}
+{% hint style="info" %}
 說明
 
 * DATABASE：定義程式資料，欲參考的資料庫名稱
