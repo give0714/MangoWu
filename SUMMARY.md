@@ -54,7 +54,7 @@
       * [OUTPUT TO REPORT](informix-4gl-learning/mu-ci-biao/di-san-zhang/report-driver/output-to-report.md)
       * [FINISH REPORT](informix-4gl-learning/mu-ci-biao/di-san-zhang/report-driver/finish-report.md)
       * [REPORT FUNCTION](informix-4gl-learning/mu-ci-biao/di-san-zhang/report-driver/report-function.md)
-      * [FORMAT Setion](informix-4gl-learning/mu-ci-biao/di-san-zhang/report-driver/format-setion-zhi-ling.md)
+      * [REPORT FORMAT Setion](informix-4gl-learning/mu-ci-biao/di-san-zhang/report-driver/format-setion-zhi-ling.md)
     * [邏輯判斷敘述](informix-4gl-learning/mu-ci-biao/di-san-zhang/luo-ji-pan-duan-xu-shu/README.md)
       * [IF](informix-4gl-learning/mu-ci-biao/di-san-zhang/luo-ji-pan-duan-xu-shu/if-xu-shu.md)
       * [FOR](informix-4gl-learning/mu-ci-biao/di-san-zhang/luo-ji-pan-duan-xu-shu/for-xu-shu.md)

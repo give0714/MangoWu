@@ -2,7 +2,7 @@
 description: Informix-4GL 報表架構說明《五》
 ---
 
-# FORMAT Setion
+# REPORT FORMAT Setion
 
 {% hint style="danger" %}
 建置中
