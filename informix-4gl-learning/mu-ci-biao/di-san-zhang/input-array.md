@@ -1,8 +1,8 @@
 ---
-description: Informix-4GL INPUT 敘述說明
+description: Informix-4GL INPUT ARRAY 敘述說明
 ---
 
-# INPUT 敘述
+# INPUT ARRAY
 
 {% hint style="danger" %}
 建置中
