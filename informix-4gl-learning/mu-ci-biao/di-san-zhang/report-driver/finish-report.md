@@ -4,6 +4,8 @@ description: Informix-4GL 報表架構說明《三》
 
 # FINISH REPORT
 
+## 語法
+
 ```objectivec
 FINISH REPORT reportName
 ```

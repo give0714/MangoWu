@@ -4,6 +4,8 @@ description: Informix-4GL 報表架構說明《二》
 
 # OUTPUT TO REPORT
 
+## 語法
+
 ```objectivec
 OUTPUT TO REPORT reportName ( 4GL 運算式 [, ... ] )
 ```

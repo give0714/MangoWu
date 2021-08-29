@@ -4,6 +4,8 @@ description: Informix-4GL 報表架構說明《一》
 
 # START REPORT
 
+## 語法
+
 ```objectivec
 START REPORT reportName
     [ TO ( SCREEN / PRINTER / [ FILE ] fileName ) ]
