@@ -45,7 +45,7 @@ END REPORT
 {% hint style="info" %}
 說明
 
-* DEFINE Section：定義 reportName 所使用到的報表變數 使用時機 ON EVERY ROW 所產生的報表，每筆的紀錄值均需傳遞至此時 ORDER BY 的變數值時 AFTER GROUP OF 的變數值時
+* DEFINE Section：定義 reportName 所使用到的報表變數 使用時機 1. ON EVERY ROW 所產生的報表，每筆的紀錄值均需傳遞至此時 2. ORDER BY 的變數值時 3. AFTER GROUP OF 的變數值時
 * OUTPUT Section：
 {% endhint %}
 
