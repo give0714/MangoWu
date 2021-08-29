@@ -4,6 +4,30 @@ description: Informix-4GL 函數架構說明
 
 # FUNCTION
 
+## 呼叫函數
+
+```objectivec
+CALL functionName( { transferVariableName1 
+                  {, transferVariableName2
+                   , ... }} )
+   [ RETURNING returnVariableName1 
+            {, returnVariableName2
+             , ... } ]
+```
+
+## 執行函數
+
+```objectivec
+FUNCTION functionName( { transferVariableName1
+                      {, transferVariableName2
+                       , ... }} )
+         ...
+       [ RETURN returnVariableName1
+             {, returnVariableName2
+              , ... } ]
+END FUNCTION
+```
+
 {% hint style="danger" %}
 建置中
 {% endhint %}
