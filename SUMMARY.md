@@ -47,7 +47,7 @@
     * [其他資料型別](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/qi-ta-zi-liao-xing-bie/README.md)
       * [SERIAL](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/qi-ta-zi-liao-xing-bie/serial.md)
   * [第三章 程式架構](informix-4gl-learning/mu-ci-biao/di-san-zhang/README.md)
-    * [程式架構](informix-4gl-learning/mu-ci-biao/di-san-zhang/cheng-shi-jia-gou.md)
+    * [主要架構](informix-4gl-learning/mu-ci-biao/di-san-zhang/cheng-shi-jia-gou.md)
     * [FUNCTION](informix-4gl-learning/mu-ci-biao/di-san-zhang/function-han-shu-cheng-shi-jia-gou.md)
     * [REPORT DRIVER](informix-4gl-learning/mu-ci-biao/di-san-zhang/report-driver.md)
     * [REPORT](informix-4gl-learning/mu-ci-biao/di-san-zhang/report-function.md)

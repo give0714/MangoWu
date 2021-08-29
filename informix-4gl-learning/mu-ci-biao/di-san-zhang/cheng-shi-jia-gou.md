@@ -2,7 +2,7 @@
 description: Informix-4GL 程式架構說明
 ---
 
-# 程式架構
+# 主要架構
 
 ```objectivec
 DATABASE databaseName
