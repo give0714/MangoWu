@@ -45,12 +45,8 @@ END REPORT
 {% hint style="info" %}
 說明
 
-* PAGE LENGTH：設定每頁輸出總列數，預設為 66 列
-* TOP MARGIN：設定每頁上邊界，預設為 3 列
-* BOTTOM MARGIN：設定每頁下邊界，預設為 3 列
-* RIGTH MARGIN：設定每頁右邊界，預設為 132 字元
-* LEFT MARGIN：設定每頁左邊界，預設為 3 字元
-* TOP OF PAGE：設定每頁跳頁判別字元，以印表機預設為主
+* DEFINE Section：定義 reportName 所使用到的報表變數 使用時機 ON EVERY ROW 所產生的報表，每筆的紀錄值均需傳遞至此時 ORDER BY 的變數值時 AFTER GROUP OF 的變數值時
+* OUTPUT Section：
 {% endhint %}
 
 {% hint style="danger" %}
