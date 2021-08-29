@@ -4,8 +4,14 @@ description: Informix-4GL 報表架構說明《二》
 
 # OUTPUT TO REPORT
 
-{% hint style="danger" %}
-建置中
+```objectivec
+OUTPUT TO REPORT reportName ( 4GL 運算式)[, ...]
+```
+
+{% hint style="info" %}
+目的
+
+設定 reportName 頁面配置，指定報表輸出方式
 {% endhint %}
 
 {% hint style="danger" %}
