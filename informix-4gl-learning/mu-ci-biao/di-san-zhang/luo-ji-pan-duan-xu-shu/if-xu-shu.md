@@ -1,8 +1,8 @@
 ---
-description: Informix-4GL 程式邏輯敘述
+description: Informix-4GL 條件判斷敘述說明
 ---
 
-# 邏輯判斷敘述
+# IF 敘述
 
 {% hint style="danger" %}
 建置中

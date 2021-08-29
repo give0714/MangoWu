@@ -1,8 +1,8 @@
 ---
-description: Informix-4GL 報表程式架構說明
+description: Informix-4GL 報表架構說明
 ---
 
-# REPORT FUNCTION
+# REPORT
 
 {% hint style="danger" %}
 建置中
