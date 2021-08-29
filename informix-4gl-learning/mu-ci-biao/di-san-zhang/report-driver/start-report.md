@@ -9,15 +9,15 @@ description: Informix-4GL 報表架構說明《一》
 ```objectivec
 START REPORT reportName
     [ TO ( SCREEN / PRINTER / [ FILE ] fileName ) ]
-    / ( PIPE programName [ IN FORM / IN LINE ] [ MODE ] )
-    / OUTPUT ( variableName 
-               / "SCREEN" 
-               / "PRINTER" )
-               / ( ( variableName 
-                     / "FILE" 
-                     / "PIPE [ ( [ IN FORM / IN LINE ] ) MODE ]" )
-                     / ( DESTINATION "programName" 
-                         / "fileName" ) )        
+      / ( PIPE programName [ IN FORM / IN LINE ] [ MODE ] )
+      / OUTPUT ( variableName 
+                 / "SCREEN" 
+                 / "PRINTER" )
+                 / ( ( variableName 
+                       / "FILE" 
+                       / "PIPE [ ( [ IN FORM / IN LINE ] ) MODE ]" )
+                       / ( DESTINATION "programName" 
+                           / "fileName" ) )        
       [ WITH
              PAGE   LENGTH  [ = ] num
              TOP    MARGIN  [ = ] num
