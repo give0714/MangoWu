@@ -4,8 +4,14 @@ description: Informix-4GL 報表架構說明《三》
 
 # FINISH REPORT
 
-{% hint style="danger" %}
-建置中
+```objectivec
+FINISH REPORT reportName
+```
+
+{% hint style="info" %}
+目的
+
+結束 reportName
 {% endhint %}
 
 {% hint style="danger" %}
