@@ -23,13 +23,13 @@ MAIN
     ...    
 END MAIN
 
-FUNCTION functionName(functionVariableName)
+FUNCTION functionName( functionVariableName )
          DEFINE functionVariableName datatype
          ...
          RETURN functionVariableName
 END FUNCTION
 
-REPORT reportName()
+REPORT reportName( )
        DEFINE reportVariablieName datatype
        書寫方式請詳本章節..
 END REPORT
