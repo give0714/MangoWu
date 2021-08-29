@@ -2,7 +2,7 @@
 description: Informix-4GL INPUT 敘述說明
 ---
 
-# INPUT 敘述
+# INPUT
 
 {% hint style="danger" %}
 建置中

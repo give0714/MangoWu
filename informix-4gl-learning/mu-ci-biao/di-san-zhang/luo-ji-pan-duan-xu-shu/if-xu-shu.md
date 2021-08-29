@@ -2,7 +2,7 @@
 description: Informix-4GL 條件判斷敘述說明
 ---
 
-# IF 敘述
+# IF
 
 {% hint style="danger" %}
 建置中

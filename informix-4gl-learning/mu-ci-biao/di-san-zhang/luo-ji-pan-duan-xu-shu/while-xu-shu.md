@@ -2,7 +2,7 @@
 description: Informix-4GL 循環迴圈敘述說明
 ---
 
-# WHILE 敘述
+# WHILE
 
 {% hint style="danger" %}
 建置中

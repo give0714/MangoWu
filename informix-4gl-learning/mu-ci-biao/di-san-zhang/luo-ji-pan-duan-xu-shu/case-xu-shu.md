@@ -2,7 +2,7 @@
 description: Informix-4GL 條件選擇敘述說明
 ---
 
-# CASE 敘述
+# CASE
 
 {% hint style="danger" %}
 建置中

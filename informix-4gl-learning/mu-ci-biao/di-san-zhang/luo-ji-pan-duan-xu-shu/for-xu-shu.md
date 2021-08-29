@@ -2,7 +2,7 @@
 description: Informix-4GL 固定迴圈敘述說明
 ---
 
-# FOR 敘述
+# FOR
 
 {% hint style="danger" %}
 建置中

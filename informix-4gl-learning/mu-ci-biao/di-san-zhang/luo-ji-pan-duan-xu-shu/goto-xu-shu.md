@@ -2,7 +2,7 @@
 description: Informix-4GL 程式跳躍敘述說明
 ---
 
-# GOTO 敘述
+# GOTO
 
 {% hint style="danger" %}
 建置中
