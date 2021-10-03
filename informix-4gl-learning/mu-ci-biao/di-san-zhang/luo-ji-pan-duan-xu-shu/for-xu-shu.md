@@ -5,16 +5,19 @@ description: Informix-4GL 固定迴圈敘述說明
 # FOR
 
 ```objectivec
-FOR   ...
-[ ELSE 
-       ... ]
-END IF
+FOR variable = integerExpr TO integerExpr [ STEP integer ]
+    ...
+    [ CONTINUE FOR ]
+    ...
+    [ EXIT FOR ]
+    ...
+END FOR
 ```
 
 {% hint style="warning" %}
 備註
 
-booleanExpr  結果只能為  TRUE  或  FALSE  ，不能為  UNKNOW
+var
 {% endhint %}
 
 {% hint style="danger" %}
