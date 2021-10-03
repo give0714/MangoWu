@@ -41,17 +41,25 @@ PAUSE "String"
 ## 
 
 ```objectivec
-SSSss
+SKIP ( TO TOP OF PAGE / num ( LINE / LINES ))
 ```
 
 {% hint style="info" %}
 目的
 
-暫停輸出 REPORT 程式執行，並顯示提示訊息給使用者
+插入空白列或換行
 {% endhint %}
 
-{% hint style="danger" %}
-建置中
+## 
+
+```objectivec
+P
+```
+
+{% hint style="info" %}
+目的
+
+插入空白列或換行
 {% endhint %}
 
 {% hint style="danger" %}
