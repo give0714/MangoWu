@@ -62,13 +62,20 @@ PRINT
       [ mathStatement ( SPACE / SPACES ) ]
       [[ GROUP ] ( PERCENT(*)
                    / COUNT(*)
-                   / AVG( integerStatement / 區間)Statement
+                   / AVG( integerStatement / 區間 statement )
+                   / SUM( integerStatement / 區間 statement )
+                   / MAX( 4GL_Statement )
+                   / MIM( 4GL_Statement )                     )
+                 [ WHERE BOOLEAN statement ]                    ]
+      [ charStatement / charVariable [ WORDWRAP ][ RIGHT MARGIN num ] ]
+      [ FILE "fileName" ]
+                   
 ```
 
 {% hint style="info" %}
 目的
 
-插入空白列或換行
+設定輸出格式
 {% endhint %}
 
 {% hint style="danger" %}
