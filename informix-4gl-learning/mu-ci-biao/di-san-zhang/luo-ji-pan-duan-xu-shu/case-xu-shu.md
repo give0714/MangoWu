@@ -4,6 +4,23 @@ description: Informix-4GL 條件選擇敘述說明
 
 # CASE
 
+```objectivec
+CASE
+     WHEN selector = expression
+          ...
+          [ EXIT CASE ]
+     ...
+     OTHERWISE
+               ...
+END CASE
+```
+
+{% hint style="warning" %}
+備註
+
+selector = expression 結果只能為
+{% endhint %}
+
 {% hint style="danger" %}
 建置中
 {% endhint %}
