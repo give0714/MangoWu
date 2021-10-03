@@ -4,6 +4,19 @@ description: Informix-4GL 固定迴圈敘述說明
 
 # FOR
 
+```objectivec
+FOR   ...
+[ ELSE 
+       ... ]
+END IF
+```
+
+{% hint style="warning" %}
+備註
+
+booleanExpr  結果只能為  TRUE  或  FALSE  ，不能為  UNKNOW
+{% endhint %}
+
 {% hint style="danger" %}
 建置中
 {% endhint %}
