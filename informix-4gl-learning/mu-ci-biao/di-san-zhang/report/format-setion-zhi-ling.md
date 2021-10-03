@@ -53,7 +53,14 @@ SKIP ( TO TOP OF PAGE / num ( LINE / LINES ))
 ## 
 
 ```objectivec
-P
+PRINT
+      [ 4GL_Statement ]
+      [ COLUMN num ]
+      [ PAGENO ]
+      [ LINENO ]
+      [ BYTE variable ]
+      [ mathStatement ( SPACE / SPACES ) ]
+      [GROUP]
 ```
 
 {% hint style="info" %}
