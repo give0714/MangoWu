@@ -40,6 +40,16 @@ PAUSE "String"
 
 ## 
 
+```objectivec
+SSSss
+```
+
+{% hint style="info" %}
+目的
+
+暫停輸出 REPORT 程式執行，並顯示提示訊息給使用者
+{% endhint %}
+
 {% hint style="danger" %}
 建置中
 {% endhint %}
