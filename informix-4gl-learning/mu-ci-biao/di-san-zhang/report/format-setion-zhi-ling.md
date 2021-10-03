@@ -60,7 +60,9 @@ PRINT
       [ LINENO ]
       [ BYTE variable ]
       [ mathStatement ( SPACE / SPACES ) ]
-      [GROUP]
+      [[ GROUP ] ( PERCENT(*)
+                   / COUNT(*)
+                   / AVG( integerStatement / 區間)Statement
 ```
 
 {% hint style="info" %}
