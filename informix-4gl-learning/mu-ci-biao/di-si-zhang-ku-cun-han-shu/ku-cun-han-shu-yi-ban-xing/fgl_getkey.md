@@ -4,16 +4,8 @@ description: Informix-4GL 庫存函數_一般型使用說明
 
 # FGL_GETKEY( )
 
-## 語法
-
-```
-FGL_GETKEY( )
-```
-
-{% hint style="info" %}
-目的：
-
-傳回所按下的按鍵編號，為一整數值。
+{% hint style="danger" %}
+建置中
 {% endhint %}
 
 {% hint style="danger" %}
