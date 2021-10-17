@@ -4,8 +4,24 @@ description: Informix-4GL 庫存函數_一般型使用說明
 
 # ARR_COUNT( )
 
-{% hint style="danger" %}
-建置中
+## 語法
+
+```
+ARR_COUNT( )
+```
+
+{% hint style="info" %}
+目的：
+
+傳回程式陣列的所有列總數量。
+{% endhint %}
+
+{% hint style="info" %}
+說明：
+
+用於傳回 INPUT ARRAY 敘述或使用者輸入的列數量。
+
+可搭配 ARR_COUNT( ) 和 SCR_LINE( ) 使用。
 {% endhint %}
 
 {% hint style="danger" %}

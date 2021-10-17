@@ -55,7 +55,7 @@ DISPLAY "程式名稱為 ", f_a
 {% hint style="info" %}
 目的：
 
-可在編寫執行程式之名稱後面加上欲傳入的值，並傳回 CHAR 的命令列參數
+可在編寫執行程式之名稱後面加上欲傳入的值，並傳回 CHAR 的命令列參數。
 {% endhint %}
 
 {% hint style="info" %}

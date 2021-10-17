@@ -23,30 +23,22 @@ ARG_VAL( NUM_ARGS( ) )
 // 傳入兩個參數
 DEFINE f_a                  CHAR(20)
 
-LET f_a = ARG_VAL(1)
-DISPLAY "命令列第一個傳入的資料為 ", f_a
+LET f_a = NUM_AGES( )
+DISPLAY "命令列共傳入 ", f_a USING "&", "筆資料"
 
-LET f_a = ARG_VAL(2)
-DISPLAY "命令列第二個傳入的資料為 ", f_a
-
-LET f_a = ARG_VAL(0)
-DISPLAY "程式名稱為 ", f_a
-
-=>> 命令列第一個傳入的資料為 ABC
-=>> 命令列第二個傳入的資料為 XYZ
-=>> 程式名稱為 XXX
+=>> 命令列共傳入 2 筆資料
 ```
 
 {% hint style="info" %}
 目的：
 
-傳回命令列之傳入的參數總數量
+傳回命令列之傳入的參數總數量。
 {% endhint %}
 
 {% hint style="info" %}
 說明：
 
-需搭配 ARG_VAL( ) 使用
+需搭配 ARG_VAL( ) 使用。
 {% endhint %}
 
 {% hint style="danger" %}
