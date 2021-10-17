@@ -1,5 +1,5 @@
 ---
-description: Informix-4GL 一般式庫存函數種類
+description: Informix-4GL 一般式庫存函數_使用說明
 ---
 
 # ARG_VAL( )
