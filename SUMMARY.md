@@ -66,7 +66,7 @@
   * [第四章 庫存函數](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu.md)
     * [庫存函數\_一般型](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/README.md)
       * [ARG_VAL( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/arg_val.md)
-      * [NUM_CURR( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/num_curr.md)
+      * [NUM_ARGS( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/num_args.md)
       * [ARR_CURR( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/arr_curr.md)
       * [ARR_COUNT( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/arr_count.md)
       * [SCR_LINE( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/scr_line.md)
