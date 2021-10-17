@@ -4,10 +4,10 @@ description: Informix-4GL 庫存函數_一般型使用說明
 
 # ARG_VAL( )
 
-## 語法AGE
+## 語法
 
 ```
-AAA
+AGE_VAL( num )
 ```
 
 ### 範例一
