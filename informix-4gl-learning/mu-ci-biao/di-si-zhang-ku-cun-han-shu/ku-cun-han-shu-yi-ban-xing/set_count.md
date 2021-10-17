@@ -4,8 +4,24 @@ description: Informix-4GL 庫存函數_一般型使用說明
 
 # SET_COUNT( )
 
-{% hint style="danger" %}
-建置中
+## 語法
+
+```
+SET_COUNT( intExpr )
+```
+
+{% hint style="info" %}
+目的：
+
+設定陣列的資料總筆數。
+{% endhint %}
+
+{% hint style="info" %}
+說明：
+
+expr ：算術表示式。
+
+於 INPUT ARRAY WITHOUT DEFAULTS 敘述或 DISPLAY ARRAY 敘述前使用。
 {% endhint %}
 
 {% hint style="danger" %}

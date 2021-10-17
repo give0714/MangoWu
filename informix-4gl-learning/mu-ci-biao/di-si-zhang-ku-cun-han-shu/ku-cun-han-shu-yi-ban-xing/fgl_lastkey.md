@@ -4,8 +4,16 @@ description: Informix-4GL 庫存函數_一般型使用說明
 
 # FGL_LASTKEY( )
 
-{% hint style="danger" %}
-建置中
+## 語法
+
+```
+FGL_LASTKEY( )
+```
+
+{% hint style="info" %}
+目的：
+
+傳回最後一次按下的按鍵編號，為一整數值。
 {% endhint %}
 
 {% hint style="danger" %}

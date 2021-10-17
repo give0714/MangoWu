@@ -4,8 +4,16 @@ description: Informix-4GL 庫存函數_一般型使用說明
 
 # GET_FLDBUF( )
 
-{% hint style="danger" %}
-建置中
+## 語法
+
+```
+GET_FLDBUF( )
+```
+
+{% hint style="info" %}
+目的：
+
+傳回一個含以上的欄位資料，傳回值為字串。
 {% endhint %}
 
 {% hint style="danger" %}
