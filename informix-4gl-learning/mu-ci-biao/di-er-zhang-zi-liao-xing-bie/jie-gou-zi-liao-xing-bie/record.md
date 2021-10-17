@@ -27,14 +27,16 @@ END RECORD
 {% hint style="warning" %}
 ####  用法
 
-* 存取所有 RECORD variables recordName.\*
-* 存取指定範圍 RECORD variable recordName.beginVariable THRU recordName.endVariable
-* 存取單一 RECORD variable recordName.variableName
+* 存取所有 RECORD variables\
+  recordName.\*
+* 存取指定範圍 RECORD variable\
+  recordName.beginVariable THRU recordName.endVariable
+* 存取單一 RECORD variable\
+  recordName.variableName
 {% endhint %}
 
 {% hint style="danger" %}
-前往【 [城市芒果留言區](https://give0714.pixnet.net/blog/post/46468375-informix-4gl-%E7%B5%90%E6%A7%8B%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5%E3%80%8A-record-data-%E3%80%8B) 】  
-如有建議芒果改進的地方，請前往芒果留言區留言  
+前往【 [城市芒果留言區](https://give0714.pixnet.net/blog/post/46468375-informix-4gl-%E7%B5%90%E6%A7%8B%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5%E3%80%8A-record-data-%E3%80%8B) 】\
+如有建議芒果改進的地方，請前往芒果留言區留言\
 使芒果與你們一起成長進步
 {% endhint %}
-

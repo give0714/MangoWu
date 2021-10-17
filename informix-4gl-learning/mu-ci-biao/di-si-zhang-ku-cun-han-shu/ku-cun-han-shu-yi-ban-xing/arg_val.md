@@ -1,8 +1,8 @@
 ---
-description: Informix-4GL 一般式庫存函數_使用說明
+description: Informix-4GL 庫存函數_一般型使用說明
 ---
 
-# NUM_CURR( )
+# ARG_VAL( )
 
 {% hint style="danger" %}
 建置中

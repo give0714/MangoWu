@@ -64,12 +64,16 @@
     * [INPUT](informix-4gl-learning/mu-ci-biao/di-san-zhang/input-xu-shu.md)
     * [INPUT ARRAY](informix-4gl-learning/mu-ci-biao/di-san-zhang/input-array.md)
   * [第四章 庫存函數](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu.md)
-    * [一般式庫存函數](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/yi-ban-shi-ku-cun-han-shu/README.md)
-      * [ARG_VAL( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/yi-ban-shi-ku-cun-han-shu/arg_val.md)
-      * [NUM_CURR( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/yi-ban-shi-ku-cun-han-shu/num_curr.md)
-    * [算術式庫存函數](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/suan-shu-shi-ku-cun-han-shu.md)
-    * [錯誤式庫存函數](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/cuo-wu-shi-ku-cun-han-shu.md)
+    * [庫存函數\_一般型](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/README.md)
+      * [ARG_VAL( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/arg_val.md)
+      * [NUM_CURR( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/num_curr.md)
+    * [庫存函數\_算術型](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-suan-shu-xing.md)
+    * [庫存函數\_錯誤型](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-cuo-wu-xing.md)
   * [第五章 資料庫操作及授權](informix-4gl-learning/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan.md)
   * [第六章 資料操作及交易處理](informix-4gl-learning/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li.md)
   * [第七章 FORM 及 WINDOW](informix-4gl-learning/mu-ci-biao/di-qi-zhang-form-ji-window.md)
   * [範例頁面](informix-4gl-learning/mu-ci-biao/fan-li-ye-mian.md)
+
+***
+
+* [JAVA 章節一覽表](java-zhang-jie-yi-lan-biao.md)

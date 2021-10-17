@@ -1,8 +1,4 @@
----
-description: Informix-4GL 一般式庫存函數_使用說明
----
-
-# ARG_VAL( )
+# JAVA 章節一覽表
 
 {% hint style="danger" %}
 建置中
