@@ -4,8 +4,22 @@ description: Informix-4GL 庫存函數_一般型使用說明
 
 # ASCII
 
-{% hint style="danger" %}
-建置中
+## 語法
+
+```
+ASCII intExpr
+```
+
+{% hint style="info" %}
+目的：
+
+顯示編號 intExpr 所代表的 ASCII 字元。
+{% endhint %}
+
+{% hint style="info" %}
+說明：
+
+intExpr ： 整數表示式，須為 ASCII 編碼表的字元。
 {% endhint %}
 
 {% hint style="danger" %}

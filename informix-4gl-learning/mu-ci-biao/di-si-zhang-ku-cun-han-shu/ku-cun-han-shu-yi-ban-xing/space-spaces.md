@@ -4,8 +4,22 @@ description: Informix-4GL 庫存函數_一般型使用說明
 
 # SPACE / SPACES
 
-{% hint style="danger" %}
-建置中
+## 語法一
+
+```
+expr SPACE
+```
+
+## 語法二
+
+```
+expr SPACES
+```
+
+{% hint style="info" %}
+目的：
+
+傳回空白。
 {% endhint %}
 
 {% hint style="danger" %}

@@ -4,8 +4,16 @@ description: Informix-4GL 庫存函數_一般型使用說明
 
 # ORD( )
 
-{% hint style="danger" %}
-建置中
+## 語法
+
+```
+ORD( charExpr )
+```
+
+{% hint style="info" %}
+目的：
+
+顯示 ASCII 之 charExpr 字元所代表之號碼。
 {% endhint %}
 
 {% hint style="danger" %}
