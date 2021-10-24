@@ -6,35 +6,11 @@ description: Informix-4GL 資料型別說明_Number 資料型態
 
 #### 說明
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">&#x8A9E;&#x6CD5;</td>
-      <td style="text-align:left">SMALLFLOAT</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&#x8CC7;&#x6599;&#x9577;&#x5EA6;</td>
-      <td style="text-align:left">4 byte</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&#x5225;&#x540D;</td>
-      <td style="text-align:left">
-        <p>1.&#x55AE;&#x7CBE;&#x6E96;&#x6D6E;&#x9EDE;&#x6578;</p>
-        <p>2.&#x5BE6;&#x6578; &lt; REAL &gt;</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&#x8AAA;&#x660E;</td>
-      <td style="text-align:left">&#x76F8;&#x7576;&#x70BA; C &#x8A9E;&#x8A00;&#x7684; FLOAT &#x8CC7;&#x6599;&#x578B;&#x5225;</td>
-    </tr>
-  </tbody>
-</table>
+| 語法   | SMALLFLOAT                               |
+| ---- | ---------------------------------------- |
+| 資料長度 | 4 byte                                   |
+| 別名   | <p>1.單精準浮點數</p><p>2.實數 &#x3C; REAL ></p> |
+| 說明   | 相當為 C 語言的 FLOAT 資料型別                     |
 
 #### 範例一
 
@@ -63,8 +39,7 @@ DISPLAY sf
 {% endhint %}
 
 {% hint style="danger" %}
-前往【 [城市芒果留言區](https://give0714.pixnet.net/blog/post/46111225-informix-4gl-%E7%B0%A1%E5%96%AE%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5%E3%80%8A-numeric-data-%E3%80%8B%28-%E4%BA%94-%29) 】  
-如有建議芒果改進的地方，請前往芒果留言區留言  
+前往【 [城市芒果留言區](https://give0714.pixnet.net/blog/post/46111225-informix-4gl-%E7%B0%A1%E5%96%AE%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5%E3%80%8A-numeric-data-%E3%80%8B\(-%E4%BA%94-\)) 】\
+如有建議芒果改進的地方，請前往芒果留言區留言\
 使芒果與你們一起成長進步
 {% endhint %}
-

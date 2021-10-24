@@ -6,47 +6,12 @@ description: Informix-4GL 資料型別說明_Number 資料型態
 
 #### 說明
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">&#x8A9E;&#x6CD5;</td>
-      <td style="text-align:left">DECIMAL ( precision [, scale ] )</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">precision : &#x6240;&#x6709;&#x6578;&#x5B57;&#x500B;&#x6578;&#xFF0C;&#x4E0D;&#x542B;&#x5C0F;&#x6578;&#x9EDE;&#xFF0C;&#x9810;&#x8A2D;&#x70BA;
-        16</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">
-        <p>scale : &#x6240;&#x6709;&#x5C0F;&#x6578;&#x9EDE;&#x53F3;&#x908A;&#x7684;&#x6578;&#x5B57;&#x500B;&#x6578;</p>
-        <p>&#x9810;&#x8A2D;&#x7BC4;&#x570D; 10(-128) ~ 10(126)</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&#x8CC7;&#x6599;&#x9577;&#x5EA6;</td>
-      <td style="text-align:left">
-        <p>byte = ROUND ( precision / 2 + 1 )</p>
-        <p>1.DECIMAL ( precision )</p>
-        <p>1+ precision / 2 byte</p>
-        <p>2.DECIMAL ( precision [, scale ] )</p>
-        <p>scale &#x70BA;&#x5947;&#x6578; ( precision + 3 ) / 2 byte</p>
-        <p>scale &#x70BA;&#x5076;&#x6578; ( precision + 4 ) / 2 byte</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&#x8CC7;&#x6599;&#x7BC4;&#x570D;</td>
-      <td style="text-align:left">32&#x500B;&#x6578;&#x5B57;&#x500B;&#x6578;</td>
-    </tr>
-  </tbody>
-</table>
+| 語法   | DECIMAL ( precision \[, scale ] )                                                                                                                                                                                                               |
+| ---- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|      | precision : 所有數字個數，不含小數點，預設為 16                                                                                                                                                                                                                 |
+|      | <p>scale : 所有小數點右邊的數字個數</p><p>             預設範圍 10(-128) ~ 10(126)</p>                                                                                                                                                                          |
+| 資料長度 | <p>byte = ROUND ( precision / 2 + 1 )</p><p>1.DECIMAL ( precision )</p><p>    1+ precision / 2  byte</p><p>2.DECIMAL ( precision [, scale ] )</p><p>   scale 為奇數 ( precision + 3 ) / 2  byte</p><p>   scale 為偶數 ( precision + 4 ) / 2  byte</p> |
+| 資料範圍 | 32個數字個數                                                                                                                                                                                                                                         |
 
 #### 範例一
 
@@ -88,8 +53,7 @@ DISPLAY unitPrice
 說明 : unitPrice 為有 7 個數字個數，內含 4 個整數個數、 3 個小數點數值的浮點數
 
 {% hint style="danger" %}
-前往【 [城市芒果留言區](https://give0714.pixnet.net/blog/post/46110625-informix-4gl-%E7%B0%A1%E5%96%AE%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5%E3%80%8A-numeric-data-%E3%80%8B%28-%E5%9B%9B-%29) 】  
-如有建議芒果改進的地方，請前往芒果留言區留言  
+前往【 [城市芒果留言區](https://give0714.pixnet.net/blog/post/46110625-informix-4gl-%E7%B0%A1%E5%96%AE%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5%E3%80%8A-numeric-data-%E3%80%8B\(-%E5%9B%9B-\)) 】\
+如有建議芒果改進的地方，請前往芒果留言區留言\
 使芒果與你們一起成長進步
 {% endhint %}
-
