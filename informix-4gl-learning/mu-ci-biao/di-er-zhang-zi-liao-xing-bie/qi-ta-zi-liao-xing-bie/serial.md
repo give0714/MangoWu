@@ -6,41 +6,12 @@ description: Informix-4GL 資料型別說明_SERIAL 資料型態
 
 #### 說明
 
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"></th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left">&#x8A9E;&#x6CD5;</td>
-      <td style="text-align:left">SERIAL</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">SERIAL( n )</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&#x8CC7;&#x6599;&#x9577;&#x5EA6;</td>
-      <td style="text-align:left">4 byte</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&#x8CC7;&#x6599;&#x7BC4;&#x570D;</td>
-      <td style="text-align:left">1 ~ 2147483647</td>
-    </tr>
-    <tr>
-      <td style="text-align:left">&#x8AAA;&#x660E;</td>
-      <td style="text-align:left">
-        <p>1.&#x6BCF;&#x4E00;&#x8CC7;&#x6599;&#x8868;&#x53EA;&#x6709;&#x4E00;&#x500B;
-          SERIAL &#xFF0C;&#x8A2D;&#x5B9A;&#x5F8C;&#x7121;&#x6CD5;&#x6539;&#x8B8A;&#x5E8F;&#x865F;</p>
-        <p>2.&#x82E5;&#x5E8F;&#x865F;&#x88AB;&#x522A;&#x9664;&#xFF0C;&#x5247;&#x6B64;&#x522A;&#x9664;&#x5E8F;&#x865F;&#x865F;&#x78BC;&#x5C07;&#x7121;&#x6CD5;&#x88AB;&#x4F7F;&#x7528;</p>
-        <p>3.&#x65B0;&#x589E;&#x8CC7;&#x6599;&#x6642;&#xFF0C;&#x7CFB;&#x7D71;&#x6703;&#x81EA;&#x52D5;&#x7D2F;&#x52A0;&#x65B0;&#x589E;&#x865F;&#x78BC;</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| 語法   | SERIAL                                                                                       |
+| ---- | -------------------------------------------------------------------------------------------- |
+|      | SERIAL( n )                                                                                  |
+| 資料長度 | 4 byte                                                                                       |
+| 資料範圍 | 1 \~ 2147483647                                                                              |
+| 說明   | <p>1.每一資料表只有一個 SERIAL ，設定後無法改變序號</p><p>2.若序號被刪除，則此刪除序號號碼將無法被使用</p><p>3.新增資料時，系統會自動累加新增號碼</p> |
 
 #### 範例一
 
@@ -59,8 +30,7 @@ DEFINE employeeNum SERIAL(1001)
 說明： employeeNum 起始值為 1001 ，後續新增資料會以此累加 1
 
 {% hint style="danger" %}
-前往【 [城市芒果留言區](https://give0714.pixnet.net/blog/post/46469062-informix-4gl-%E5%85%B6%E4%BB%96%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5%E3%80%8A-serial-data-%E3%80%8B) 】  
-如有建議芒果改進的地方，請前往芒果留言區留言  
+前往【 [城市芒果留言區](https://give0714.pixnet.net/blog/post/46469062-informix-4gl-%E5%85%B6%E4%BB%96%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5%E3%80%8A-serial-data-%E3%80%8B) 】\
+如有建議芒果改進的地方，請前往芒果留言區留言\
 使芒果與你們一起成長進步
 {% endhint %}
-
