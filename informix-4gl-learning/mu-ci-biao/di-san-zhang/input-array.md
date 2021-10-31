@@ -78,13 +78,13 @@ END INPUT
 
     指定案件：ACCEPT KEY
 
-                      INTERRUPT KEY
+    &#x20;                 INTERRUPT KEY
 
-                      ENTER KEY / TAB KEY
+    &#x20;                 ENTER KEY / TAB KEY
 
-                      HOME KEY / END KEY
+    &#x20;                 HOME KEY / END KEY
 
-                      UP KEY / DOWN KEY / LEFT KEY / RIGTH KEY
+    &#x20;                 UP KEY / DOWN KEY / LEFT KEY / RIGTH KEY
 *   AFTER INSERT：
 
     觸發時機：當使用者新增一筆新資料進陣列後，將游標移動到下一個新的螢幕陣列前。
@@ -108,7 +108,7 @@ END INPUT
     2. 使用者按下 INTERRUP ，而結束 INPUT ARRAY 指令，但尚未結束。
     3. 使用者按下 QUIT ，而結束 INPUT ARRAY 指令，但尚未結束。
 
-    使用時機：搭配 GET_FLDBUF( ) 或 FIELD_TOUCHED( ) 去檢查、修改或儲存使用者輸入的值，會與 NEXT FIELD 敘述一起使用。
+    使用時機：搭配 GET\_FLDBUF( ) 或 FIELD\_TOUCHED( ) 去檢查、修改或儲存使用者輸入的值，會與 NEXT FIELD 敘述一起使用。
 * NEXT FIELD fieldName：迫使輸入點移動到螢幕欄位的 fieldName 。
 * NEXT FIELD NEXT：迫使輸入點從目前螢幕欄位移動到下一個螢幕欄位。
 * NEXT FIELD PREVIOUS：迫使輸入點從目前螢幕欄位移動到上一個螢幕欄位。

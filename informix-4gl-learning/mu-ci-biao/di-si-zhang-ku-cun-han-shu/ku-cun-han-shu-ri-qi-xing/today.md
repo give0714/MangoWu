@@ -4,8 +4,16 @@ description: Informix-4GL 庫存函數_日期型使用說明
 
 # TODAY
 
-{% hint style="danger" %}
-建置中
+## 語法
+
+```
+TODAY
+```
+
+{% hint style="info" %}
+目的：
+
+傳回當前日期。
 {% endhint %}
 
 {% hint style="danger" %}
