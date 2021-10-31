@@ -4,8 +4,16 @@ description: Informix-4GL 庫存函數_算術型使用說明
 
 # ABS( )
 
-{% hint style="danger" %}
-建置中
+## 語法
+
+```
+ABS( num )
+```
+
+{% hint style="info" %}
+目的：
+
+傳回 num 的絕對值數值。
 {% endhint %}
 
 {% hint style="danger" %}
