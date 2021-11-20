@@ -10,7 +10,7 @@ description: 2021-06-23_Company Learning
 
 {% tabs %}
 {% tab title="第一章" %}
-第一章變數
+第一章\_變數
 
 1. [宣告變數](di-yi-zhang-bian-shu/xuan-gao-bian-shu.md)&#x20;
 2. [命名規則](di-yi-zhang-bian-shu/untitled.md)
@@ -29,7 +29,7 @@ description: 2021-06-23_Company Learning
 {% endtab %}
 
 {% tab title="第二章" %}
-第二章資料型別
+第二章\_資料型別
 
 1. 簡單資料型別
    1. CHARACTER DATA
@@ -58,7 +58,7 @@ description: 2021-06-23_Company Learning
 {% endtab %}
 
 {% tab title="第三章" %}
-第三章程式架構
+第三章\_程式架構
 
 1. [主要架構](di-san-zhang/cheng-shi-jia-gou.md)
 2. [FUNCTION](di-san-zhang/function-han-shu-cheng-shi-jia-gou.md)
@@ -84,9 +84,39 @@ description: 2021-06-23_Company Learning
 {% endtab %}
 
 {% tab title="第四章" %}
-第四章庫存函數
+第四章\_庫存函數
 
-1.
+1. 一般型
+   1. [ARG\_VAL( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/arg\_val.md)
+   2. [NUM\_ARGS( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/num\_curr.md)
+   3. [SHOWHELP( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/showhelp.md)
+   4. [LENGTH( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/length.md)
+   5. [ASCII](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/ascii.md)
+   6. [ORD( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/ord.md)
+   7. [UPSHIFT( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/upshift.md)
+   8. [DOWNSHIFT( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/downshift.md)
+   9. [USING](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/using.md)
+   10. [CLIPPED](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/clipped.md)
+   11. [COLUMN](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/column.md)
+   12. [SPACE / SPACES](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/space-spaces.md)
+2. 陣列型
+   1. [SET\_COUNT( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-zhen-lie-xing/set\_count.md)
+   2. [ARR\_CURR( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-zhen-lie-xing/arr\_curr.md)
+   3. [SCR\_LINE( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-zhen-lie-xing/scr\_line.md)
+   4. [INFIELD( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-zhen-lie-xing/infield.md)
+   5. [GET\_FLDBUF( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-zhen-lie-xing/get\_fldbuf.md)
+   6. [FIELD\_TOUCHED( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-zhen-lie-xing/field\_touched.md)
+   7. [ARR\_COUNT( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-zhen-lie-xing/arr\_count.md)
+3. 按鍵型
+   1. [FGL\_GETKEY( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-an-jian-xing/fgl\_getkey.md)
+   2. [FGL\_LASTKEY( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-an-jian-xing/fgl\_lastkey.md)
+4. 日期型
+   1. [TODAY](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-ri-qi-xing/today.md)
+   2. [DATE( )](di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-ri-qi-xing/date.md)
+5. 算術型
+   1.
+6. 錯誤型
+   1.
 {% endtab %}
 
 {% tab title="第五章" %}
