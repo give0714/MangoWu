@@ -1,8 +1,8 @@
 ---
-description: Informix-4GL 範例頁面
+description: Informix-4GL 欄位操作
 ---
 
-# Page 1
+# Page 2
 
 {% hint style="danger" %}
 建置中

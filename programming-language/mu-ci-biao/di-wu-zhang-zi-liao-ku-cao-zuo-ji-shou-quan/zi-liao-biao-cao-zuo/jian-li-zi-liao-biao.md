@@ -1,8 +1,8 @@
 ---
-description: Informix-4GL 範例頁面
+description: Informix-4GL 資料表操作
 ---
 
-# Page 2
+# 建立資料表
 
 {% hint style="danger" %}
 建置中
