@@ -47,6 +47,5 @@ DISPLAY birthday
 
 {% hint style="danger" %}
 前往【 [城市芒果留言區](https://give0714.pixnet.net/blog/post/46112041-informix-4gl-%E7%B0%A1%E5%96%AE%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5%E3%80%8A-time-data-%E3%80%8B\(-%E4%BA%8C-\)) 】\
-如有建議芒果改進的地方，請前往芒果留言區留言\
-使芒果與你們一起成長進步
+如有需修改的地方，請前往芒果留言區留言
 {% endhint %}

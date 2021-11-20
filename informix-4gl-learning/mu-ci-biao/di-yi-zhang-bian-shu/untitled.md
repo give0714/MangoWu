@@ -14,7 +14,6 @@ description: Informix-4GL 變數的命名規則
 * 不能使用保留字
 
 {% hint style="danger" %}
-前往【 [城市芒果留言區](https://give0714.pixnet.net/blog/post/45993178-informix-4gl-%E5%91%BD%E5%90%8D%E8%A6%8F%E5%89%87) 】\
-如有建議芒果改進的地方，請前往芒果留言區留言\
-使芒果與你們一起成長進步
+前往【 [M@nGo 留言區](https://give0714.pixnet.net/blog/post/45993178-informix-4gl-%E5%91%BD%E5%90%8D%E8%A6%8F%E5%89%87) 】\
+如有需修改的地方，請前往芒果留言區留言
 {% endhint %}

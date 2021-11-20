@@ -45,6 +45,5 @@ WHENEVER [ ANY ] ERROR CALL functionName( )
 
 {% hint style="danger" %}
 前往【 [城市芒果留言區](https://give0714.pixnet.net/blog/post/46000348-informix-4gl-%E7%B3%BB%E7%B5%B1%E9%8C%AF%E8%AA%A4%E8%A8%AD%E5%AE%9A) 】\
-如有建議芒果改進的地方，請前往芒果留言區留言\
-使芒果與你們一起成長進步
+如有需修改的地方，請前往芒果留言區留言
 {% endhint %}
