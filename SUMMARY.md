@@ -1,12 +1,8 @@
 # Table of contents
 
-## M@nGo Learning Notes
-
-* [城市芒果流浪學習記](README.md)
-
 ## Programming Language
 
-* [INFORMIX-4GL](informix-4gl-learning/mu-ci-biao/README.md)
+* [INFORMIX-4GL](README.md)
   * [第一章 變數](informix-4gl-learning/mu-ci-biao/di-yi-zhang-bian-shu/README.md)
     * [宣告變數](informix-4gl-learning/mu-ci-biao/di-yi-zhang-bian-shu/xuan-gao-bian-shu.md)
     * [命名規則](informix-4gl-learning/mu-ci-biao/di-yi-zhang-bian-shu/untitled.md)
@@ -136,7 +132,6 @@
     * [Page 2](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/page-2.md)
   * [第六章 資料操作及交易處理](informix-4gl-learning/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li.md)
   * [第七章 FORM 及 WINDOW](informix-4gl-learning/mu-ci-biao/di-qi-zhang-form-ji-window.md)
-  * [範例頁面](informix-4gl-learning/mu-ci-biao/fan-li-ye-mian.md)
 * [JAVA](java-zhang-jie-yi-lan-biao.md)
 
 ## Spring Framework
@@ -146,3 +141,8 @@
 ## SQL Language
 
 * [MS SQL](sql-language/ms-sql.md)
+
+## M@nGo Learning Notes
+
+* [城市芒果流浪學習記](<README (1).md>)
+* [範例頁面](m-ngo-learning-notes/fan-li-ye-mian.md)

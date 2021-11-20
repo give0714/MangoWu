@@ -1,20 +1,16 @@
 ---
-description: 在快速變化的現代社會中，在夾縫中求學習，努力爬出社會底層的芒果
+description: 2021-06-23_Company Learning
 ---
 
-# 城市芒果流浪學習記
-
-## Informix-4GL
-
-2021-06-23\_Company Learning
+# INFORMIX-4GL
 
 {% hint style="warning" %}
 20210816\_持續撰寫中...
 {% endhint %}
 
 {% tabs %}
-{% tab title="一" %}
-第一章變數
+{% tab title="第一章" %}
+第一章\_變數
 
 1. [宣告變數](informix-4gl-learning/mu-ci-biao/di-yi-zhang-bian-shu/xuan-gao-bian-shu.md)&#x20;
 2. [命名規則](informix-4gl-learning/mu-ci-biao/di-yi-zhang-bian-shu/untitled.md)
@@ -32,8 +28,8 @@ description: 在快速變化的現代社會中，在夾縫中求學習，努力�
 7. [WHENEVER ERROR 系統錯誤設定](informix-4gl-learning/mu-ci-biao/di-yi-zhang-bian-shu/whenever-error-xi-tong-cuo-wu-she-ding.md)
 {% endtab %}
 
-{% tab title="二" %}
-第二章資料型別
+{% tab title="第二章" %}
+第二章\_資料型別
 
 1. 簡單資料型別
    1. CHARACTER DATA
@@ -61,8 +57,8 @@ description: 在快速變化的現代社會中，在夾縫中求學習，努力�
    1. [SERIAL](informix-4gl-learning/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/qi-ta-zi-liao-xing-bie/serial.md)
 {% endtab %}
 
-{% tab title="三" %}
-第三章程式架構
+{% tab title="第三章" %}
+第三章\_程式架構
 
 1. [主要架構](informix-4gl-learning/mu-ci-biao/di-san-zhang/cheng-shi-jia-gou.md)
 2. [FUNCTION](informix-4gl-learning/mu-ci-biao/di-san-zhang/function-han-shu-cheng-shi-jia-gou.md)
@@ -87,52 +83,74 @@ description: 在快速變化的現代社會中，在夾縫中求學習，努力�
 6. [INPUT ARRAY](informix-4gl-learning/mu-ci-biao/di-san-zhang/input-array.md)
 {% endtab %}
 
-{% tab title="四" %}
-第四章庫存函數
+{% tab title="第四章" %}
+第四章\_庫存函數
 
-1.
+1. 一般型
+   1. [ARG\_VAL( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/arg\_val.md)
+   2. [NUM\_ARGS( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/num\_curr.md)
+   3. [SHOWHELP( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/showhelp.md)
+   4. [LENGTH( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/length.md)
+   5. [ASCII](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/ascii.md)
+   6. [ORD( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/ord.md)
+   7. [UPSHIFT( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/upshift.md)
+   8. [DOWNSHIFT( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/downshift.md)
+   9. [USING](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/using.md)
+   10. [CLIPPED](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/clipped.md)
+   11. [COLUMN](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/column.md)
+   12. [SPACE / SPACES](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/space-spaces.md)
+2. 陣列型
+   1. [SET\_COUNT( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-zhen-lie-xing/set\_count.md)
+   2. [ARR\_CURR( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-zhen-lie-xing/arr\_curr.md)
+   3. [SCR\_LINE( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-zhen-lie-xing/scr\_line.md)
+   4. [INFIELD( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-zhen-lie-xing/infield.md)
+   5. [GET\_FLDBUF( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-zhen-lie-xing/get\_fldbuf.md)
+   6. [FIELD\_TOUCHED( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-zhen-lie-xing/field\_touched.md)
+   7. [ARR\_COUNT( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-zhen-lie-xing/arr\_count.md)
+3. 按鍵型
+   1. [FGL\_GETKEY( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-an-jian-xing/fgl\_getkey.md)
+   2. [FGL\_LASTKEY( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-an-jian-xing/fgl\_lastkey.md)
+4. 日期型
+   1. [TODAY](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-ri-qi-xing/today.md)
+   2. [DATE( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-ri-qi-xing/date.md)
+   3. [MDY( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-ri-qi-xing/mdy.md)
+   4. [YEAR( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-ri-qi-xing/year.md)
+   5. [MONTH( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-ri-qi-xing/month.md)
+   6. [DAY( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-ri-qi-xing/day.md)
+   7. [WEEKDAY( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-ri-qi-xing/weekday.md)
+   8. [TIME](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-ri-qi-xing/time.md)
+5. 算術型
+   1. [ABS( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-suan-shu-xing/abs.md)
+   2. [MOD( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-suan-shu-xing/mod.md)
+   3. [COUNT( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-suan-shu-xing/count.md)
+   4. [MAX( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-suan-shu-xing/max.md)
+   5. [SUM( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-suan-shu-xing/sum.md)
+   6. [AVG( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-suan-shu-xing/avg.md)
+   7. [RANGE( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-suan-shu-xing/range.md)
+6. 錯誤型
+   1. [STARTLOG( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/startlog.md)
+   2. [ERR\_PRINT( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-cuo-wu-xing/err\_print.md)
+   3. [ERR\_QUIT( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-cuo-wu-xing/err\_quit.md)
+   4. [ERR\_GET( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-cuo-wu-xing/err\_get.md)
+   5. [ERRORLOG( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-cuo-wu-xing/errorlog.md)
 {% endtab %}
 
-{% tab title="五" %}
+{% tab title="第五章" %}
 第五章\_
 
 1.
 {% endtab %}
 
-{% tab title="六" %}
+{% tab title="第六章" %}
 第六章\_
 
 1.
 {% endtab %}
 
-{% tab title="七" %}
+{% tab title="第七章" %}
 第七章\_
 
 1.
 {% endtab %}
 {% endtabs %}
-
-## JAVA
-
-2020-12-21\_Vocational training Learning
-
-{% hint style="danger" %}
-待新增...
-{% endhint %}
-
-## MS SQL
-
-2020-12-21\_Vocational training Learning
-
-{% hint style="danger" %}
-待新增...
-{% endhint %}
-
-## JavaScript
-
-2020-12-21\_Vocational training Learning
-
-{% hint style="danger" %}
-待新增...
-{% endhint %}
 
