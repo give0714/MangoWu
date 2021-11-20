@@ -4,8 +4,16 @@ description: Informix-4GL 庫存函數_算術型使用說明
 
 # MAX( )
 
-{% hint style="danger" %}
-建置中
+## 語法
+
+```
+MAX( [ DISTINCT / UNIQUE ] columnName )
+```
+
+{% hint style="info" %}
+目的：
+
+紀錄符合 SQL 條件的 columnName 欄位之資料最大值。
 {% endhint %}
 
 {% hint style="danger" %}

@@ -1,5 +1,5 @@
 ---
-description: Informix-4GL 庫存函數_一般型使用說明
+description: Informix-4GL 庫存函數_錯誤型使用說明
 ---
 
 # STARTLOG( )

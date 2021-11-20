@@ -4,8 +4,16 @@ description: Informix-4GL 庫存函數_算術型使用說明
 
 # AVG( )
 
-{% hint style="danger" %}
-建置中
+## 語法
+
+```
+AVG( [ DISTINCT / UNIQUE ] columnName )
+```
+
+{% hint style="info" %}
+目的：
+
+計算符合 SQL 條件的 columnName 欄位之資料平均值。
 {% endhint %}
 
 {% hint style="danger" %}

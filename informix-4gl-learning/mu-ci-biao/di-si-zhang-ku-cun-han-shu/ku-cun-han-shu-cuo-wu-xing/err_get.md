@@ -1,11 +1,21 @@
 ---
-description: Informix-4GL 庫存函數_算術型使用說明
+description: Informix-4GL 庫存函數_錯誤型使用說明
 ---
 
-# ERR_GET( )
+# ERR\_GET( )
 
-{% hint style="danger" %}
-建置中
+## 語法
+
+```
+ERR_GET( intExpr )
+```
+
+{% hint style="info" %}
+目的：
+
+取得當前 WINDOWS 錯誤訊息行【ERROR Line】的錯誤代碼。
+
+intExpr：為負整數，通常為狀態變數 status，也可放置 SQLCA.SQLCODE，可提高偵錯效率。
 {% endhint %}
 
 {% hint style="danger" %}
