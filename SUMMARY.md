@@ -54,7 +54,7 @@
       * [OUTPUT TO REPORT](informix-4gl-learning/mu-ci-biao/di-san-zhang/report/output-to-report.md)
       * [FINISH REPORT](informix-4gl-learning/mu-ci-biao/di-san-zhang/report/finish-report.md)
       * [REPORT FUNCTION](informix-4gl-learning/mu-ci-biao/di-san-zhang/report/report-function.md)
-      * [REPORT FORMAT Setion](programming-language/mu-ci-biao/di-san-zhang/report/format-setion-zhi-ling/README.md)
+      * [REPORT FORMAT Setion](informix-4gl-learning/mu-ci-biao/di-san-zhang/report/format-setion-zhi-ling.md)
         * [PRINT](programming-language/mu-ci-biao/di-san-zhang/report/format-setion-zhi-ling/print.md)
         * [NEED](programming-language/mu-ci-biao/di-san-zhang/report/format-setion-zhi-ling/need.md)
         * [SKIT](programming-language/mu-ci-biao/di-san-zhang/report/format-setion-zhi-ling/skit.md)
