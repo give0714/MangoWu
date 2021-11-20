@@ -1,5 +1,7 @@
 # Table of contents
 
+## M@nGo Learning Notes
+
 * [城市芒果流浪學習記](README.md)
 
 ## Programming Language
