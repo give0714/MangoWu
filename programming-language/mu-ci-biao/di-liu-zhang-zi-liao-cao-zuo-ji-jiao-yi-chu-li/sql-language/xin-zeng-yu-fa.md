@@ -6,7 +6,7 @@ description: Informix-4GL 資料操作_SQL Language
 
 ## 語法
 
-```
+```inform7
 INSERT INTO tableName [ columnName1 [, columnName2, ...]]
             VALUES( valueName1, [ valueName2, ...])
 ```
@@ -20,9 +20,13 @@ INSERT INTO tableName [ columnName1 [, columnName2, ...]]
 {% hint style="info" %}
 說明：
 
-IN dbspaceName：若省略不寫，該資料庫將會建立在 Informix Database Server 的 root dbspace 上。
+CHAR 或 DATE 資料型別的常數，需使用雙引號括住。
 
-WITH \[( BUFFERED / LOG MODE ANSI )] LOG ]：若省略不寫，則該資料庫就不會產生 log，後續將無法使用 Transaction 的語法。
+新增含 SERIAL 的行時，可設定非 NULL，但不可與表中所有列有相同行值，若設定為 0，系統會自動新增，若新增列中所有資料時，可省略或列出行名。
+
+可使用 WHERE ERROR CONTINUE 及 status，藉此判斷是否有重覆新增。
+
+可使用 IF，藉此判斷資料是否為 NULL。
 {% endhint %}
 
 {% hint style="danger" %}

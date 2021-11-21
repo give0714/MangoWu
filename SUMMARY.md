@@ -159,12 +159,14 @@
       * [CURSOR 使用方式](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/cursor-shi-yong-fang-shi.md)
       * [SCROLL CUESOR](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/scroll-cuesor.md)
       * [一般 CURSOR](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/yi-ban-cursor.md)
-    * [Transaction](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/transaction.md)
+      * [INSERT 操作](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/insert-cao-zuo.md)
+      * [UPDATE 操作](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/update-cao-zuo.md)
+    * [Transaction](programming-language/mu-ci-biao/di-qi-zhang-jiao-yi-chu-li.md)
     * [SQL ... END SQL](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/sql-...-end-sql/README.md)
       * [CONSTRUCT](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/sql-...-end-sql/construct.md)
     * [補充內容](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/bu-chong-nei-rong.md)
-  * [第七章 FORM 及 WINDOW](programming-language/mu-ci-biao/di-qi-zhang-form-ji-window/README.md)
-    * [Page 2](programming-language/mu-ci-biao/di-qi-zhang-form-ji-window/page-2.md)
+  * [第七章 FORM 及 WINDOW](informix-4gl-learning/mu-ci-biao/di-qi-zhang-form-ji-window.md)
+    * [Page 2](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/page-2.md)
 * [JAVA](java-zhang-jie-yi-lan-biao.md)
 
 ## Framework
@@ -177,5 +179,5 @@
 
 ## M@nGo Learning Notes
 
-* [城市芒果流浪學習記](<README (1).md>)
+* [M@nGo 芒果](<README (1).md>)
 * [範例頁面](m-ngo-learning-notes/fan-li-ye-mian.md)
