@@ -4,9 +4,11 @@ description: Informix-4GL 資料庫操作
 
 # 關閉資料庫
 
-{% hint style="danger" %}
-建置中
-{% endhint %}
+## 語法
+
+```
+CLOSE DATABASE databaseName
+```
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\

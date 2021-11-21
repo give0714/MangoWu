@@ -4,9 +4,11 @@ description: Informix-4GL 資料表操作
 
 # 修改資料表鎖定程度
 
-{% hint style="danger" %}
-建置中
-{% endhint %}
+## 語法
+
+```
+ALTER TABLE tableName LOCK MODE (( PAGE / ROW ))
+```
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\

@@ -136,7 +136,7 @@ description: 2021-06-23_Company Learning
 {% endtab %}
 
 {% tab title="第五章" %}
-第五章\_資料庫操作 及 授權
+第五章\_資料庫操作
 
 1.
 {% endtab %}

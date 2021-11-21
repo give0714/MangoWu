@@ -1,13 +1,14 @@
 ---
-description: Informix-4GL 資料庫操作
+description: Informix-4GL 欄位操作
 ---
 
-# 刪除資料庫
+# 新增欄位屬性
 
 ## 語法
 
 ```
-DROP DATABASE databaseName
+ALTER TABLE tableName ADD CONSTRAINT constraintName
+    ( columnName1, columnName2 [, ...])
 ```
 
 {% hint style="danger" %}

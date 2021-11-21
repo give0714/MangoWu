@@ -4,9 +4,11 @@ description: Informix-4GL 資料表操作
 
 # 異動資料表儲存空間
 
-{% hint style="danger" %}
-建置中
-{% endhint %}
+## 語法
+
+```
+ALTER TABLE tableName MODIFY NEXT SIZE n
+```
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\

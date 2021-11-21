@@ -4,9 +4,11 @@ description: Informix-4GL 資料表操作
 
 # 刪除資料表
 
-{% hint style="danger" %}
-建置中
-{% endhint %}
+## 語法
+
+```
+DROP TABLE tableName [ CASCADE / RESTRICT ]
+```
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\

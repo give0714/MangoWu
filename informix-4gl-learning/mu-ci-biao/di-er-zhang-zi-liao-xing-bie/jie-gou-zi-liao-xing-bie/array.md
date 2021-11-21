@@ -34,5 +34,3 @@ END RECORD
 【 [M@nGo 留言區](https://give0714.pixnet.net/blog/post/46468651-informix-4gl-%E7%B5%90%E6%A7%8B%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5%E3%80%8A-array-data-%E3%80%8B) 】\
 如有需修改的地方，請前往芒果留言區留言
 {% endhint %}
-
-**待建置陣列專用之庫存函數的章節**

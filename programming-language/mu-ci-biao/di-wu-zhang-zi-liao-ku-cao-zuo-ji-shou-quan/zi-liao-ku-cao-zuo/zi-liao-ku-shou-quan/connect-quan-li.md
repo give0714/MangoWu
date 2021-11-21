@@ -1,8 +1,8 @@
 ---
-description: Informix-4GL 授權操作_資料庫授權
+description: Informix-4GL 資料庫授權
 ---
 
-# DBA 權利
+# CONNECT 權利
 
 {% hint style="danger" %}
 建置中

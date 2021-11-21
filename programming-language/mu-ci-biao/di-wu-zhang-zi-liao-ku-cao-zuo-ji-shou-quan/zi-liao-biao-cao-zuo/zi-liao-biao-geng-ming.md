@@ -4,9 +4,11 @@ description: Informix-4GL 資料表操作
 
 # 資料表更名
 
-{% hint style="danger" %}
-建置中
-{% endhint %}
+## 語法
+
+```
+RENAME TABLE oldTableName TO newTableName
+```
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\

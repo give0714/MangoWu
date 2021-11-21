@@ -1,5 +1,5 @@
 ---
-description: Informix-4GL 授權操作_資料庫授權
+description: Informix-4GL 資料庫授權
 ---
 
 # RESOURCE 權利

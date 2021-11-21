@@ -1,8 +1,8 @@
 ---
-description: Informix-4GL 欄位操作
+description: Informix-4GL 資料庫授權
 ---
 
-# 欄位操作
+# DBA 權利
 
 {% hint style="danger" %}
 建置中

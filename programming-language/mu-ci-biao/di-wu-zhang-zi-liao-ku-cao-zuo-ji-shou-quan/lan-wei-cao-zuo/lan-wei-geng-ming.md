@@ -1,12 +1,14 @@
 ---
-description: Informix-4GL 資料表操作
+description: Informix-4GL 欄位操作
 ---
 
-# Page 1
+# 欄位更名
 
-{% hint style="danger" %}
-建置中
-{% endhint %}
+## 語法
+
+```
+RENAME COLUMN oldColumnName TO newColumnName
+```
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\

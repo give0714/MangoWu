@@ -1,8 +1,8 @@
 ---
-description: Informix-4GL 資料庫連結
+description: Informix-4GL 資料表操作_資料表授權
 ---
 
-# 資料庫連結
+# 資料表授權
 
 {% hint style="danger" %}
 建置中
