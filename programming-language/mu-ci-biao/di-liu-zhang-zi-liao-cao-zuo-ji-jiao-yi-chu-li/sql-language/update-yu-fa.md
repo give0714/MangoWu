@@ -2,13 +2,12 @@
 description: Informix-4GL 資料操作_SQL Language
 ---
 
-# 修改語法
+# UPDATE 語法
 
 ## 語法一
 
 ```inform7
 UPDATE tableName SET columnName = expr [, ...]
-     [ WHERE CURRENT OF cursorName ]
      [ WHERE clause ]
 ```
 
@@ -16,7 +15,6 @@ UPDATE tableName SET columnName = expr [, ...]
 
 ```inform7
 UPDATE tableName SET ( columnName ) = ( expr [, ...])
-     [ WHERE CURRENT OF cursorName ]
      [ WHERE clause ]
 ```
 
@@ -24,7 +22,6 @@ UPDATE tableName SET ( columnName ) = ( expr [, ...])
 
 ```inform7
 UPDATE tableName SET tableName.* = recordTableName.*
-     [ WHERE CURRENT OF cursorName ]
      [ WHERE clause ]
 ```
 
