@@ -136,25 +136,29 @@ description: 2021-06-23_Company Learning
 {% endtab %}
 
 {% tab title="第五章" %}
-第五章\_
+第五章\_資料庫操作 及 授權
 
 1.
 {% endtab %}
 
 {% tab title="第六章" %}
-第六章\_
+第六章\_資料處理
 
 1.
 {% endtab %}
 
 {% tab title="第七章" %}
-第七章\_
+第七章\_交易處理
+
+1.
+{% endtab %}
+
+{% tab title="第八章" %}
+第八章\_FORM 及 WINDOW
 
 1.
 {% endtab %}
 {% endtabs %}
-
-
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\

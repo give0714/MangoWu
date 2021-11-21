@@ -29,6 +29,6 @@ INITIALIZE arraryName TO NULL
 初始化陣列內所有變數
 
 {% hint style="danger" %}
-前往【 [城市芒果留言區](https://give0714.pixnet.net/blog/post/45993724-informix-4gl-%E8%AE%8A%E6%95%B8%E5%88%9D%E5%A7%8B%E5%8C%96) 】\
+【 [M@nGo 留言區](https://give0714.pixnet.net/blog/post/45993724-informix-4gl-%E8%AE%8A%E6%95%B8%E5%88%9D%E5%A7%8B%E5%8C%96) 】\
 如有需修改的地方，請前往芒果留言區留言
 {% endhint %}

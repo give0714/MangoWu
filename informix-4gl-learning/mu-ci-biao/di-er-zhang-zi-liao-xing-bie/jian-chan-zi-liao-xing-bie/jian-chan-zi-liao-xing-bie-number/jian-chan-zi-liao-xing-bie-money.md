@@ -54,6 +54,6 @@ DISPLAY unitPrice
 說明 : unitPrice 為有6個數字個數，內含4個整數個數、2個小數點數值的浮點數
 
 {% hint style="danger" %}
-前往【 [城市芒果留言區](https://give0714.pixnet.net/blog/post/46111630-informix-4gl-%E7%B0%A1%E5%96%AE%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5%E3%80%8A-numeric-data-%E3%80%8B\(-%E4%B8%83-\)) 】\
+【 [M@nGo 留言區](https://give0714.pixnet.net/blog/post/46111630-informix-4gl-%E7%B0%A1%E5%96%AE%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5%E3%80%8A-numeric-data-%E3%80%8B\(-%E4%B8%83-\)) 】\
 如有需修改的地方，請前往芒果留言區留言
 {% endhint %}

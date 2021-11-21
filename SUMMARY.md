@@ -129,14 +129,26 @@
       * [刪除資料表](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-biao-cao-zuo/shan-chu-zi-liao-biao.md)
       * [Page 1](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-biao-cao-zuo/page-1.md)
     * [欄位操作](informix-4gl-learning/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/page-2.md)
-    * [Page 2](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/page-2.md)
-  * [第六章 資料操作及交易處理](informix-4gl-learning/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li.md)
-  * [第七章 FORM 及 WINDOW](informix-4gl-learning/mu-ci-biao/di-qi-zhang-form-ji-window.md)
+    * [索引操作](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/suo-yin-cao-zuo/README.md)
+      * [索引](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/suo-yin-cao-zuo/suo-yin.md)
+      * [建立索引](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/suo-yin-cao-zuo/jian-li-suo-yin.md)
+      * [修改索引 CLUSTER 狀態](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/suo-yin-cao-zuo/xiu-gai-suo-yin-cluster-zhuang-tai.md)
+      * [刪除索引](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/suo-yin-cao-zuo/shan-chu-suo-yin.md)
+    * [授權操作](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/shou-quan-cao-zuo/README.md)
+      * [資料庫授權](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/shou-quan-cao-zuo/zi-liao-ku-shou-quan/README.md)
+        * [CONNECT 權利](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/shou-quan-cao-zuo/zi-liao-ku-shou-quan/connect-quan-li.md)
+        * [RESOURCE 權利](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/shou-quan-cao-zuo/zi-liao-ku-shou-quan/resource-quan-li.md)
+        * [DBA 權利](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/shou-quan-cao-zuo/zi-liao-ku-shou-quan/dba-quan-li.md)
+      * [資料表授權](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/shou-quan-cao-zuo/zi-liao-biao-shou-quan.md)
+  * [第六章 資料操作](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/README.md)
+    * [Page 2](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/page-2.md)
+  * [第七章 交易處理](programming-language/mu-ci-biao/di-qi-zhang-jiao-yi-chu-li.md)
+  * [第八章 FORM 及 WINDOW](informix-4gl-learning/mu-ci-biao/di-qi-zhang-form-ji-window.md)
 * [JAVA](java-zhang-jie-yi-lan-biao.md)
 
-## Spring Framework
+## Framework
 
-* [Spring](spring-framework/spring.md)
+* [Spring](framework/spring.md)
 
 ## SQL Language
 

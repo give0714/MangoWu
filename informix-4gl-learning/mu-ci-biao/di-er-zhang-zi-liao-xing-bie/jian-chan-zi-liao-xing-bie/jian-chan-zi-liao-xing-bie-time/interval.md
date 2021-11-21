@@ -168,7 +168,7 @@ DISPLAY timeInterval
 參考來源 : [IBM](https://www.ibm.com/docs/en/informix-servers/14.10?topic=bidt-time-data-types)
 
 {% hint style="danger" %}
-前往【 [城市芒果留言區](https://give0714.pixnet.net/blog/post/46114972-informix-4gl-%E7%B0%A1%E5%96%AE%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5%E3%80%8A-time-data-%E3%80%8B\(-%E4%B8%89-\)) 】\
+【 [M@nGo 留言區](https://give0714.pixnet.net/blog/post/46114972-informix-4gl-%E7%B0%A1%E5%96%AE%E8%B3%87%E6%96%99%E5%9E%8B%E5%88%A5%E3%80%8A-time-data-%E3%80%8B\(-%E4%B8%89-\)) 】\
 如有需修改的地方，請前往芒果留言區留言
 {% endhint %}
 
