@@ -4,9 +4,11 @@ description: Informix-4GL 索引操作
 
 # 刪除索引
 
-{% hint style="danger" %}
-建置中
-{% endhint %}
+## 語法
+
+```
+DROP INDEX indexName
+```
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
