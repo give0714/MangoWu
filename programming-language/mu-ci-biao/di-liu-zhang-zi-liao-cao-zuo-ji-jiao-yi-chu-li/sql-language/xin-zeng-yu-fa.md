@@ -2,7 +2,7 @@
 description: Informix-4GL 資料操作_SQL Language
 ---
 
-# 新增語法
+# INSERT 語法
 
 ## 語法
 
