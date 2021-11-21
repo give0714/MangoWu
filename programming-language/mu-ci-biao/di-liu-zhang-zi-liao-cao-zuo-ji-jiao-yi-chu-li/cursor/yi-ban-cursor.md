@@ -1,8 +1,8 @@
 ---
-description: Informix-4GL 欄位操作
+description: Informix-4GL 資料操作_游標
 ---
 
-# Page 2
+# 一般 CURSOR
 
 {% hint style="danger" %}
 建置中

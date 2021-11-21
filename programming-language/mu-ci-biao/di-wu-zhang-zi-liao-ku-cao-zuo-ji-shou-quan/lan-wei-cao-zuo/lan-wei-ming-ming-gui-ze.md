@@ -5,9 +5,10 @@ description: Informix-4GL 欄位操作
 # 欄位命名規則
 
 {% hint style="info" %}
-IN dbspaceName：若省略不寫，該資料庫將會建立在 Informix Database Server 的 root dbspace 上。
-
-WITH \[( BUFFERED / LOG MODE ANSI )] LOG ]：若省略不寫，則該資料庫就不會產生 log，後續將無法使用 Transaction 的語法。
+1. 不能超過 18 個字元。
+2. 可接受不同的資料表，擁有相同名稱的欄位。
+3. 第一個字元須為英文字元，其餘可由英文字元、數字、底線組成，需具有命名意義的名稱。
+4. 名稱是唯一性，且不能使用保留字。
 {% endhint %}
 
 {% hint style="danger" %}

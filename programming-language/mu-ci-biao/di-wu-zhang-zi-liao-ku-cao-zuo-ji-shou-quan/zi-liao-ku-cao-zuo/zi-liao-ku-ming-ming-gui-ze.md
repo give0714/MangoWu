@@ -5,7 +5,10 @@ description: Informix-4GL 資料庫操作
 # 資料庫命名規則
 
 {% hint style="info" %}
-IN dbspaceName：若省略不寫，該資料庫將會建立在 Informix Database Server 的 root dbspa1.UNU jussdUNIX
+1. 於 UNIX 系統，不能超過 10 個字元。
+2. 於 DOS 系統，不能超過 8 個字元。
+3. 第一個字元須為英文字元，其餘可由英文字元、數字、底線組成，需具有命名意義的名稱。
+4. 名稱是唯一性，且不能使用保留字。
 {% endhint %}
 
 {% hint style="danger" %}

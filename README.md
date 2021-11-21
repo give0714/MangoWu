@@ -138,7 +138,38 @@ description: 2021-06-23_Company Learning
 {% tab title="第五章" %}
 第五章\_資料庫操作
 
-1.
+1. 資料庫操作
+   1. [建立資料庫](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-ku-cao-zuo/jian-li-zi-liao-ku.md)
+   2. [刪除資料庫](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-ku-cao-zuo/shan-chu-zi-liao-ku.md)
+   3. [關閉資料庫](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-ku-cao-zuo/guan-bi-zi-liao-ku.md)
+   4. [資料庫連結](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-ku-cao-zuo/zi-liao-ku-lian-jie.md)
+   5. 資料庫授權
+      1. [CONNECT 權利](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-ku-cao-zuo/zi-liao-ku-shou-quan/connect-quan-li.md)
+      2. [RESOURCE 權利](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-ku-cao-zuo/zi-liao-ku-shou-quan/resource-quan-li.md)
+      3. [DBA 權利](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-ku-cao-zuo/zi-liao-ku-shou-quan/dba-quan-li.md)
+   6. [資料庫命名規則](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-ku-cao-zuo/zi-liao-ku-ming-ming-gui-ze.md)
+2. 資料表操作
+   1. [建立資料表](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-biao-cao-zuo/jian-li-zi-liao-biao.md)
+   2. [資料表更名](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-biao-cao-zuo/zi-liao-biao-geng-ming.md)
+   3. [修改資料表儲存空間](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-biao-cao-zuo/xiu-gai-zi-liao-biao-chu-cun-kong-jian.md)
+   4. [修改資料表鎖定程度](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-biao-cao-zuo/xiu-gai-zi-liao-biao-suo-ding-cheng-du.md)
+   5. [刪除資料表](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-biao-cao-zuo/shan-chu-zi-liao-biao.md)
+   6. [資料表授權](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-biao-cao-zuo/zi-liao-biao-shou-quan.md)
+   7. [資料表命名規則](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-biao-cao-zuo/zi-liao-biao-ming-ming-gui-ze.md)
+3. 欄位操作
+   1. [新增欄位](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/lan-wei-cao-zuo/xin-zeng-lan-wei.md)
+   2. [新增欄位屬性](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/lan-wei-cao-zuo/xin-zeng-lan-wei-shu-xing.md)
+   3. [欄位更名](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/lan-wei-cao-zuo/lan-wei-geng-ming.md)
+   4. [修改欄位](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/lan-wei-cao-zuo/xiu-gai-lan-wei.md)
+   5. [刪除欄位](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/lan-wei-cao-zuo/shan-chu-lan-wei.md)
+   6. [刪除欄位屬性](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/lan-wei-cao-zuo/shan-chu-lan-wei-shu-xing.md)
+   7. [欄位命名規則](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/lan-wei-cao-zuo/lan-wei-ming-ming-gui-ze.md)
+4. 索引操作
+   1. [索引說明](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/suo-yin-cao-zuo/suo-yin-shuo-ming.md)
+   2. [建立索引](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/suo-yin-cao-zuo/jian-li-suo-yin.md)
+   3. [修改索引 CLUSTER 狀態](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/suo-yin-cao-zuo/xiu-gai-suo-yin-cluster-zhuang-tai.md)
+   4. [刪除索引](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/suo-yin-cao-zuo/shan-chu-suo-yin.md)
+   5. [索引命名規則](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/suo-yin-cao-zuo/suo-yin-ming-ming-gui-ze.md)
 {% endtab %}
 
 {% tab title="第六章" %}
@@ -148,13 +179,7 @@ description: 2021-06-23_Company Learning
 {% endtab %}
 
 {% tab title="第七章" %}
-第七章\_交易處理
-
-1.
-{% endtab %}
-
-{% tab title="第八章" %}
-第八章\_FORM 及 WINDOW
+第七章\_FORM 及 WINDOW
 
 1.
 {% endtab %}
