@@ -78,22 +78,40 @@ Subquery 用法說明：
 {% hint style="info" %}
 clause 用法說明：
 
-1. WHERE NOT clause：表示判斷結果依據為反向。
-2. columnName BETWEEN expr1 AND expr2：將有介於 expr1 到 expr2 範圍之間的資料表欄位資料篩選出來。
-3. columnName IN( value \[, ...])：將資料表欄位資料有符合 IN 之中的 value 資料塞選出來。
-4. expr IS NULL：判斷查詢結果是否為空值。
-5. columnName LIKE "expr"：將有符合條件的資料表欄位資料塞選出來。
-   1. %：資料若符合沒有或更多字元，就塞選出來。
-   2. \_：資料只要符合指定的一個字元，就塞選出來。
-   3. \：資料內含有 % 或 \_ ，就塞選出來。
-6. columnName MATCHES "expr"：將有符合條件的資料表欄位資料塞選出來。
-   1. \*：資料若符合沒有或更多字元，就塞選出來。
-   2. ?：資料只要符合任一字元，就塞選出來。
-   3. \[...]：資料只要符合一串字串中的任一字元，就塞選出來。
-   4. ^：需與 \[...] 搭配使用，資料只要沒有符合一串字串中的任一字元，就塞選出來。
-   5. \：資料內含有 \* 或 ? ，就塞選出來。
+1.  WHERE NOT clause：
+
+    表示判斷結果依據為反向。
+2.  columnName BETWEEN expr1 AND expr2：
+
+    將有介於 expr1 到 expr2 範圍之間的資料表欄位資料 ( columnName ) ，篩選出來。
+3.  columnName IN( value \[, ...])：
+
+    將資料表欄位資料 ( columnName ) 有符合 IN 之中的 value 資料塞選出來。
+4.  expr IS NULL：
+
+    判斷查詢結果是否為空值。
+5.  columnName LIKE "expr"：
+
+    將有符合條件的資料表欄位資料 ( columnName ) 塞選出來。
+
+    1. %：資料若符合沒有或更多字元，就塞選出來。
+    2. \_：資料只要符合指定的一個字元，就塞選出來。
+    3. \：資料內含有 % 或 \_ ，就塞選出來。
+6.  columnName MATCHES "expr"：
+
+    將有符合條件的資料表欄位資料 ( columnName ) ，塞選出來。
+
+    1. \*：資料若符合沒有或更多字元，就塞選出來。
+    2. ?：資料只要符合任一字元，就塞選出來。
+    3. \[...]：資料只要符合一串字串中的任一字元，就塞選出來。
+    4. ^：需與 \[...] 搭配使用，資料只要沒有符合一串字串中的任一字元，就塞選出來。
+    5. \：資料內含有 \* 或 ? ，就塞選出來。
 7. columnName IN Subquery：
+   * 建立新的查詢 ( Subquery )，得到 Subquery 所搜尋到的資料，並將有符合前述查詢結果的資料表欄位資料 ( columnName ) ，塞選出來。
+   * Subquery 只能設定單一欄位作為查詢依據，但可得到多筆資料，以進行對資料表欄位資料 ( columnName ) 的比對
 8. columnName EXISTS Subquery：
+   * 建立新的查詢 ( Subquery )，得到 Subquery 所搜尋到的資料，並將有符合前述查詢結果的資料表欄位資料 ( columnName ) ，塞選出來。
+   * Subquery 可選取多個欄位作為查詢依據，但也必需被主要的 SELECT 敘述所選取；可得到多筆資料，以進行對資料表欄位資料 ( columnName ) 的對比。
 9. ALL Subquery：
 10. ANY Subquery：
 11. SOME Subquery：
