@@ -9,13 +9,13 @@ description: Informix-4GL 資料操作_SQL Language
 ```inform7
 UPDATE tableName SET columnName = expr [, ...]
 [WHERE [ NOT ] booleanExpr
-               / BETWEEN expr1 AND expr2
-               / IN( value [, ...])
+               / columnName BETWEEN expr1 AND expr2
+               / columnName IN( value [, ...])
                / expr IS NULL
-               / LIKE "expr"
-               / MATCHES "expr"
-               / IN Subquery
-               / EXISTS Subquery
+               / columnName LIKE "expr"
+               / columnName MATCHES "expr"
+               / columnName IN Subquery
+               / columnName EXISTS Subquery
                / { ALL Subquery / ANY Subquery / SOME Subquery } -- 三則一 --
  [ AND clause ]
   [ OR clause ]]

@@ -8,7 +8,17 @@ description: Informix-4GL 資料操作_SQL Language
 
 ```inform7
 DELETE FROM tableName
-     [ WHERE clause ]
+[WHERE [ NOT ] booleanExpr
+               / columnName BETWEEN expr1 AND expr2
+               / columnName IN( value [, ...])
+               / expr IS NULL
+               / columnName LIKE "expr"
+               / columnName MATCHES "expr"
+               / columnName IN Subquery
+               / columnName EXISTS Subquery
+               / { ALL Subquery / ANY Subquery / SOME Subquery } -- 三則一 --
+ [ AND clause ]
+  [ OR clause ]]
 ```
 
 {% hint style="info" %}

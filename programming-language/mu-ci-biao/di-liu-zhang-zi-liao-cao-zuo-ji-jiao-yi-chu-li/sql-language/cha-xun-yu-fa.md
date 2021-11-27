@@ -15,13 +15,13 @@ SELECT [ FIRST m ][ DISTINCT / UNIQUE ]
   FROM tableName [[ AS ] alias ][, ...]
 [OUTER joinTableName1 [, OUTER joinTableName2 [, ...]]]
 [WHERE [ NOT ] booleanExpr
-               / BETWEEN expr1 AND expr2
-               / IN( value [, ...])
+               / columnName BETWEEN expr1 AND expr2
+               / columnName IN( value [, ...])
                / expr IS NULL
-               / LIKE "expr"
-               / MATCHES "expr"
-               / IN Subquery
-               / EXISTS Subquery
+               / columnName LIKE "expr"
+               / columnName MATCHES "expr"
+               / columnName IN Subquery
+               / columnName EXISTS Subquery
                / { ALL Subquery / ANY Subquery / SOME Subquery } -- 三擇一 --
  [ AND clause ]
   [ OR clause ]]
@@ -64,13 +64,23 @@ Subquery 用法說明：
     n 為數值或某的具有代表意義。
 
     i、j 為數值。
-10.
+10. ASC：升幕排序，系統預設。
+11. DESC：降幕排序。
+12. FOR READ ONLY：設定查詢結果只能讀取特性，不可修改，可設定一個以上的欄位具有此特性。
+13. FOR UPDATE：設定查詢結果為可修改特性，可設定一個以上的欄位具有此特性。
+14. INTO TEMP tableName \[ WITH NO LOG ]：將查詢結果存到一個暫存檔內。
+15. INTO SCRATCH tableName：了解中。
+16. INTO EXTERNAL tableName USING Subquery：了解中。
+17. UNION Subquery：將查詢結果與 Subquery 的查詢結果做資料聯集，但搜尋的欄位數量及欄位資料型別兩邊都需一致，且不可以是 BYTE 或 TEXT 的資料型別。
+18. UNION ALL Subquery：將查詢結果與 Subquery 的查詢結果做資料聯集，但搜尋的欄位數量及欄位資料型別兩邊都需一致。
 {% endhint %}
 
 {% hint style="info" %}
 clause 用法說明：
 
-1. 。
+1. WHERE NOT clause：表示判斷結果依據為反向。
+2. columnName BETWEEN expr1 AND expr2：檢查 columnName 是否介於 expr1 到 expr2 範圍之間。
+3.
 {% endhint %}
 
 {% hint style="danger" %}
