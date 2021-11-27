@@ -79,8 +79,18 @@ Subquery 用法說明：
 clause 用法說明：
 
 1. WHERE NOT clause：表示判斷結果依據為反向。
-2. columnName BETWEEN expr1 AND expr2：檢查 columnName 是否介於 expr1 到 expr2 範圍之間。
-3.
+2. columnName BETWEEN expr1 AND expr2：將有介於 expr1 到 expr2 範圍之間的資料表欄位資料篩選出來。
+3. columnName IN( value \[, ...])：
+4. expr IS NULL：
+5. columnName LIKE "expr"：
+6. columnName MATCHES "expr"：
+7. columnName IN Subquery：
+8. columnName EXISTS Subquery：
+9. ALL Subquery：
+10. ANY Subquery：
+11. SOME Subquery：
+12. AND clause：
+13. OR clause：
 {% endhint %}
 
 {% hint style="danger" %}
