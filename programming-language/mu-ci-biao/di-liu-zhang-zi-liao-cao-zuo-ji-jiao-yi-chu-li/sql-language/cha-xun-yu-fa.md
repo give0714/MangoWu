@@ -20,8 +20,8 @@ SELECT [ FIRST m ][ DISTINCT / UNIQUE ]
                / expr IS NULL
                / columnName LIKE "expr"
                / columnName MATCHES "expr"
-               / columnName IN Subquery
-               / columnName EXISTS Subquery
+               / columnName IN( Subquery )
+               / EXISTS Subquery
                / { ALL Subquery / ANY Subquery / SOME Subquery } -- 三擇一 --
  [ AND clause ]
   [ OR clause ]]
@@ -106,13 +106,15 @@ clause 用法說明：
     3. \[...]：資料只要符合一串字串中的任一字元，就塞選出來。
     4. ^：需與 \[...] 搭配使用，資料只要沒有符合一串字串中的任一字元，就塞選出來。
     5. \：資料內含有 \* 或 ? ，就塞選出來。
-7. columnName IN Subquery：
+7. columnName IN( Subquery )：
    * 建立新的查詢 ( Subquery )，得到 Subquery 所搜尋到的資料，並將有符合前述查詢結果的資料表欄位資料 ( columnName ) ，塞選出來。
    * Subquery 只能設定單一欄位作為查詢依據，但可得到多筆資料，以進行對資料表欄位資料 ( columnName ) 的比對
-8. columnName EXISTS Subquery：
-   * 建立新的查詢 ( Subquery )，得到 Subquery 所搜尋到的資料，並將有符合前述查詢結果的資料表欄位資料 ( columnName ) ，塞選出來。
-   * Subquery 可選取多個欄位作為查詢依據，但也必需被主要的 SELECT 敘述所選取；可得到多筆資料，以進行對資料表欄位資料 ( columnName ) 的對比。
-9. ALL Subquery：
+8. EXISTS Subquery：
+   * 建立新的查詢 ( Subquery )，得到 Subquery 所搜尋到的資料，並將有符合條件的資料 ，塞選出來。
+   * Subquery 可選取多個欄位作為查詢依據，並將主要 SELECT 敘述所選取的欄位帶入，作為查詢條件，且 Subquery 所使用的欄位均為主要 SELECT 敘述內的欄位。
+9.  ALL Subquery：
+
+
 10. ANY Subquery：
 11. SOME Subquery：
 12. AND clause：
