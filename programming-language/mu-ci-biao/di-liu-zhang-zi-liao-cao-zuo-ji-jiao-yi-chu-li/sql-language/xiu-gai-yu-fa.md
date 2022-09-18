@@ -23,7 +23,7 @@ UPDATE tableName SET columnName = expr [, ...]
 
 ## 語法二
 
-```inform7
+```sql
 UPDATE tableName SET ( columnName ) = ( expr [, ...])
 [WHERE [ NOT ] booleanExpr
                / BETWEEN expr1 AND expr2
@@ -40,7 +40,7 @@ UPDATE tableName SET ( columnName ) = ( expr [, ...])
 
 ## 語法三
 
-```inform7
+```sql
 UPDATE tableName SET tableName.* = recordTableName.*
 [WHERE [ NOT ] booleanExpr
                / BETWEEN expr1 AND expr2

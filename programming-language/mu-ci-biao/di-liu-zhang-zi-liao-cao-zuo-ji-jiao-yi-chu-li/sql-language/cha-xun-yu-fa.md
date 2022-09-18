@@ -6,7 +6,7 @@ description: Informix-4GL 資料操作_SQL Language
 
 ## 語法
 
-```sql
+```inform7
 SELECT [ FIRST m ][ DISTINCT / UNIQUE ]
        *
        / columnName [ AS displayLabel ][, ...]

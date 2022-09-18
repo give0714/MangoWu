@@ -6,7 +6,7 @@ description: Informix-4GL 資料表操作
 
 ## 語法
 
-```sql
+```
 ALTER TABLE tableName LOCK MODE (( PAGE / ROW ))
 ```
 

@@ -6,7 +6,7 @@ description: Informix-4GL 資料庫操作
 
 ## 語法
 
-```sql
+```
 CREATE DATABASE databaseName 
        [[ IN dbspaceName ] WITH [( BUFFERED / LOG MODE ANSI )] LOG ]
 ```

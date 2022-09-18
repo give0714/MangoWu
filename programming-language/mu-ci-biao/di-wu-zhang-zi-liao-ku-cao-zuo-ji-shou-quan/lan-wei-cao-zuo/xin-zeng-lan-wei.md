@@ -6,7 +6,7 @@ description: Informix-4GL 欄位操作
 
 ## 語法一\_欄位新增於最後
 
-```sql
+```
 ALTER TABLE tableName ADD ( newColumnName1 datatype
                             [, newColumnName2 datatype, ...])
 ```
