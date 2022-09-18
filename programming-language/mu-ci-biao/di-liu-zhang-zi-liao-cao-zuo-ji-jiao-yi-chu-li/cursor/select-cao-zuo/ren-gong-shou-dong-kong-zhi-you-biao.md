@@ -60,6 +60,26 @@ FREE cursorName
     釋放資料緩衝區的記憶體空間。
 {% endhint %}
 
+{% hint style="info" %}
+補充：
+
+1.  NEXT
+
+    控制游標至下一列。
+2.  PREVIOUS
+
+    控制游標至前一列。
+3.  OPRPR
+
+    控制游標在資料庫的位置，取得指定位置的查詢結果，並將結果寫入資料緩衝區內的記憶體空間。
+4.  CLOSE 游標
+
+    關閉游標控制。
+5.  FREE 游標
+
+    釋放資料緩衝區的記憶體空間。
+{% endhint %}
+
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
 如有需修改的地方，請前往芒果留言區留言
