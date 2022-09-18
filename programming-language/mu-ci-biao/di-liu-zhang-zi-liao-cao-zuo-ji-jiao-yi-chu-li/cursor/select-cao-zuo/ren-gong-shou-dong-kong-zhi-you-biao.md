@@ -65,19 +65,27 @@ FREE cursorName
 
 1.  NEXT
 
-    控制游標至下一列。
+    控制游標往後一列。
 2.  PREVIOUS
 
-    控制游標至前一列。
-3.  OPRPR
+    控制游標往前一列。
+3.  PRIOR
 
-    控制游標在資料庫的位置，取得指定位置的查詢結果，並將結果寫入資料緩衝區內的記憶體空間。
-4.  CLOSE 游標
+    控制游標往前一列。
+4.  FIRST
 
-    關閉游標控制。
-5.  FREE 游標
+    控制游標至資料第一列。
+5.  LAST
 
-    釋放資料緩衝區的記憶體空間。
+    控制游標至資料最後一列。
+6. CURRENT\
+   控制游標到當前列。
+7. RELATIVE m\
+   控制游標至當前游標位置算起的第 m 列。
+8. ABSOLUTE n\
+   控制游標到第 n 列。
+9. 除 FETCH 敘述和 FETCH NEXT 敘述外，其他均須於使用前宣告。
+10. 需在 FETCH 敘述後，使用 IF 敘述來檢查狀況變數 Status 是否變更為 NOTFOUND。
 {% endhint %}
 
 {% hint style="danger" %}
