@@ -6,7 +6,7 @@ description: Informix-4GL 資料庫連結
 
 ## 語法
 
-```
+```sql
 CONNECT TO ( databaseName [ AS databaseVariableName ]
                           [ USER ( userId / userIdVariable ) USING variableVar ]
              / DEFAULT )
