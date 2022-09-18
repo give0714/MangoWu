@@ -6,7 +6,7 @@ description: Informix-4GL 索引操作
 
 ## 語法
 
-```sql
+```
 ALTER INDEX indexName TO [ NOT ] CLUSTER
 ```
 
