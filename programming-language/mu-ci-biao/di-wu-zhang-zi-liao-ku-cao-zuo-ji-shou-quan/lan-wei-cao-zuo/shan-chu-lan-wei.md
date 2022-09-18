@@ -6,7 +6,7 @@ description: Informix-4GL 欄位操作
 
 ## 語法
 
-```
+```sql
 ALTER TABLE tableName DROP ( columnName1 [, columnName2, ...])
 ```
 

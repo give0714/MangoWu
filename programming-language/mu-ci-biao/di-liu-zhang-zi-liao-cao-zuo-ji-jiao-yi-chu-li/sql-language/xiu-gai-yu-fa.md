@@ -6,7 +6,7 @@ description: Informix-4GL 資料操作_SQL Language
 
 ## 語法一
 
-```inform7
+```sql
 UPDATE tableName SET columnName = expr [, ...]
 [WHERE [ NOT ] booleanExpr
                / columnName BETWEEN expr1 AND expr2
@@ -23,7 +23,7 @@ UPDATE tableName SET columnName = expr [, ...]
 
 ## 語法二
 
-```inform7
+```sql
 UPDATE tableName SET ( columnName ) = ( expr [, ...])
 [WHERE [ NOT ] booleanExpr
                / BETWEEN expr1 AND expr2
@@ -40,7 +40,7 @@ UPDATE tableName SET ( columnName ) = ( expr [, ...])
 
 ## 語法三
 
-```inform7
+```sql
 UPDATE tableName SET tableName.* = recordTableName.*
 [WHERE [ NOT ] booleanExpr
                / BETWEEN expr1 AND expr2

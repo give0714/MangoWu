@@ -6,7 +6,7 @@ description: Informix-4GL 資料庫授權
 
 ## 語法\_指定使用者
 
-```
+```sql
 -- 授予 DBA 權利--
 GRANT  DBA TO   userName
 -- 取消 DBA 權利--

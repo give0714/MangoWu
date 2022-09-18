@@ -2,7 +2,7 @@
 description: Informix-4GL 資料操作_游標
 ---
 
-# INSERT 操作
+# 人工手動控制游標
 
 ## 語法
 

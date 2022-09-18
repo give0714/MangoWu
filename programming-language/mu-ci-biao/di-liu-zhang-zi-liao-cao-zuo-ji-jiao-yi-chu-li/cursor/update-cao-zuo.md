@@ -6,7 +6,7 @@ description: Informix-4GL 資料操作_游標
 
 ## 語法
 
-```inform7
+```sql
 -- 宣告游標 --
 DECLARE cursorName CURSOR FOR
         SELECT * FROM tableName FOR UPDATE

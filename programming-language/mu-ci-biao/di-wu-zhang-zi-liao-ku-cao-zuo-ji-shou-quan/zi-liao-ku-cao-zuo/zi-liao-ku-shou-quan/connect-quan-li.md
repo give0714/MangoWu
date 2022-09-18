@@ -6,7 +6,7 @@ description: Informix-4GL 資料庫授權
 
 ## 語法\_所有使用者
 
-```
+```sql
 -- 授予 CONNECT 權利--
 GRANT  CONNECT TO   PUBLIC
 -- 取消 CONNECT 權利--
@@ -15,7 +15,7 @@ REVOKE CONNECT FROM PUBLIC
 
 ## 語法\_指定使用者
 
-```
+```sql
 -- 授予 CONNECT 權利--
 GRANT  CONNECT TO   userName
 -- 取消 CONNECT 權利--

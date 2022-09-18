@@ -6,7 +6,7 @@ description: Informix-4GL 索引操作
 
 ## 語法
 
-```
+```sql
 CREATE [( UNIQUE / DISTINCT )[ CLUSTER ]] INDEX indextName ON tableName
         ( columnName1 datatype [ desc ],
           columnName2 datatype [ desc ], ...)
