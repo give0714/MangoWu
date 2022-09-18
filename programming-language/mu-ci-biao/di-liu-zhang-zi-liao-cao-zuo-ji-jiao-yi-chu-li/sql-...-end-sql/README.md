@@ -6,9 +6,11 @@ description: Informix-4GL 資料操作
 
 ## 語法
 
-<pre class="language-sql"><code class="lang-sql">SQL
-<strong>   SQL Statement
-</strong><strong>END SQL</strong></code></pre>
+```sql
+SQL
+   SQL Statement
+END SQL
+```
 
 {% hint style="info" %}
 說明：
