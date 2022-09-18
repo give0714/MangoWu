@@ -2,11 +2,11 @@
 description: Informix-4GL 資料表操作
 ---
 
-# 異動資料表儲存空間
+# 修改資料表儲存空間
 
 ## 語法
 
-```
+```sql
 ALTER TABLE tableName MODIFY NEXT SIZE n
 ```
 

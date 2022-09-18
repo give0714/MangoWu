@@ -6,7 +6,7 @@ description: Informix-4GL 資料表操作
 
 ## 語法
 
-```
+```sql
 CREATE [ TEMP ] TABLE tableName
        ( columnName1 datatype [ columnLevelConstraint ],
          columnName2 datatype [ columnLevelConstraint ], ...

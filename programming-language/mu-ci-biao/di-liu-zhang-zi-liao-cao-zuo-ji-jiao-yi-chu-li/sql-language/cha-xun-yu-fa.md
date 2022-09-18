@@ -114,15 +114,11 @@ clause 用法說明：
    * Subquery 可選取多個欄位作為查詢依據，並將主要 SELECT 敘述所選取的欄位帶入，作為查詢條件，且 Subquery 所使用的欄位均為主要 SELECT 敘述內的欄位。
 9.  ALL Subquery：
 
-    表示查詢結果必須都符合 Subquery 的所有狀況，且狀況判斷皆均為 TRUE，其值就為 TRUE，只會回傳一筆資料。
-10. ANY Subquery：\
-    表示查詢結果只要符合 Subquery 的其中一種狀況，且狀況判斷為 TURE，其值就為 TRUE，只會回傳一筆資料。
-11. SOME Subquery：\
-    使用方法與 ANY Subquery 相同，只會回傳一筆資料。
-12. AND clause：\
-    表示查詢結果必須符合 clause。
-13. OR clause：\
-    表示查詢結果或符合 clause。
+
+10. ANY Subquery：
+11. SOME Subquery：
+12. AND clause：
+13. OR clause：
 {% endhint %}
 
 {% hint style="danger" %}
