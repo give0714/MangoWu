@@ -180,7 +180,6 @@
 
 * [MS SQL](sql-language/ms-sql.md)
 
-## M@nGo Learning Notes
+## 範例群組頁面
 
-* [M@nGo 芒果](<README (1).md>)
-* [範例頁面](m-ngo-learning-notes/fan-li-ye-mian.md)
+* [範例頁面](fan-li-qun-zu-ye-mian/fan-li-ye-mian.md)
