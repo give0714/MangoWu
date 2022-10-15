@@ -15,14 +15,35 @@ description: 安裝 Open JDK 流程
 
 ## 步驟 3\_JAVA\_HOME 系統環境變數設定
 
-1. 至 『控制台』->『系統及安全性』->『<mark style="background-color:yellow;">系統</mark>』。
-2. 至『系統資訊』->『裝置規格』->『相關連結』->『<mark style="background-color:yellow;">進階系統設定</mark>』。
-3. 至『系統內容』->『進階』->『<mark style="background-color:yellow;">環境變數</mark>』。
-4. 至『環境變數』->『系統變數』->『<mark style="background-color:yellow;">新增(W)...</mark>』。
-5. 在『新增系統變數』內新增下述資訊：
-   1. 變數名稱：<mark style="color:red;">JAVA\_HOME</mark>
-   2. 變數值：<mark style="background-color:blue;">放置 OpenJDK 的目錄位置</mark>
-6. 點選『<mark style="background-color:yellow;">確定</mark>』，此時在系統變數內就會多一個名叫『<mark style="background-color:orange;">JAVA\_HOME</mark>』的系統變數。
+1.至 『控制台』->『系統及安全性』->『<mark style="background-color:yellow;">系統</mark>』。
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/0001 (1).png" alt=""><figcaption><p>點選控制台</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/0002 (1).png" alt=""><figcaption><p>點選系統及安全性</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/0003 (1).png" alt=""><figcaption><p>點選系統</p></figcaption></figure>
+
+</div>
+
+2.至『系統資訊』->『裝置規格』->『相關連結』->『<mark style="background-color:yellow;">進階系統設定</mark>』。
+
+<figure><img src="../../../.gitbook/assets/0004.png" alt=""><figcaption><p>點選進階系統設定</p></figcaption></figure>
+
+3.至『系統內容』->『進階』->『<mark style="background-color:yellow;">環境變數</mark>』。
+
+4.至『環境變數』->『系統變數』->『<mark style="background-color:yellow;">新增(W)...</mark>』。
+
+5.在『新增系統變數』內新增下述資訊：\
+&#x20;  1\. 變數名稱：<mark style="color:red;">JAVA\_HOME</mark>\
+&#x20;  <mark style="color:red;"></mark>   <mark style="color:blue;">2.</mark> 變數值：<mark style="background-color:blue;">放置 OpenJDK 的目錄位置</mark>
+
+6\. 點選『<mark style="background-color:yellow;">確定</mark>』，此時在系統變數內就會多一個名叫『<mark style="background-color:orange;">JAVA\_HOME</mark>』的系統變數。
 
 ## 步驟 4\_PATH 系統環境變數設定
 
