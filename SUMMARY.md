@@ -170,10 +170,10 @@
     * [補充內容](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/bu-chong-nei-rong.md)
   * [第七章 FORM 及 WINDOW](informix-4gl-learning/mu-ci-biao/di-qi-zhang-form-ji-window.md)
     * [Page 2](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/page-2.md)
-* [JAVA](programming-language/java/README.md)
+* [JAVA](java-zhang-jie-yi-lan-biao.md)
   * [前置作業](programming-language/java/qian-zhi-zuo-ye/README.md)
-    * [Open JDK](programming-language/java/qian-zhi-zuo-ye/open-jdk.md)
-    * [安裝 Open JDK](programming-language/java/qian-zhi-zuo-ye/an-zhuang-open-jdk.md)
+    * [Open JDK 簡介](programming-language/java/qian-zhi-zuo-ye/open-jdk-jian-jie.md)
+    * [設置 Open JDK](programming-language/java/qian-zhi-zuo-ye/she-zhi-open-jdk.md)
 
 ## Framework
 

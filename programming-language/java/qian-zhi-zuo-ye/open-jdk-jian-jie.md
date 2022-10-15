@@ -2,7 +2,7 @@
 description: Java 開發工具簡介
 ---
 
-# Open JDK
+# Open JDK 簡介
 
 ## Oracle 甲骨文
 
