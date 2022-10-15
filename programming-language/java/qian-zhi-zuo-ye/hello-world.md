@@ -49,16 +49,16 @@ public class HelloWorld{
 ```
 /* 命令提示字元執行狀況 */
 // 切換槽
-C:\Users\User>E:
+C:\Users\User>資料所在槽的位置:
 
 // 切換資料夾
-E:\>cd 資料所在資料夾的位置
+資料所在槽的位置:\>cd 資料所在資料夾的位置
 
 // 編譯 Java 程式
-E:\資料所在資料夾的位置>javac HelloWorld.java
+資料所在槽的位置:\資料所在資料夾的位置>javac HelloWorld.java
 
 // 執行 Java 程式
-E:\資料所在資料夾的位置>java HelloWorld
+資料所在槽的位置:\資料所在資料夾的位置>java HelloWorld
 
 // 程式執行結果
 Hello World!!

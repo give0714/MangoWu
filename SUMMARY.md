@@ -176,6 +176,10 @@
     * [設置 Open JDK](programming-language/java/qian-zhi-zuo-ye/she-zhi-open-jdk.md)
     * [Hello World!!](programming-language/java/qian-zhi-zuo-ye/hello-world.md)
     * [Java 撰寫方式](programming-language/java/qian-zhi-zuo-ye/java-zhuan-xie-fang-shi.md)
+    * [Java 開發環境](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/README.md)
+      * [Eclipse](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/README.md)
+        * [安裝 Eclipse IDE](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/an-zhuang-eclipse-ide.md)
+        * [建立新專案和類別](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/jian-li-xin-zhuan-an-he-lei-bie.md)
 
 ## Framework
 
