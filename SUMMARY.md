@@ -174,6 +174,7 @@
   * [前置作業](programming-language/java/qian-zhi-zuo-ye/README.md)
     * [Open JDK 簡介](programming-language/java/qian-zhi-zuo-ye/open-jdk-jian-jie.md)
     * [設置 Open JDK](programming-language/java/qian-zhi-zuo-ye/she-zhi-open-jdk.md)
+    * [Page 1](programming-language/java/qian-zhi-zuo-ye/page-1.md)
 
 ## Framework
 
