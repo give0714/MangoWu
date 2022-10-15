@@ -175,6 +175,7 @@
     * [Open JDK 簡介](programming-language/java/qian-zhi-zuo-ye/open-jdk-jian-jie.md)
     * [設置 Open JDK](programming-language/java/qian-zhi-zuo-ye/she-zhi-open-jdk.md)
     * [Hello World!!](programming-language/java/qian-zhi-zuo-ye/hello-world.md)
+    * [Java 撰寫方式](programming-language/java/qian-zhi-zuo-ye/java-zhuan-xie-fang-shi.md)
 
 ## Framework
 
