@@ -179,9 +179,15 @@
     * [Java 開發環境](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/README.md)
       * [Eclipse](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/README.md)
         * [安裝 Eclipse IDE](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/an-zhuang-eclipse-ide.md)
-        * [建立新專案和類別](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/jian-li-xin-zhuan-an-he-lei-bie.md)
+        * [Eclipse 操作設置](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/eclipse-cao-zuo-she-zhi/README.md)
+          * [建立新專案](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/eclipse-cao-zuo-she-zhi/jian-li-xin-zhuan-an.md)
+          * [建立新類別](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/eclipse-cao-zuo-she-zhi/jian-li-xin-lei-bie.md)
         * [專案目錄](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/zhuan-an-mu-lu.md)
-        * [環境基本設定](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/huan-jing-ji-ben-she-ding.md)
+        * [環境基本設定](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/huan-jing-ji-ben-she-ding/README.md)
+          * [背景樣式](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/huan-jing-ji-ben-she-ding/bei-jing-yang-shi.md)
+          * [字體大小](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/huan-jing-ji-ben-she-ding/zi-ti-da-xiao.md)
+          * [編碼方式](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/huan-jing-ji-ben-she-ding/bian-ma-fang-shi.md)
+        * [快捷鍵](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/kuai-jie-jian.md)
 
 ## Framework
 
