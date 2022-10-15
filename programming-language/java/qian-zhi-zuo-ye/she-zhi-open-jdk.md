@@ -31,7 +31,7 @@ description: 安裝 Open JDK 流程
 
 </div>
 
-2.至『系統資訊』->『裝置規格』->『相關連結』->『<mark style="background-color:yellow;">進階系統設定</mark>』。
+2\. 至『系統資訊』->『裝置規格』->『相關連結』->『<mark style="background-color:yellow;">進階系統設定</mark>』。
 
 <figure><img src="../../../.gitbook/assets/0004.png" alt=""><figcaption><p>點選進階系統設定</p></figcaption></figure>
 
@@ -51,17 +51,32 @@ description: 安裝 Open JDK 流程
 
 6\. 此時在系統變數內就會多一個名叫『<mark style="background-color:orange;">JAVA\_HOME</mark>』的系統變數。
 
-<figure><img src="../../../.gitbook/assets/0008.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/0008.png" alt=""><figcaption><p>新增名為 JAVA_HOME 的系統環境變數</p></figcaption></figure>
 
 ## 步驟 4\_PATH 系統環境變數設定
 
-1.在『環境變數』->『系統變數』，找尋『<mark style="background-color:orange;">Path</mark>』的系統變數，點選兩下並開啟視窗。
+1\. 在『環境變數』->『系統變數』，找尋『<mark style="background-color:orange;">Path</mark>』的系統變數，\
+&#x20;  點選兩下或點選『<mark style="background-color:yellow;">編輯(I)...</mark>』，來開啟視窗。
 
-2.在『編輯環境變數』，按下『<mark style="background-color:yellow;">新增(N)</mark>』，並新增下述資訊：\
-&#x20;  <mark style="color:red;">J%AVA\_HOME%\bin</mark>
+<figure><img src="../../../.gitbook/assets/0009.png" alt=""><figcaption><p>編輯 Path 系統環境變數</p></figcaption></figure>
+
+2\. 在『編輯環境變數』，按下『<mark style="background-color:yellow;">新增(N)</mark>』，並新增下述資訊：\
+&#x20;   <mark style="color:red;">%AVA\_HOME%\bin</mark>
+
+<figure><img src="../../../.gitbook/assets/0010.png" alt=""><figcaption><p>新增 JAVA_HOME 的環境變數</p></figcaption></figure>
 
 3\. 點選新增的『<mark style="background-color:orange;">%JAVA\_HOME%\bin</mark>』欄位，並點選『<mark style="background-color:orange;">上移(U)</mark>』，\
 &#x20;   將該欄位移至第一位後，點選『<mark style="background-color:yellow;">確認</mark>』並關閉視窗。
+
+<div>
+
+<figure><img src="../../../.gitbook/assets/0011.png" alt=""><figcaption><p>將新增的環境變數上移</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../.gitbook/assets/0012.png" alt=""><figcaption><p>將環境變數移至第一位</p></figcaption></figure>
+
+</div>
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
