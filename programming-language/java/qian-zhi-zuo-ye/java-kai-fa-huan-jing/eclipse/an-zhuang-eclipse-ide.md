@@ -10,6 +10,24 @@ description: Eclipse 安裝操作說明
    <mark style="background-color:green;">本讀者使用舊版本 ( 2020-09 ) 的開發環境，來做後續 Java 程式使用。</mark>
 2. 解壓縮在適當位置，無須安裝，即可直接執行。
 
+<div>
+
+<figure><img src="../../../../../.gitbook/assets/0016.png" alt=""><figcaption><p>下載網站</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../../.gitbook/assets/0017.png" alt=""><figcaption><p>點選更多版本</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../../.gitbook/assets/0018.png" alt=""><figcaption><p>點選所需的版本</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../../.gitbook/assets/0019.png" alt=""><figcaption><p>下載所需的開發環境</p></figcaption></figure>
+
+</div>
+
 ## 執行 Eclipse IDE
 
 1. 在工作區先建立一個工作目錄『workspace』。
