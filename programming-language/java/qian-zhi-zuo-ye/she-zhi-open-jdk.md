@@ -6,7 +6,7 @@ description: 安裝 Open JDK 流程
 
 ## 步驟 1 \_下載 Open JDK
 
-至網站下載 Open JDK，可至 [openlogic](https://www.openlogic.com/openjdk-downloads)下載。\
+至網站下載 Open JDK，可至 [OpenJDK ](https://openjdk.org/)或 [openlogic](https://www.openlogic.com/openjdk-downloads)下載。\
 <mark style="background-color:green;">推薦使用 JDK 11 來做後續 Java 程式使用。</mark>
 
 ## 步驟 2\_安裝 Open JDK
@@ -77,6 +77,8 @@ description: 安裝 Open JDK 流程
 <figure><img src="../../../.gitbook/assets/0012.png" alt=""><figcaption><p>將環境變數移至第一位</p></figcaption></figure>
 
 </div>
+
+
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
