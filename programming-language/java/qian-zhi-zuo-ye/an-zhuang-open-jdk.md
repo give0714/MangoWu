@@ -7,9 +7,7 @@ description: 安裝 Open JDK 流程
 ## 步驟.1
 
 至網站下載 Open JDK。\
-[https://www.openlogic.com/openjdk-downloads](https://www.openlogic.com/openjdk-downloads)
-
-
+可至 [openlogic](https://www.openlogic.com/openjdk-downloads)
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
