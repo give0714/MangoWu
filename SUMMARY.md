@@ -180,6 +180,8 @@
       * [Eclipse](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/README.md)
         * [安裝 Eclipse IDE](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/an-zhuang-eclipse-ide.md)
         * [建立新專案和類別](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/jian-li-xin-zhuan-an-he-lei-bie.md)
+        * [專案目錄](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/zhuan-an-mu-lu.md)
+        * [環境基本設定](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/huan-jing-ji-ben-she-ding.md)
 
 ## Framework
 
