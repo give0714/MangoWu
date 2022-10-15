@@ -21,6 +21,8 @@ public class HelloWorld{
 } // End of class HelloWorld
 ```
 
+{% file src="../../../.gitbook/assets/HelloWorld.java" %}
+
 ## 步驟 2\_編譯 Java 程式
 
 1\. 按『win』+『R』，開啟『執行』視窗。
@@ -35,7 +37,7 @@ public class HelloWorld{
 &#x20;   1\. 輸入【D:】指令，切換到指定槽。\
 &#x20;   2\. 輸入【cd （Java程式所放置的資料夾名稱）】指令，切換到指定槽。\
 &#x20;       例：cd Java\_test\
-&#x20;   3\. 輸入【javac HelloWorld.java】指令，編譯程式。\
+&#x20;   3\. 輸入【javac HelloWorld.java】指令，編譯程式，會產生【HelloWorld.class】的檔案。\
 &#x20;   4\. 輸入【java HelloWorld】指令，執行 Java 程式，就會顯示下述範例。
 
 <figure><img src="../../../.gitbook/assets/0015.png" alt=""><figcaption><p>執行相關指令</p></figcaption></figure>
@@ -44,6 +46,8 @@ public class HelloWorld{
 // 命令提示字元執行狀況
 Hello World!!
 ```
+
+
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
