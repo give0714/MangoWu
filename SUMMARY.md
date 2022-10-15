@@ -171,16 +171,16 @@
   * [第七章 FORM 及 WINDOW](informix-4gl-learning/mu-ci-biao/di-qi-zhang-form-ji-window.md)
     * [Page 2](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/page-2.md)
 * [JAVA](java-zhang-jie-yi-lan-biao.md)
-  * [第一章 前置作業](programming-language/java/di-yi-zhang-qian-zhi-zuo-ye/README.md)
-    * [Open JDK 簡介](programming-language/java/di-yi-zhang-qian-zhi-zuo-ye/open-jdk-jian-jie.md)
-    * [設置 Open JDK](programming-language/java/di-yi-zhang-qian-zhi-zuo-ye/she-zhi-open-jdk.md)
-    * [Hello World!!](programming-language/java/di-yi-zhang-qian-zhi-zuo-ye/hello-world.md)
-    * [Java 撰寫方式](programming-language/java/di-yi-zhang-qian-zhi-zuo-ye/java-zhuan-xie-fang-shi.md)
-    * [Java 開發環境](programming-language/java/di-yi-zhang-qian-zhi-zuo-ye/java-kai-fa-huan-jing/README.md)
-      * [Eclipse](programming-language/java/di-yi-zhang-qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/README.md)
-        * [安裝 Eclipse IDE](programming-language/java/di-yi-zhang-qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/an-zhuang-eclipse-ide.md)
+  * [第一章 前置作業](programming-language/java/qian-zhi-zuo-ye/README.md)
+    * [Open JDK 簡介](programming-language/java/qian-zhi-zuo-ye/open-jdk-jian-jie.md)
+    * [設置 Open JDK](programming-language/java/qian-zhi-zuo-ye/she-zhi-open-jdk.md)
+    * [Hello World!!](programming-language/java/qian-zhi-zuo-ye/hello-world.md)
+    * [Java 撰寫方式](programming-language/java/qian-zhi-zuo-ye/java-zhuan-xie-fang-shi.md)
+    * [Java 開發環境](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/README.md)
+      * [Eclipse](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/README.md)
+        * [安裝 Eclipse IDE](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/an-zhuang-eclipse-ide.md)
         * [專案設置](programming-language/java/di-yi-zhang-qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/zhuan-an-she-zhi/README.md)
-          * [建立新專案](programming-language/java/di-yi-zhang-qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/zhuan-an-she-zhi/jian-li-xin-zhuan-an.md)
+          * [建立新專案](programming-language/java/qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/jian-li-xin-zhuan-an-he-lei-bie.md)
           * [專案目錄](programming-language/java/di-yi-zhang-qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/zhuan-an-she-zhi/zhuan-an-mu-lu.md)
           * [建立新類別](programming-language/java/di-yi-zhang-qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/zhuan-an-she-zhi/jian-li-xin-lei-bie.md)
           * [刪除專案](programming-language/java/di-yi-zhang-qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/zhuan-an-she-zhi/shan-chu-zhuan-an.md)
@@ -200,6 +200,12 @@
 ## SQL Language
 
 * [MS SQL](sql-language/ms-sql.md)
+* [Postgre SQL](sql-language/postgre-sql.md)
+
+## Tools
+
+* [Postman](tools/postman.md)
+* [SQuirrel SQL](tools/squirrel-sql.md)
 
 ## 範例群組頁面
 
