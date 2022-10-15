@@ -8,6 +8,7 @@ description: 用記事本撰寫第一隻 Java 程式
 
 在記事本內，撰寫下述程式碼，並儲存副檔名為『HelloWorld.java』的檔案
 
+{% code lineNumbers="true" %}
 ```java
 // 撰寫 Hello World 的 Java 程式
 public class HelloWorld{
@@ -20,6 +21,7 @@ public class HelloWorld{
 
 } // End of class HelloWorld
 ```
+{% endcode %}
 
 {% file src="../../../.gitbook/assets/HelloWorld.java" %}
 
@@ -43,10 +45,25 @@ public class HelloWorld{
 
 <figure><img src="../../../.gitbook/assets/0015.png" alt=""><figcaption><p>執行相關指令</p></figcaption></figure>
 
+{% code lineNumbers="true" %}
 ```
-// 命令提示字元執行狀況
+/* 命令提示字元執行狀況 */
+// 切換槽
+C:\Users\User>E:
+
+// 切換資料夾
+E:\>cd 資料所在資料夾的位置
+
+// 編譯 Java 程式
+E:\資料所在資料夾的位置>javac HelloWorld.java
+
+// 執行 Java 程式
+E:\資料所在資料夾的位置>java HelloWorld
+
+// 程式執行結果
 Hello World!!
 ```
+{% endcode %}
 
 
 
