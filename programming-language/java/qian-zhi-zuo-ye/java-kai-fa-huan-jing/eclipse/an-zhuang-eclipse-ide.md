@@ -33,8 +33,19 @@ description: Eclipse 安裝操作說明
 1. 在工作區先建立一個工作目錄『workspace』。
 2. 執行『eclipse.exe』。
 3. 在第一次啟動 Eclipse 時，會需要先設定 workspace 的所在位置。\
-   1\. 選擇所建立的工作目錄。\
-   2\. 將『 Use this as the default and do not ask again 』選項勾選
+   1\. 點選『 Browse... 』，選擇所建立的工作目錄。\
+   2\. 將『 Use this as the default and do not ask again 』選項勾選。\
+   3\. 點選『 Launch 』。
+
+<div>
+
+<figure><img src="../../../../../.gitbook/assets/0020.png" alt=""><figcaption><p>按下 eclipse.exe</p></figcaption></figure>
+
+ 
+
+<figure><img src="../../../../../.gitbook/assets/0021.png" alt=""><figcaption><p>第一次啟動 Eclipse 時，需要設定的相關資訊</p></figcaption></figure>
+
+</div>
 
 
 
