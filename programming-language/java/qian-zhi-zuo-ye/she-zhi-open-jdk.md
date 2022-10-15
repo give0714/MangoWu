@@ -15,7 +15,7 @@ description: 安裝 Open JDK 流程
 
 ## 步驟 3\_JAVA\_HOME 系統環境變數設定
 
-1.至 『控制台』->『系統及安全性』->『<mark style="background-color:yellow;">系統</mark>』。
+1\. 至『控制台』->『系統及安全性』->『<mark style="background-color:yellow;">系統</mark>』。
 
 <div>
 
@@ -35,15 +35,15 @@ description: 安裝 Open JDK 流程
 
 <figure><img src="../../../.gitbook/assets/0004.png" alt=""><figcaption><p>點選進階系統設定</p></figcaption></figure>
 
-3.至『系統內容』->『進階』->『<mark style="background-color:yellow;">環境變數</mark>』。
+3\. 至『系統內容』->『進階』->『<mark style="background-color:yellow;">環境變數</mark>』。
 
 <figure><img src="../../../.gitbook/assets/0005.png" alt=""><figcaption><p>點選環境變數</p></figcaption></figure>
 
-4.至『環境變數』->『系統變數』->『<mark style="background-color:yellow;">新增(W)...</mark>』。
+4\. 至『環境變數』->『系統變數』->『<mark style="background-color:yellow;">新增(W)...</mark>』。
 
 <figure><img src="../../../.gitbook/assets/0006.png" alt=""><figcaption><p>點選系統變數的新增</p></figcaption></figure>
 
-5.在『新增系統變數』內新增下述資訊，在點選『<mark style="background-color:yellow;">確定</mark>』：\
+5\. 在『新增系統變數』內新增下述資訊，在點選『<mark style="background-color:yellow;">確定</mark>』：\
 &#x20;  1\. 變數名稱：<mark style="color:red;">JAVA\_HOME</mark>\
 &#x20;  <mark style="color:red;"></mark>   <mark style="color:blue;">2.</mark> 變數值：<mark style="background-color:blue;">放置 OpenJDK 的目錄位置</mark>
 
@@ -58,7 +58,7 @@ description: 安裝 Open JDK 流程
 1.在『環境變數』->『系統變數』，找尋『<mark style="background-color:orange;">Path</mark>』的系統變數，點選兩下並開啟視窗。
 
 2.在『編輯環境變數』，按下『<mark style="background-color:yellow;">新增(N)</mark>』，並新增下述資訊：\
-<mark style="color:red;">%    JAVA\_HOME%\bin</mark>
+&#x20;  <mark style="color:red;">J%AVA\_HOME%\bin</mark>
 
 3\. 點選新增的『<mark style="background-color:orange;">%JAVA\_HOME%\bin</mark>』欄位，並點選『<mark style="background-color:orange;">上移(U)</mark>』，\
 &#x20;   將該欄位移至第一位後，點選『<mark style="background-color:yellow;">確認</mark>』並關閉視窗。
