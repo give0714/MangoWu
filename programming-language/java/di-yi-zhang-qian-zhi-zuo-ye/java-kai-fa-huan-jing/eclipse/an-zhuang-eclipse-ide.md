@@ -1,5 +1,5 @@
 ---
-description: Eclipse 安裝操作說明
+description: Eclipse IDE 安裝操作說明
 ---
 
 # 安裝 Eclipse IDE

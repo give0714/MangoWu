@@ -1,5 +1,5 @@
 ---
-description: Eclipse 專案目錄說明
+description: Eclipse 設置操作說明 - 2
 ---
 
 # 專案目錄
@@ -8,14 +8,14 @@ description: Eclipse 專案目錄說明
 
 1. 放置原始碼的 .java 檔案。
 
-<figure><img src="../../../../../.gitbook/assets/0029.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/0029.png" alt=""><figcaption></figcaption></figure>
 
 ## bin 資料夾
 
 1. 放置編譯生成的 .class 檔案。
 2. 在 Eclipse 內無法看到該資料夾，須至檔案總管，才能看到相關資訊。
 
-<figure><img src="../../../../../.gitbook/assets/0030.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../../.gitbook/assets/0030.png" alt=""><figcaption></figcaption></figure>
 
 
 
