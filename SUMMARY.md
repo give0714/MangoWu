@@ -207,6 +207,7 @@
 
 * [Postman](tools/postman.md)
 * [SQuirrel SQL](tools/squirrel-sql.md)
+* [DBeaver](tools/dbeaver.md)
 
 ## 範例群組頁面
 

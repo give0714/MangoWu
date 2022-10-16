@@ -8,11 +8,9 @@ description: 2021-06-23_Company Learning
 20210816\_持續撰寫中...
 {% endhint %}
 
-
-
 {% tabs %}
 {% tab title="第一章" %}
-第一章   變數
+第一章\_變數
 
 1. [宣告變數](informix-4gl-learning/mu-ci-biao/di-yi-zhang-bian-shu/xuan-gao-bian-shu.md)&#x20;
 2. [命名規則](informix-4gl-learning/mu-ci-biao/di-yi-zhang-bian-shu/untitled.md)
@@ -31,7 +29,7 @@ description: 2021-06-23_Company Learning
 {% endtab %}
 
 {% tab title="第二章" %}
-第二章   資料型別
+第二章\_資料型別
 
 1. 簡單資料型別
    1. CHARACTER DATA
@@ -60,7 +58,7 @@ description: 2021-06-23_Company Learning
 {% endtab %}
 
 {% tab title="第三章" %}
-第三章   程式架構
+第三章\_程式架構
 
 1. [主要架構](informix-4gl-learning/mu-ci-biao/di-san-zhang/cheng-shi-jia-gou.md)
 2. [FUNCTION](informix-4gl-learning/mu-ci-biao/di-san-zhang/function-han-shu-cheng-shi-jia-gou.md)
@@ -86,7 +84,7 @@ description: 2021-06-23_Company Learning
 {% endtab %}
 
 {% tab title="第四章" %}
-第四章   庫存函數
+第四章\_庫存函數
 
 1. 一般型
    1. [ARG\_VAL( )](informix-4gl-learning/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-yi-ban-xing/arg\_val.md)
@@ -138,7 +136,7 @@ description: 2021-06-23_Company Learning
 {% endtab %}
 
 {% tab title="第五章" %}
-第五章   資料庫操作
+第五章\_資料庫操作
 
 1. 資料庫操作
    1. [建立資料庫](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/zi-liao-ku-cao-zuo/jian-li-zi-liao-ku.md)
@@ -175,7 +173,7 @@ description: 2021-06-23_Company Learning
 {% endtab %}
 
 {% tab title="第六章" %}
-第六章   資料處理
+第六章\_資料處理
 
 1. SQL Language
    1. [INSERT 語法](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/sql-language/xin-zeng-yu-fa.md#yu-fa)
@@ -199,13 +197,9 @@ description: 2021-06-23_Company Learning
 {% endtab %}
 
 {% tab title="第七章" %}
-第七章   FORM 及 WINDOW
-
 1.
 {% endtab %}
 {% endtabs %}
-
-
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
