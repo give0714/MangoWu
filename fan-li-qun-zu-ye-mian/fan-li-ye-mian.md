@@ -5,10 +5,10 @@ description: Informix-4GL 範例頁面
 # 範例頁面
 
 {% hint style="danger" %}
-建置中
+建置中...
 {% endhint %}
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
-如有需修改的地方，請前往芒果留言區留言
+如有任何建議的地方，請前往芒果留言區留言
 {% endhint %}

@@ -22,7 +22,7 @@ description: Eclipse 快捷鍵使用說明
 
 2\. 點選『 General 』->『  Key 』， 編輯完相關資訊，點選『  Apply and Close 』。
 
-<figure><img src="../../../../../.gitbook/assets/0039.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../../../.gitbook/assets/0039 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
