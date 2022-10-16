@@ -209,6 +209,10 @@
 * [SQuirrel SQL](tools/squirrel-sql.md)
 * [DBeaver](tools/dbeaver.md)
 
+## Knowledge
+
+* [範例頁面](knowledge/fan-li-ye-mian.md)
+
 ## 範例群組頁面
 
 * [範例頁面](fan-li-qun-zu-ye-mian/fan-li-ye-mian.md)
