@@ -31,5 +31,5 @@ END FUNCTION
 
 {% hint style="danger" %}
 【 [M@nGo 留言區](https://give0714.pixnet.net/blog/post/45997210-informix-4gl-%E8%AE%8A%E6%95%B8%E7%AF%84%E5%9C%8D) 】\
-如有需修改的地方，請前往芒果留言區留言
+如有任何建議的地方，請前往芒果留言區留言。
 {% endhint %}

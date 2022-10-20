@@ -76,5 +76,5 @@ END RECORD
 
 {% hint style="danger" %}
 【 [M@nGo 留言區](https://give0714.pixnet.net/blog/post/45993157-informix-4gl-%E8%AE%8A%E6%95%B8%E5%AE%A3%E5%91%8A) 】\
-如有需修改的地方，請前往芒果留言區留言
+如有任何建議的地方，請前往芒果留言區留言。
 {% endhint %}

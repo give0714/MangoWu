@@ -19,5 +19,5 @@ description: Informix-4GL 狀態變數使用說明
 
 {% hint style="danger" %}
 【 [M@nGo 留言區](https://give0714.pixnet.net/blog/post/45997441-informix-4gl-%E7%8B%80%E6%85%8B%E8%AE%8A%E6%95%B8) 】\
-如有需修改的地方，請前往芒果留言區留言
+如有任何建議的地方，請前往芒果留言區留言。
 {% endhint %}

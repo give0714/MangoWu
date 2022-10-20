@@ -23,6 +23,6 @@ charExpr ： 字元表示式，可用於 LET 敘述、DISPLAY 敘述、PRINT 敘
 {% endhint %}
 
 {% hint style="danger" %}
-前往【 M@nGo 留言區 】\
-如有需修改的地方，請前往芒果留言區留言
+【 M@nGo 留言區 】\
+如有任何建議的地方，請前往芒果留言區留言。
 {% endhint %}

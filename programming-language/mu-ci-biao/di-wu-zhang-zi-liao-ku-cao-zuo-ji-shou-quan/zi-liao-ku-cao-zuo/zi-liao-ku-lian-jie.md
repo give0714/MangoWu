@@ -23,5 +23,5 @@ WITH CONCURRENT TRANSACTION：於連接交易事務時，可同時切換不同�
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
-如有需修改的地方，請前往芒果留言區留言
+如有任何建議的地方，請前往芒果留言區留言。
 {% endhint %}

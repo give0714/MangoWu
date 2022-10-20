@@ -15,5 +15,5 @@ description: Informix-4GL 變數的命名規則
 
 {% hint style="danger" %}
 【 [M@nGo 留言區](https://give0714.pixnet.net/blog/post/45993178-informix-4gl-%E5%91%BD%E5%90%8D%E8%A6%8F%E5%89%87) 】\
-如有需修改的地方，請前往芒果留言區留言
+如有任何建議的地方，請前往芒果留言區留言。
 {% endhint %}
