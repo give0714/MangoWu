@@ -2,7 +2,7 @@
 description: Informix-4GL 資料操作_游標
 ---
 
-# CURSOR 使用方式
+# 使用方式
 
 {% hint style="danger" %}
 建置中
