@@ -1,8 +1,8 @@
 ---
-description: Informix-4GL 資料操作
+description: Informix-4GL 補充說明
 ---
 
-# Page 2
+# Page 1
 
 {% hint style="danger" %}
 建置中
