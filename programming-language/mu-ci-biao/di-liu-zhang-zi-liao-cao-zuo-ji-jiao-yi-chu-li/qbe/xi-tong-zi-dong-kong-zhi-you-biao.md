@@ -1,8 +1,10 @@
 ---
-description: Informix-4GL 資料操作_游標
+description: Informix-4GL 資料操作_QBE
 ---
 
-# 一般 CURSOR
+# 系統自動控制游標
+
+
 
 {% hint style="danger" %}
 建置中

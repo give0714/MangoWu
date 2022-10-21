@@ -12,7 +12,7 @@ DEFINE recordTableName RECORD LIKE tableName.*
 -- 宣告游標 --
 DECLARE cursorName CURSOR FOR
         SELECT * FROM tableName
--- 開啟游標 --
+-- 自動游標 --
 FOREACH cursorName INTO selectTableName.*
         ...
         CONTINUE FOREACH
