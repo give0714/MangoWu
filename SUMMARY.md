@@ -166,6 +166,7 @@
           * [系統自動控制游標](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/select-cao-zuo/xi-tong-zi-dong-kong-zhi-you-biao.md)
         * [PREPARE](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/prepare.md)
     * [QBE](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/README.md)
+      * [QBE 說明](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/qbe-shuo-ming.md)
       * [人工手動控制游標](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/ren-gong-shou-dong-kong-zhi-you-biao.md)
       * [系統自動控制游標](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/xi-tong-zi-dong-kong-zhi-you-biao.md)
     * [CONSTRUCT](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/construct.md)
