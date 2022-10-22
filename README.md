@@ -184,7 +184,7 @@ description: 2021-06-23_Company Learning
    4. [SELECT 語法](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/sql-language/select-yu-fa.md#yu-fa)
 2. [SQL ... END SQL](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/sql-...-end-sql.md#yu-fa)
 3. CURSOR
-   1. [CURSOR 使用方法](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/prepare.md)
+   1. [CURSOR 使用方法](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/select-cao-zuo/prepare/)
    2. [SCROLL CURSOR](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/scroll-cursor.md)
    3. [一般 CURSOR](broken-reference)
    4. [INSERT 操作](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/insert-cao-zuo.md#yu-fa)

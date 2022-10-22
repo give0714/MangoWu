@@ -1,5 +1,5 @@
 ---
-description: Informix-4GL 資料操作_游標種類
+description: Informix-4GL 資料操作_游標
 ---
 
 # 游標種類
@@ -20,8 +20,6 @@ description: Informix-4GL 資料操作_游標種類
 * 僅能向後移動 CURSOR 游標。
 * 會將 CURSOR 游標指到的資料鎖定，直到 CURSOR 游標移動置其他資料，才會將其解鎖。
 * 又稱為 Locking CURSOR。
-
-
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\

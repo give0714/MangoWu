@@ -2,7 +2,7 @@
 description: Informix-4GL 資料操作_QBE 說明
 ---
 
-# QBE 說明
+# 簡介
 
 ## 簡稱
 
