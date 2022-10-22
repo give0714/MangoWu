@@ -93,18 +93,18 @@ END
 ```inform7
 INSTRUCTIONS
             [ DELIMITERS "起始邊界符號"結束邊界符號" ]
-            []SCREEN RECORD recordName ( 
+            [ SCREEN RECORD recordName ( ( [ tableName ].*
+                                           / 1stColumnName, 2stColumnName, ...
+                                           / 1stColumnName ( THROUGH / TURN )
+                                             [ tableName ].lastColumnName ) ) ]
+            [ SCREEN RECORD arrayName[n] ( fieldList ) ]
 [ END ]
 ```
 
 {% hint style="info" %}
 目的：
 
-設定 SCREEN FORM 使用資料庫內哪些資料表。
-{% endhint %}
-
-{% hint style="danger" %}
-建置中
+為選擇性設定，定義 SCREEN FORM、定義 SCREEN ARRAYS、改變 field tag 邊界符號。
 {% endhint %}
 
 {% hint style="danger" %}
