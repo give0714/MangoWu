@@ -2,7 +2,7 @@
 description: Informix-4GL 畫面操作說明
 ---
 
-# Page 1
+# OPTIONS
 
 {% hint style="danger" %}
 建置中
