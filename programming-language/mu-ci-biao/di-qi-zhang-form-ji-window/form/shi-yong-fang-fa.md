@@ -4,8 +4,34 @@ description: Informix-4GL 畫面操作說明
 
 # 使用方法
 
-{% hint style="danger" %}
-建置中
+## OPEN FORM
+
+```inform7
+OPEN FORM formName FROM "formFileName"
+```
+
+## DISPLAY FORM
+
+```inform7
+DISPLAY FORM formName [ Attribute ]
+```
+
+## CLOSE FORM
+
+```inform7
+CLOSE FORM
+```
+
+## CLEAR FORM
+
+```
+CLEAR FORM
+```
+
+{% hint style="info" %}
+目的：
+
+清除螢幕所有欄位資訊。
 {% endhint %}
 
 {% hint style="danger" %}

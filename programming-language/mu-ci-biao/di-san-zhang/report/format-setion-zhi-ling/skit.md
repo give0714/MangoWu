@@ -6,7 +6,7 @@ description: Informix-4GL 報表架構說明《五》
 
 ## 語法
 
-```objectivec
+```inform7
 SKIP ( TO TOP OF PAGE / num ( LINE / LINES ))
 ```
 

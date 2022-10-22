@@ -6,7 +6,7 @@ description: Informix-4GL 報表架構說明《五》
 
 ## 語法
 
-```objectivec
+```inform7
 PRINT
       [ 4GL_Statement ]
       [ COLUMN num ]
@@ -14,7 +14,7 @@ PRINT
       [ LINENO ]
       [ BYTE variable ]
       [ mathStatement ( SPACE / SPACES ) ]
-      [[ GROUP ] ( PERCENT(*)
+      [ [ GROUP ] ( PERCENT(*)
                    / COUNT(*)
                    / AVG( integerStatement / 區間 statement )
                    / SUM( integerStatement / 區間 statement )
