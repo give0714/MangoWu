@@ -55,17 +55,11 @@ FREE cursorName
 ```
 
 {% hint style="info" %}
-可能問題：
+說明：
 
-會造成暫存檔空間不足，且有資料不及時的問題發生。
-{% endhint %}
-
-{% hint style="info" %}
-解決方式：
-
-1. 同時使用 SCROLL CURSOR 敘述及 UPDATE CURSOR 敘述。
-2. SCROLL CURSOR 敘述負責主鍵及提供游標移動。
-3. UPDATE CURSOR 敘述依據 SCROLL CURSOR 敘述的主鍵，以取得完整資料。
+1. 敘述可不含任何程式變數，若須使用變數，則須以 "?" 代表。
+2. INSERT 敘述、UPDATE 敘述、DELETE 敘述需使用 EXECUTE 敘述執行。
+3. SELECT 敘述需使用 CURSOR 敘述執行。
 {% endhint %}
 
 {% hint style="danger" %}
