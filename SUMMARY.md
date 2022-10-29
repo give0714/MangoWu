@@ -203,7 +203,7 @@
   * [第八章 補充資訊](programming-language/mu-ci-biao/di-ba-zhang-bu-chong-zi-xun/README.md)
     * [錯誤代碼](programming-language/mu-ci-biao/di-ba-zhang-bu-chong-zi-xun/cuo-wu-dai-ma.md)
     * [參考資料](programming-language/mu-ci-biao/di-ba-zhang-bu-chong-zi-xun/can-kao-zi-liao.md)
-    * [待補充](programming-language/mu-ci-biao/di-ba-zhang-bu-chong-zi-xun/dai-bu-chong.md)
+    * [待補充](programming-language/mu-ci-biao/di-ba-zhang-bu-chong-zi-xun/page-1.md)
 * [JAVA](programming-language/java/README.md)
   * [第一章 前置作業](programming-language/java/di-yi-zhang-qian-zhi-zuo-ye/README.md)
     * [Open JDK 簡介](programming-language/java/di-yi-zhang-qian-zhi-zuo-ye/open-jdk-jian-jie.md)
@@ -245,7 +245,7 @@
 
 ## Knowledge
 
-* [範例頁面](knowledge/fan-li-ye-mian.md)
+* [知識須知](knowledge/zhi-shi-xu-zhi.md)
 
 ## 範例群組頁面
 

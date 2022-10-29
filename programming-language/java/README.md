@@ -1,17 +1,11 @@
 ---
-description: 2020-12-21_Vocational training Learning
+description: 12210202_Vocational Training Learning
 ---
 
 # JAVA
 
-{% hint style="danger" %}
-20201221\_持續撰寫中...
-{% endhint %}
-
-
-
 {% tabs %}
-{% tab title="第一章" %}
+{% tab title="1" %}
 第一章  前置作業
 
 1. [Open JDK 簡介](di-yi-zhang-qian-zhi-zuo-ye/open-jdk-jian-jie.md)
@@ -34,20 +28,22 @@ description: 2020-12-21_Vocational training Learning
    2. 撰寫中 ...
 {% endtab %}
 
-{% tab title="第二章" %}
+{% tab title="2" %}
 第二章 變數
 
 1.
 {% endtab %}
 
-{% tab title="第三章" %}
+{% tab title="3" %}
 第三章  資料型別
 
 1.
 {% endtab %}
 {% endtabs %}
 
-
+{% hint style="warning" %}
+12210202\_持續撰寫中...
+{% endhint %}
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\

@@ -1,11 +1,11 @@
 ---
-description: 20XX-XX-XX_XXXX Learning
+description: XXXXXXXX_XXXX
 ---
 
 # 範例頁面
 
-{% hint style="danger" %}
-建置中...
+{% hint style="warning" %}
+XXXXXXXX\_持續撰寫中...
 {% endhint %}
 
 {% hint style="danger" %}
