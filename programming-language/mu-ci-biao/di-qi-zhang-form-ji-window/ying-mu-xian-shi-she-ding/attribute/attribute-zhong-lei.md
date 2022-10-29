@@ -22,15 +22,27 @@ description: Informix-4GL 畫面操作說明
 
 <details>
 
-<summary></summary>
+<summary>COMMENTS = "string"</summary>
 
-
+顯示 string 於螢幕 SCREEN 第 23 行上，通常設定注意或提示訊息。
 
 </details>
 
-<table data-view="cards"><thead><tr><th></th><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td></td><td></td><td></td><td><a href="../../../../java/di-san-zhang-zi-liao-xing-bie/ji-ben-zi-liao-xing-bie.md">ji-ben-zi-liao-xing-bie.md</a></td></tr><tr><td></td><td></td><td></td><td></td></tr><tr><td></td><td></td><td></td><td></td></tr></tbody></table>
+<details>
 
+<summary>DEFAULT = systemVariable</summary>
 
+systemVariable 為系統變數或常數。
+
+</details>
+
+<details>
+
+<summary>DISPLAY LIKE tableName.columnName</summary>
+
+設定該欄位資訊
+
+</details>
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
