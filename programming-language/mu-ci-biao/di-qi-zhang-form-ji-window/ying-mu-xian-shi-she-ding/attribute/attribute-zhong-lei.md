@@ -40,7 +40,31 @@ systemVariable 為系統變數或常數。
 
 <summary>DISPLAY LIKE tableName.columnName</summary>
 
-設定該欄位資訊
+設定該欄位資訊參照 tableName.columnName。
+
+</details>
+
+<details>
+
+<summary>DOWNSHIFT</summary>
+
+設定該欄位的所有英文字元轉換成小寫。
+
+</details>
+
+<details>
+
+<summary>UPSHIFT</summary>
+
+設定該欄位的所有英文字元轉換成大寫。
+
+</details>
+
+<details>
+
+<summary>FORMAT = "formatString"控制</summary>
+
+
 
 </details>
 
