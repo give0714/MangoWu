@@ -198,11 +198,11 @@ description: 2021-06-23_Company Learning
 4. QBE
    1. [簡介](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/jian-jie.md)
    2. CURSOR 架構
-      1. [變數與欄位名稱相同](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/scroll-jia-gou/bian-shu-yu-lan-wei-ming-cheng-xiang-tong.md)
-      2. [變數與欄位名稱不相同](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/scroll-jia-gou/bian-shu-yu-lan-wei-ming-cheng-bu-xiang-tong.md)
-   3. SCROLL 架構
       1. [變數與欄位名稱相同](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/cursor-jia-gou/bian-shu-yu-lan-wei-ming-cheng-xiang-tong.md)
       2. [變數與欄位名稱不相同](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/cursor-jia-gou/bian-shu-yu-lan-wei-ming-cheng-bu-xiang-tong.md)
+   3. SCROLL 架構
+      1. [變數與欄位名稱相同](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/cursor-jia-gou/bian-shu-yu-lan-wei-ming-cheng-xiang-tong.md)
+      2. [變數與欄位名稱不相同](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/scroll-jia-gou/bian-shu-yu-lan-wei-ming-cheng-bu-xiang-tong.md)
 5. [CONSTRUCT](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/construct.md)
 6. [Transaction](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/transaction.md)
 7. [補充內容](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/bu-chong-nei-rong.md)
