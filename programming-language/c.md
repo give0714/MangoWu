@@ -1,8 +1,8 @@
 ---
-description: XXXXXXXX_XXXX
+description: 21400202_Myself Learning
 ---
 
-# 範例頁面
+# C
 
 {% tabs %}
 {% tab title="1" %}
@@ -19,7 +19,7 @@ description: XXXXXXXX_XXXX
 {% endtabs %}
 
 {% hint style="warning" %}
-XXXXXXXX\_持續撰寫中...
+21400202\_持續撰寫中...
 {% endhint %}
 
 {% hint style="danger" %}

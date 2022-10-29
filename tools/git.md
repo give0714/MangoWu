@@ -1,8 +1,8 @@
 ---
-description: XXXXXXXX_XXXX
+description: 72012202_Company Learning
 ---
 
-# 範例頁面
+# Git
 
 {% tabs %}
 {% tab title="1" %}
@@ -19,7 +19,7 @@ description: XXXXXXXX_XXXX
 {% endtabs %}
 
 {% hint style="warning" %}
-XXXXXXXX\_持續撰寫中...
+72012202\_持續撰寫中...
 {% endhint %}
 
 {% hint style="danger" %}

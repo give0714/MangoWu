@@ -1,8 +1,8 @@
 ---
-description: XXXXXXXX_XXXX
+description: 12210202_Vocational training Learning
 ---
 
-# 範例頁面
+# Hibernate
 
 {% tabs %}
 {% tab title="1" %}
@@ -19,7 +19,7 @@ description: XXXXXXXX_XXXX
 {% endtabs %}
 
 {% hint style="warning" %}
-XXXXXXXX\_持續撰寫中...
+12210202\_持續撰寫中...
 {% endhint %}
 
 {% hint style="danger" %}
