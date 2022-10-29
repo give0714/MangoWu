@@ -2,10 +2,10 @@
 description: Informix-4GL 補充說明
 ---
 
-# Page 1
+# 待補充
 
-{% hint style="danger" %}
-建置中
+{% hint style="warning" %}
+待補充
 {% endhint %}
 
 {% hint style="danger" %}
