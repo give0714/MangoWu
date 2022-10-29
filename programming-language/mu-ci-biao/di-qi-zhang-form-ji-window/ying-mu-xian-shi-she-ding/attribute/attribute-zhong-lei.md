@@ -62,9 +62,25 @@ systemVariable 為系統變數或常數。
 
 <details>
 
-<summary>FORMAT = "formatString"控制</summary>
+<summary>FORMAT = "formatString"</summary>
 
+控制輸出時該欄位的顯示格式。
 
+</details>
+
+<details>
+
+<summary>PICTURE = "formatString"</summary>
+
+控制輸入時的該欄位的顯示格式。
+
+</details>
+
+<details>
+
+<summary>INCLUDE = ( value [ TO value ] / NULL )</summary>
+
+設定在輸入資料時
 
 </details>
 
