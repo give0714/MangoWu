@@ -184,15 +184,25 @@ description: 2021-06-23_Company Learning
    4. [SELECT 語法](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/sql-language/select-yu-fa.md#yu-fa)
 2. [SQL ... END SQL](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/sql-...-end-sql.md#yu-fa)
 3. CURSOR
-   1. [CURSOR 使用方法](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/select-cao-zuo/prepare/)
+   1. [游標種類](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/you-biao-zhong-lei.md)
    2. [SCROLL CURSOR](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/scroll-cursor.md)
-   3. [一般 CURSOR](broken-reference)
-   4. [INSERT 操作](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/insert-cao-zuo.md#yu-fa)
-   5. [UPDATE 操作](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/update-cao-zuo.md#yu-fa)
-   6. SELECT 操作
-      1. [人工手動控制游標](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/select-cao-zuo/ren-gong-shou-dong-kong-zhi-you-biao.md#yu-fa)
-      2. [系統自動控制游標](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/select-cao-zuo/xi-tong-zi-dong-kong-zhi-you-biao.md#yu-fa)
-4. [QBE](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/)
+   3. [INSERT 操作](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/insert-cao-zuo.md#yu-fa)
+   4. [UPDATE 操作](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/update-cao-zuo.md#yu-fa)
+   5. SELECT 操作
+      1. CURSOR
+         1. [人工手動控制游標](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/select-cao-zuo/ren-gong-shou-dong-kong-zhi-you-biao.md)
+         2. [系統自動控制游標](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/select-cao-zuo/xi-tong-zi-dong-kong-zhi-you-biao.md)
+      2. PREPARE
+         1. [人工手動控制游標](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/select-cao-zuo/prepare/ren-gong-shou-dong-kong-zhi-you-biao.md)
+         2. [系統自動控制游標](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/cursor/select-cao-zuo/prepare/xi-tong-zi-dong-kong-zhi-you-biao.md)
+4. QBE
+   1. [簡介](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/jian-jie.md)
+   2. CURSOR 架構
+      1. [變數與欄位名稱相同](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/scroll-jia-gou/bian-shu-yu-lan-wei-ming-cheng-xiang-tong.md)
+      2. [變數與欄位名稱不相同](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/scroll-jia-gou/bian-shu-yu-lan-wei-ming-cheng-bu-xiang-tong.md)
+   3. SCROLL 架構
+      1. [變數與欄位名稱相同](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/cursor-jia-gou/bian-shu-yu-lan-wei-ming-cheng-xiang-tong.md)
+      2. [變數與欄位名稱不相同](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/qbe/cursor-jia-gou/bian-shu-yu-lan-wei-ming-cheng-bu-xiang-tong.md)
 5. [CONSTRUCT](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/construct.md)
 6. [Transaction](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/transaction.md)
 7. [補充內容](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/bu-chong-nei-rong.md)
