@@ -2,11 +2,19 @@
 description: Informix-4GL 畫面操作說明
 ---
 
-# 螢幕交談指令
+# Line Mode 行
 
-{% hint style="danger" %}
-建置中
-{% endhint %}
+## 語法1
+
+```inform7
+DISPLAY "str1" [, "str2", ... ] COLUMN int
+```
+
+## 語法 2
+
+```inform7
+DISPLAY variable1 [, variable2, ... ] COLUMN int
+```
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\

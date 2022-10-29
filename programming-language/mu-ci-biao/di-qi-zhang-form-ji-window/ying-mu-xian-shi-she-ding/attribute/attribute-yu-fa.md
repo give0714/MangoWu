@@ -2,7 +2,7 @@
 description: Informix-4GL 畫面操作說明
 ---
 
-# ATTRIBUTE
+# ATTRIBUTE 語法
 
 {% hint style="danger" %}
 建置中
