@@ -4,6 +4,12 @@ description: Informix-4GL 畫面操作說明
 
 # ATTRIBUTE 語法
 
+## 語法
+
+```inform7
+ATTRIBUTE ( [ REVERSE / BLINK / UNDERLINE ] )
+```
+
 {% hint style="danger" %}
 建置中
 {% endhint %}
