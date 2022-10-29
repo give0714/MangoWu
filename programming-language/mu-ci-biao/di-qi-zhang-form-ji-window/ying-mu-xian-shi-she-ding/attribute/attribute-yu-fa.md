@@ -7,7 +7,14 @@ description: Informix-4GL 畫面操作說明
 ## 語法
 
 ```inform7
-ATTRIBUTE ( [ REVERSE / BLINK / UNDERLINE ] )
+ATTRIBUTE ( [ ( REVERSE / BLINK / UNDERLINE ) ]
+            [ ( BLACK / BLUE / CYAN / GREEN / MAGENTA / RED / WHILE / YELLOW ) ]
+            [ ( BOLD / DIM / INVISIBLE / NORMAL ) ]
+            [ CURREN ROW DISPLAY = "特效ㄝ, ..." ]            【限 INPUT ARRAY 敘述使用】
+            [ COUNT              = ( int / variableName ) ]
+            [ MAXCOUNT           = ( int / variableName ) ]
+            [ INSERT ROW         = ( TRUE / FALSE ) ]
+            [ DELETE ROW         = ( TRUE / FALSE ) ] )
 ```
 
 {% hint style="danger" %}
