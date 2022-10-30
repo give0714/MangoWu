@@ -22,11 +22,11 @@ description: Java 變數說明
 
 ## 識別字命名慣用型式
 
-* <mark style="color:red;">class</mark> & <mark style="color:red;">interface 類別 和</mark>\
-  介面CtomerName
-* <mark style="color:red;">methon</mark> & <mark style="color:red;">variable</mark>\
+* <mark style="color:red;">class</mark> & <mark style="color:red;">interface</mark> 類別和介面\
+  CustomerName
+* <mark style="color:red;">methon</mark> & <mark style="color:red;">variable</mark> 函數和變數\
   customerName
-* <mark style="color:red;">constant</mark>\
+* <mark style="color:red;">constant</mark> 常數變數\
   CUSTOMER\_COUNT
 
 {% hint style="warning" %}
