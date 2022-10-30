@@ -19,6 +19,7 @@ description: Java 變數說明
 7. 如果命名兩個字母均相同的變數，但大小寫不同時，會被視為不同的變數。
 8. 可使用許多標準萬國碼（Unicode）的字原來命名。
 9. 可使用中文來命名變數，但還是建議不要這樣使用。
+10. goto 和 const 為保留字（reserved word），不可使用。
 
 ## 識別字命名慣用型式
 
@@ -28,10 +29,6 @@ description: Java 變數說明
   customerName
 * <mark style="color:red;">constant</mark> 常數變數\
   CUSTOMER\_COUNT
-
-{% hint style="warning" %}
-建置中...
-{% endhint %}
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\

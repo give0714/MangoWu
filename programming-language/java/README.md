@@ -41,8 +41,8 @@ description: 12210202_Vocational Training Learning
 第二章 變數
 
 1. [甚麼是變數 ?](di-er-zhang-bian-shu/shen-mo-shi-bian-shu.md)
-2. 變數的名稱
-3. 關鍵字 Keyward
+2. [變數的名稱](di-er-zhang-bian-shu/bian-shu-de-ming-cheng.md)
+3. [關鍵字 Keyward](di-er-zhang-bian-shu/guan-jian-zi-keyword.md)
 {% endtab %}
 
 {% tab title=" 第三章" %}

@@ -4,7 +4,7 @@ description: Java 程式的基本要素
 
 # Java 程式起點 main()
 
-<img src="../../../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+<img src="../../../../.gitbook/assets/file.drawing (1).svg" alt="" class="gitbook-drawing">
 
 {% code title="SecondJava.java" lineNumbers="true" %}
 ```java
