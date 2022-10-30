@@ -5,7 +5,7 @@ description: 32601202_Company Learning
 # INFORMIX-4GL
 
 {% tabs %}
-{% tab title=" 1" %}
+{% tab title=" 第一章" %}
 第一章   變數
 
 1. [宣告變數](programming-language/mu-ci-biao/di-yi-zhang-bian-shu/xuan-gao-bian-shu.md)&#x20;
@@ -24,7 +24,7 @@ description: 32601202_Company Learning
 7. [WHENEVER ERROR 系統錯誤設定](programming-language/mu-ci-biao/di-yi-zhang-bian-shu/whenever-error-xi-tong-cuo-wu-she-ding.md)
 {% endtab %}
 
-{% tab title=" 2" %}
+{% tab title="  第二章" %}
 第二章   資料型別
 
 1. 簡單資料型別
@@ -53,7 +53,7 @@ description: 32601202_Company Learning
    1. [SERIAL](programming-language/mu-ci-biao/di-er-zhang-zi-liao-xing-bie/qi-ta-zi-liao-xing-bie/serial.md)
 {% endtab %}
 
-{% tab title=" 3" %}
+{% tab title="  第三章" %}
 第三章   程式架構
 
 1. [主要架構](programming-language/mu-ci-biao/di-san-zhang/cheng-shi-jia-gou.md)
@@ -79,7 +79,7 @@ description: 32601202_Company Learning
 6. [INPUT ARRAY](programming-language/mu-ci-biao/di-san-zhang/input-array.md)
 {% endtab %}
 
-{% tab title=" 4" %}
+{% tab title="  第四章" %}
 第四章   庫存函數
 
 1. 一般型
@@ -131,7 +131,7 @@ description: 32601202_Company Learning
    5. [ERRORLOG( )](programming-language/mu-ci-biao/di-si-zhang-ku-cun-han-shu/ku-cun-han-shu-cuo-wu-xing/errorlog.md)
 {% endtab %}
 
-{% tab title=" 5" %}
+{% tab title="  第五章" %}
 第五章   資料庫操作
 
 1. 資料庫操作
@@ -168,7 +168,7 @@ description: 32601202_Company Learning
    5. [索引命名規則](programming-language/mu-ci-biao/di-wu-zhang-zi-liao-ku-cao-zuo-ji-shou-quan/suo-yin-cao-zuo/suo-yin-ming-ming-gui-ze.md)
 {% endtab %}
 
-{% tab title=" 6" %}
+{% tab title="  第六章" %}
 第六章   資料處理
 
 1. SQL Language
@@ -202,7 +202,7 @@ description: 32601202_Company Learning
 7. [補充內容](programming-language/mu-ci-biao/di-liu-zhang-zi-liao-cao-zuo-ji-jiao-yi-chu-li/bu-chong-nei-rong.md)
 {% endtab %}
 
-{% tab title=" 7" %}
+{% tab title="  第七章" %}
 第七章   FORM 及 WINDOW
 
 1. FORM
@@ -228,7 +228,7 @@ description: 32601202_Company Learning
       2. [ATTRIBUTE 種類](programming-language/mu-ci-biao/di-qi-zhang-form-ji-window/ying-mu-xian-shi-she-ding/attribute/attribute-zhong-lei.md)
 {% endtab %}
 
-{% tab title=" 8" %}
+{% tab title="  第八章" %}
 第八章   補充資訊
 
 1. [錯誤代碼](programming-language/mu-ci-biao/di-ba-zhang-bu-chong-zi-xun/cuo-wu-dai-ma.md)

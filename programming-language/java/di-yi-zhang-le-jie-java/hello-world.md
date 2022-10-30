@@ -1,5 +1,5 @@
 ---
-description: 用記事本撰寫第一隻 Java 程式
+description: 使用文書編輯器撰寫第一隻 Java 程式
 ---
 
 # Hello World!!
@@ -11,9 +11,9 @@ description: 用記事本撰寫第一隻 Java 程式
 {% code lineNumbers="true" %}
 ```java
 // 撰寫 Hello World 的 Java 程式
-public class HelloWorld{
+public class HelloWorld {
 
-       public static void main(String[] args){
+       public static void main(String[] args) {
 
               System.out.println("Hello World!!");
 
