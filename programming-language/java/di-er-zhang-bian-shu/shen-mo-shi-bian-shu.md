@@ -8,31 +8,41 @@ description: Java 變數說明
 
 * 變數（Variable）是用來存放暫時的資料，以便後續的處理。
 
-## 變數的宣告
+## 變數的操作
 
-{% code title="DeclareVar" lineNumbers="true" %}
+{% code title="DeclareVar.java" lineNumbers="true" %}
 ```java
 public class DeclareVar {
     public static void main(String[] argv) {
-    /* 前兩行都是固定的程式骨架 */
-
-        // 在 main() 區塊中要執行的程式
-        System.out.println
-        ("自己編寫的第五支 Java 程式");
-        System.out.println
-        ("程式裡有註解!!");
-
-    /* 以下也是固定的程式骨架 */
-    } // main() 區塊的結束括號
-} // FifthJava 區塊的結束括號
-自己編寫的第五支 Java 程式
-程式裡有註解!!
+    
+    // 宣告一個名稱為 i 的變數
+        int i;
+        // 宣告一個名稱為 j 的變數，並將 20 放入變數內
+        int j= 30;
+        // 將 20 放入 i 這個變數內
+        i = 20;
+        System.out.println("i = " + i);
+        System.out.println("j = " + j);
+        
+    }
+}
 ```
 {% endcode %}
 
-{% hint style="warning" %}
-建置中...
-{% endhint %}
+{% code title="執行結果" %}
+```
+i = 20
+j = 30
+```
+{% endcode %}
+
+* "="\
+  稱為指定運算符（Assignment Operator）。\
+  功用為將資料放到變數中。
+* "+"\
+  稱為連接運算符（Concantenation Operator）。\
+  功用為將兩段文字連接起來。
+* 可在宣告變數的同時，就設定該變數的初值。
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
