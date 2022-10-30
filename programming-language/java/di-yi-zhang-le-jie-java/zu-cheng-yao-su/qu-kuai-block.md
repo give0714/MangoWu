@@ -4,18 +4,16 @@ description: Java 程式的基本要素
 
 # 區塊 Block
 
-<img src="../../../../.gitbook/assets/file.drawing (1).svg" alt="" class="gitbook-drawing">
+<img src="../../../../.gitbook/assets/file.drawing (2).svg" alt="" class="gitbook-drawing">
 
 {% code title="FirstJava.java" lineNumbers="true" %}
 ```java
 public class FirstJava {
-
     public static void main(String[] argv) {
 
         System.out.println("自己編寫的第一支 Java 程式");
 
     }
-
 }
 ```
 {% endcode %}

@@ -31,44 +31,6 @@ description: Java 撰寫方式說明
 3. 一般 Java 的敘述都須寫在『方法 ( methin )』內，\
    只有『宣告 ( declarative )』敘述可以寫在方法外。
 
-## Java 的四種註解
-
-1\. 單行註解：
-
-{% code lineNumbers="true" %}
-```java
-// 註解文字
-```
-{% endcode %}
-
-2\. 多行註解：
-
-{% code lineNumbers="true" %}
-```java
-/* 第一行註解文字
-   第二行註解文字
-   ... */
-```
-{% endcode %}
-
-3\. 文件註解：
-
-{% code lineNumbers="true" %}
-```java
-/** 第一行註解文字
-    第二行註解文字
-    ... */
-```
-{% endcode %}
-
-4\. Annotation 註解：【JDK 5.0 以後才有的語法】
-
-{% code lineNumbers="true" %}
-```java
-@Annotation
-```
-{% endcode %}
-
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
 如有任何建議的地方，請前往芒果留言區留言。

@@ -4,19 +4,17 @@ description: Java 程式的基本要素
 
 # Java 程式起點 main()
 
-<img src="../../../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+<img src="../../../../.gitbook/assets/file.drawing (1).svg" alt="" class="gitbook-drawing">
 
 {% code title="SecondJava.java" lineNumbers="true" %}
 ```java
 public class SecondJava {
-
     public static void main(String[] argv) {
 
         System.out.println("自己編寫的第二支 Java 程式");
         System.out.println("大家好!!");
 
     }
-
 }
 ```
 {% endcode %}

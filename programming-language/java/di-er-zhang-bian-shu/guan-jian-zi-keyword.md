@@ -1,8 +1,8 @@
 ---
-description: Java 基本資料型別種類
+description: Java 變數說明
 ---
 
-# 基本資料型別
+# 關鍵字 Keyword
 
 
 

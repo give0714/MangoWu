@@ -15,12 +15,13 @@ description: 12210202_Vocational Training Learning
    1. [OPEN JDK 簡介](di-yi-zhang-qian-zhi-zuo-ye/open-jdk-jian-jie.md)
    2. [設置 Open JDK](di-yi-zhang-qian-zhi-zuo-ye/she-zhi-open-jdk.md)
 3. [Hello World!!](di-yi-zhang-qian-zhi-zuo-ye/hello-world.md)
-4. [撰寫方式](di-yi-zhang-qian-zhi-zuo-ye/java-zhuan-xie-fang-shi.md)
-5. 組成要素
+4. 組成要素
    1. [區塊 Block](di-yi-zhang-le-jie-java/zu-cheng-yao-su/qu-kuai-block.md)
    2. [Java 程式起點 main()](di-yi-zhang-le-jie-java/zu-cheng-yao-su/java-cheng-shi-qi-dian-main.md)
-   3.
-6. 開發環境
+   3. [敘述 Statement](di-yi-zhang-le-jie-java/zu-cheng-yao-su/xu-shu-statement.md)
+   4. [註解 Comment](di-yi-zhang-le-jie-java/zu-cheng-yao-su/zhu-jie-comment.md)
+   5. [撰寫方式](di-yi-zhang-le-jie-java/zu-cheng-yao-su/zhuan-xie-fang-shi.md)
+5. 開發環境
    1. Eclipse
       1. [安裝 Eclipse IDE](di-yi-zhang-qian-zhi-zuo-ye/java-kai-fa-huan-jing/eclipse/an-zhuang-eclipse-ide.md)
       2. 專案設置

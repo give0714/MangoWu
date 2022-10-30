@@ -7,7 +7,6 @@ description: Java 程式的基本要素
 {% code title="ThirdJava.java" lineNumbers="true" %}
 ```java
 public class ThirdJava {
-
     public static void main(String[] argv) {
 
         System.out.println
@@ -16,7 +15,6 @@ public class ThirdJava {
         ("大家好!!");
 
     }
-
 }
 ```
 {% endcode %}
