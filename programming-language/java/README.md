@@ -40,7 +40,9 @@ description: 12210202_Vocational Training Learning
 {% tab title=" 第二章" %}
 第二章 變數
 
-1.
+1. [甚麼是變數 ?](di-er-zhang-bian-shu/shen-mo-shi-bian-shu.md)
+2. 變數的名稱
+3. 關鍵字 Keyward
 {% endtab %}
 
 {% tab title=" 第三章" %}
