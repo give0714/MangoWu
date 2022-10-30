@@ -8,7 +8,7 @@ description: 使用文書編輯器撰寫第一隻 Java 程式
 
 在記事本內，撰寫下述程式碼，並儲存副檔名為『HelloWorld.java』的檔案
 
-{% code lineNumbers="true" %}
+{% code title="HelloWorld.java" lineNumbers="true" %}
 ```java
 // 撰寫 Hello World 的 Java 程式
 public class HelloWorld {

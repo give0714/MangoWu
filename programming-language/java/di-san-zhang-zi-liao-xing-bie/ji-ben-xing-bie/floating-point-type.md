@@ -1,8 +1,8 @@
 ---
-description: Java 基本資料型別種類
+description: Java 基本型別 Primitive Data Types 種類
 ---
 
-# 基本資料型別
+# Floating Point Type
 
 
 
@@ -14,3 +14,4 @@ description: Java 基本資料型別種類
 【 M@nGo 留言區 】\
 如有任何建議的地方，請前往芒果留言區留言。
 {% endhint %}
+
