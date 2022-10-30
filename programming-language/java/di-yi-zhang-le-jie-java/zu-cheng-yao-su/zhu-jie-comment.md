@@ -2,29 +2,31 @@
 description: Java 程式的基本要素
 ---
 
-# 敘述 Statement
+# 註解 Comment
 
-{% code title="ThirdJava.java" lineNumbers="true" %}
+{% code title="FourthJava.java" lineNumbers="true" %}
 ```java
-public class ThirdJava {
-
+// 所要撰寫的第一個有註解的程式
+public class FourthJava {
     public static void main(String[] argv) {
+    // 前兩行都是固定的程式骨架
 
+        // 在 main() 區塊中要執行的程式
         System.out.println
-        ("自己編寫的第三支 Java 程式");
+        ("自己編寫的第四支 Java 程式");
         System.out.println
-        ("大家好!!");
+        ("程式裡有註解!!");
 
-    }
-
-}
+    // 以下也是固定的程式骨架
+    } // main() 區塊的結束括號
+} // FourthJava 區塊的結束括號
 ```
 {% endcode %}
 
 {% code title="執行結果" %}
 ```
-自己編寫的第三支 Java 程式
-大家好!!
+自己編寫的第四支 Java 程式
+程式裡有註解!!
 ```
 {% endcode %}
 

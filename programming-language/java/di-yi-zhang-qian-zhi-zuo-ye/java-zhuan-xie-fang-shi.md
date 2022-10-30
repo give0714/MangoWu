@@ -2,7 +2,7 @@
 description: Java 撰寫方式說明
 ---
 
-# Java 撰寫方式
+# 撰寫方式
 
 ## 檔案副檔名及檔案命名方式
 
@@ -68,8 +68,6 @@ description: Java 撰寫方式說明
 @Annotation
 ```
 {% endcode %}
-
-
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
