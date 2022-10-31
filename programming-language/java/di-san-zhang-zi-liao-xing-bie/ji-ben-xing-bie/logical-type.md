@@ -21,7 +21,7 @@ description: Java 基本型別 Primitive Data Types 種類
 
 {% code title="UsingBoolean.java" lineNumbers="true" %}
 ```java
-public class UsingBoolean{
+public class UsingBoolean {
        public static void main(String[] args) {
 
               boolean test = false;

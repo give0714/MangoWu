@@ -6,18 +6,18 @@ description: Java 基本型別 Primitive Data Types 種類
 
 ## 簡介
 
-|   型別  |    長度   |             值域            |   初值   |  備註 |
-| :---: | :-----: | :-----------------------: | :----: | :-: |
-|  byte |  8 bits | -2 的  7次方 \~ 2 的  7次方 - 1 |    0   |     |
-| short | 16 bits | -2 的 15次方 \~ 2 的 15次方 - 1 |    0   |     |
-|  int  | 32 bits | -2 的 31次方 \~ 2 的 31次方 - 1 |    0   |  預設 |
-|  long | 64 bits | -2 的 63次方 \~ 2 的 63次方 - 1 | 0L / 0 |     |
+|   型別  |    長度   |             值域            |   初值   | 使用建議 |  備註 |
+| :---: | :-----: | :-----------------------: | :----: | :--: | :-: |
+|  byte |  8 bits | -2 的  7次方 \~ 2 的  7次方 - 1 |    0   |   X  |     |
+| short | 16 bits | -2 的 15次方 \~ 2 的 15次方 - 1 |    0   |   X  |     |
+|  int  | 32 bits | -2 的 31次方 \~ 2 的 31次方 - 1 |    0   |      |  預設 |
+|  long | 64 bits | -2 的 63次方 \~ 2 的 63次方 - 1 | 0L / 0 |      |     |
 
 ## 範例
 
-{% code title="UsingBoolean.java" lineNumbers="true" %}
+{% code title="UsingIntegral.java" lineNumbers="true" %}
 ```java
-public class UsingBoolean{
+public class UsingIntegral {
        public static void main(String[] args) {
 
               boolean test = false;
