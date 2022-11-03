@@ -236,6 +236,8 @@
     * [甚麼是變數 ?](programming-language/java/di-er-zhang-bian-shu/shen-mo-shi-bian-shu.md)
     * [變數的名稱](programming-language/java/di-er-zhang-bian-shu/bian-shu-de-ming-cheng.md)
     * [關鍵字 Keyword](programming-language/java/di-er-zhang-bian-shu/guan-jian-zi-keyword.md)
+    * [區域變數](programming-language/java/di-er-zhang-bian-shu/qu-yu-bian-shu.md)
+    * [全域變數](programming-language/java/di-er-zhang-bian-shu/quan-yu-bian-shu.md)
   * [第三章 資料型別](programming-language/java/di-san-zhang-zi-liao-xing-bie/README.md)
     * [分類說明](programming-language/java/di-san-zhang-zi-liao-xing-bie/fen-lei-shuo-ming.md)
     * [基本型別](programming-language/java/di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/README.md)
