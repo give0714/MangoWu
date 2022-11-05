@@ -243,7 +243,7 @@
     * [基本型別](programming-language/java/di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/README.md)
       * [Logical Type](programming-language/java/di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/logical-type.md)
       * [Integral Type](programming-language/java/di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/integral-type/README.md)
-        * [Integral 種類](programming-language/java/di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/integral-type/integral-zhong-lei.md)
+        * [Integral 種類](programming-language/java/di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/integral-type.md)
         * [Integral 進制設定](programming-language/java/di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/integral-type/integral-jin-zhi-she-ding.md)
       * [Floating Point Type](programming-language/java/di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/floating-point-type.md)
       * [Textual Type](programming-language/java/di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/textual-type.md)
