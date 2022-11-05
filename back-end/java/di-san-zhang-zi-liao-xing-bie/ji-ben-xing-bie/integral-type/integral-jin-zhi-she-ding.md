@@ -38,9 +38,9 @@ public class IntegerValue {
 {% code title="執行結果" %}
 ```
 a 為：10
-a的二進位為：0b1010 或 0B1010
-a的八進位為：012
-a的十六進位為：0xa 或 0XA 或 0Xa 或 0XA
+a 的二進位為：0b1010 或 0B1010
+a 的八進位為：012
+a 的十六進位為：0xa 或 0XA 或 0Xa 或 0XA
 ```
 {% endcode %}
 
