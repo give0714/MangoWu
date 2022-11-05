@@ -13,6 +13,8 @@ description: Java 基本型別 Primitive Data Types 種類
 |  10  |     |      |     |
 |  16  |     |      |     |
 
+
+
 ## 範例
 
 <pre class="language-java" data-title="UsingIntegral.java" data-line-numbers><code class="lang-java"><strong>public class UsingIntegral {
