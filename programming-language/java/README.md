@@ -51,7 +51,7 @@ description: 12210202_Vocational Training Learning
 1. [分類說明](di-san-zhang-zi-liao-xing-bie/fen-lei-shuo-ming.md)
 2. 基本型別
    1. [Logical Type](di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/logical-type.md)
-   2. [Integral Type](di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/integral-type.md)
+   2. [Integral Type](di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/integral-type/integral-zhong-lei.md)
    3. [Floating Point Type](di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/floating-point-type.md)
    4. [Textual Type](di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/textual-type.md)
 3. 參照型別
