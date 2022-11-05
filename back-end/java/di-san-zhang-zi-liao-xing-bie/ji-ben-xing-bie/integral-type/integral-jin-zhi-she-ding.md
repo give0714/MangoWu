@@ -47,7 +47,9 @@ a的十六進位為：0xa 或 0XA 或 0Xa 或 0XA
 {% hint style="info" %}
 說明：
 
-輸出數值時，預設為十進位表示。
+* 輸出數值時，預設為十進位表示。
+* 預設為正數。
+* 預設為 int 型別，如果要表示為 long 型別，就必須在數值後面加上 L 或 l。
 {% endhint %}
 
 {% hint style="danger" %}
