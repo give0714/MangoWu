@@ -43,8 +43,6 @@ description: 12210202_Vocational Training Learning
 1. [甚麼是變數 ?](di-er-zhang-bian-shu/shen-mo-shi-bian-shu.md)
 2. [變數的名稱](di-er-zhang-bian-shu/bian-shu-de-ming-cheng.md)
 3. [關鍵字 Keyward](di-er-zhang-bian-shu/guan-jian-zi-keyword.md)
-4. [區域變數](di-er-zhang-bian-shu/qu-yu-bian-shu.md)
-5. [全域變數](di-er-zhang-bian-shu/quan-yu-bian-shu.md)
 {% endtab %}
 
 {% tab title=" 第三章" %}
@@ -54,8 +52,6 @@ description: 12210202_Vocational Training Learning
 2. 基本型別
    1. [Logical Type](di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/logical-type.md)
    2. [Integral Type](di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/integral-type/integral-zhong-lei.md)
-      1. [Integral 種類](di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/integral-type/integral-zhong-lei.md)
-      2. [Integral 進制設定](di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/integral-type/integral-jin-zhi-she-ding.md)
    3. [Floating Point Type](di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/floating-point-type.md)
    4. [Textual Type](di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/textual-type.md)
 3. 參照型別

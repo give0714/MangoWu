@@ -53,10 +53,6 @@ char 型別的 < u5b57 > 為 字
 |  \\' | \u0027 |     單引號     |     |
 | \\\\ | \u005c |     反斜線     |     |
 
-{% hint style="warning" %}
-建置中...
-{% endhint %}
-
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
 如有任何建議的地方，請前往芒果留言區留言。
