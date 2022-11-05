@@ -6,19 +6,17 @@ description: Java 基本型別 Primitive Data Types 種類
 
 ## 種類
 
-|   型別  |    長度   |                                                       值域                                                       |    初值   | 使用建議 |  備註 |
-| :---: | :-----: | :------------------------------------------------------------------------------------------------------------: | :-----: | :--: | :-: |
-|  byte |  8 bits |                 <p>-2 的  7次方 ~ 2 的  7次方 - 1<br><mark style="color:blue;">-128 ~ 127</mark></p>                 |    0    |   X  |     |
-| short | 16 bits |               <p>-2 的 15次方 ~ 2 的 15次方 - 1<br><mark style="color:blue;">-32768 ~ 32767</mark></p>               |    0    |   X  |     |
-|  int  | 32 bits |          <p>-2 的 31次方 ~ 2 的 31次方 - 1<br><mark style="color:blue;">-2147483648 ~ 2147483647</mark></p>          |    0    |      |  預設 |
-|  long | 64 bits | <p>-2 的 63次方 ~ 2 的 63次方 - 1<br><mark style="color:blue;">-9223372036854775808 ~ 9223372036854775807</mark></p> | 0L / 0l |      |     |
+|   型別  |    長度   |                                                       值域                                                       |   初值   | 使用建議 |  備註 |
+| :---: | :-----: | :------------------------------------------------------------------------------------------------------------: | :----: | :--: | :-: |
+|  byte |  8 bits |                 <p>-2 的  7次方 ~ 2 的  7次方 - 1<br><mark style="color:blue;">-128 ~ 127</mark></p>                 |    0   |   X  |     |
+| short | 16 bits |               <p>-2 的 15次方 ~ 2 的 15次方 - 1<br><mark style="color:blue;">-32768 ~ 32767</mark></p>               |    0   |   X  |     |
+|  int  | 32 bits |          <p>-2 的 31次方 ~ 2 的 31次方 - 1<br><mark style="color:blue;">-2147483648 ~ 2147483647</mark></p>          |    0   |      |  預設 |
+|  long | 64 bits | <p>-2 的 63次方 ~ 2 的 63次方 - 1<br><mark style="color:blue;">-9223372036854775808 ~ 9223372036854775807</mark></p> | 0L / 0 |      |     |
 
 ## 範例
 
-{% code title="UsingIntegral.java" lineNumbers="true" %}
-```java
-public class UsingIntegral {
-       public static void main(String[] args) {
+<pre class="language-java" data-title="UsingIntegral.java" data-line-numbers><code class="lang-java"><strong>public class UsingIntegral {
+</strong>       public static void main(String[] args) {
 
               byte b = 127;
               System.out.println("byte 變數 b 的值：" + b);
@@ -30,9 +28,7 @@ public class UsingIntegral {
               System.out.println("long 變數 l 的值：" + l);              
 
        }
-}
-```
-{% endcode %}
+}</code></pre>
 
 {% code title="執行結果" %}
 ```
