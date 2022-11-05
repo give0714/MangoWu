@@ -18,9 +18,9 @@ description: Java 基本型別 Primitive Data Types 種類
 {% code title="IntegerValue.java" lineNumbers="true" %}
 ```java
 public class IntegerValue {
-  public static void main(String[] args) {
+    public static void main(String[] args) {
 		    
-int a = 10;
+        int a = 10;
 	System.out.println("a 為：" + a);
 	System.out.print("a的二進位為：0b" + Integer.toBinaryString(a));
 	System.out.println(" 或 0B" + Integer.toBinaryString(a));
@@ -37,15 +37,17 @@ int a = 10;
 
 {% code title="執行結果" %}
 ```
-byte 變數 b 的值：127
-short 變數 s 的值：32767
-int 變數 i 的值：2147483647
-long 變數 l 的值：9223372036854775807
+a 為：10
+a的二進位為：0b1010 或 0B1010
+a的八進位為：012
+a的十六進位為：0xa 或 0XA 或 0Xa 或 0XA
 ```
 {% endcode %}
 
-{% hint style="warning" %}
-建置中...
+{% hint style="info" %}
+說明：
+
+輸出數值時，預設為十進位表示。
 {% endhint %}
 
 {% hint style="danger" %}
