@@ -294,7 +294,8 @@
   * [第九章 例外處理](back-end/java/di-jiu-zhang-li-wai-chu-li.md)
   * [第十章 多執行緒](back-end/java/di-shi-zhang-duo-zhi-hang-xu.md)
   * [第十一章 資料輸入、輸出](back-end/java/di-shi-yi-zhang-zi-liao-shu-ru-shu-chu.md)
-  * [第十二章 JDBC](back-end/java/di-shi-er-zhang-jdbc.md)
+  * [第十二章 JDBC](back-end/java/dixzhang-jdbc.md)
+  * [第十三章 補充資訊](back-end/java/di-shi-san-zhang-bu-chong-zi-xun.md)
 * [C](back-end/c.md)
 * [C ++](back-end/c-++.md)
 

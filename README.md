@@ -4,12 +4,6 @@ description: 32601202_Company Learning
 
 # INFORMIX-4GL
 
-{% hint style="success" %}
-32601202\_接觸學習中...
-
-92012202\_主文章資訊底定，持續補充額外資訊中...
-{% endhint %}
-
 {% content-ref url="back-end/mu-ci-biao/di-yi-zhang-bian-shu/" %}
 [di-yi-zhang-bian-shu](back-end/mu-ci-biao/di-yi-zhang-bian-shu/)
 {% endcontent-ref %}
@@ -41,3 +35,9 @@ description: 32601202_Company Learning
 {% content-ref url="back-end/mu-ci-biao/di-ba-zhang-bu-chong-zi-xun/" %}
 [di-ba-zhang-bu-chong-zi-xun](back-end/mu-ci-biao/di-ba-zhang-bu-chong-zi-xun/)
 {% endcontent-ref %}
+
+{% hint style="success" %}
+32601202\_接觸學習中...
+
+92012202\_主文章資訊底定，持續補充額外資訊中...
+{% endhint %}
