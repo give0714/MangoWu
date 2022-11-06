@@ -43,7 +43,7 @@ char 型別的 < u5b57 > 為 字
 {% hint style="info" %}
 說明：
 
-* char 型別的內碼為 unicode 編碼。
+* char 型別的內碼為 unicode 字源字碼。
 {% endhint %}
 
 ## 跳脫序列 Escape Sequence
