@@ -2,7 +2,7 @@
 description: Java 運算式說明章節
 ---
 
-# 何為運算式
+# 運算式簡介
 
 {% hint style="warning" %}
 建置中

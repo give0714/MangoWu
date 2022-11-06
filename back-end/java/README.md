@@ -67,12 +67,35 @@ description: 12210202_Vocational Training Learning
 {% tab title=" 第四章" %}
 第四章  運算式
 
-1. ????
-2. ????
+1. 運算式簡介
+   1. [甚麼是運算式](di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/shen-mo-shi-yun-suan-shi.md)
+   2. [一元運算子](di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/yi-yuan-yun-suan-zi.md)
+   3. [二元運算子](di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/er-yuan-yun-suan-zi.md)
+   4. [三元運算子](di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/san-yuan-yun-suan-zi.md)
+   5. [運算順序](di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/yun-suan-shun-xu.md)
+   6. 資料轉型
+      1. [自動提升](di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/zi-liao-zhuan-xing/zi-dong-ti-sheng.md)
+      2. [強制轉型](di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/zi-liao-zhuan-xing/qiang-zhi-zhuan-xing.md)
+      3. [自動轉型](di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/zi-liao-zhuan-xing/zi-dong-zhuan-xing.md)
+2. 指定運算
+   1. [指定運算子](di-si-zhang-yun-suan-shi/zhi-ding-yun-suan/zhi-ding-yun-suan-zi.md)
+   2. [複合指定運算子](di-si-zhang-yun-suan-shi/zhi-ding-yun-suan/fu-he-zhi-ding-yun-suan-zi.md)
+3. 數值運算
+   1. [四則運算子](di-si-zhang-yun-suan-shi/shu-zhi-yun-suan/si-ze-yun-suan-zi.md)
+   2. [遞增、遞減運算子](di-si-zhang-yun-suan-shi/shu-zhi-yun-suan/di-zeng-di-jian-yun-suan-zi.md)
+   3. [正、負號運算子](di-si-zhang-yun-suan-shi/shu-zhi-yun-suan/zheng-fu-hao-yun-suan-zi.md)
+4. 布林運算
+   1. [反向運算子](di-si-zhang-yun-suan-shi/bu-lin-yun-suan/fan-xiang-yun-suan-zi.md)
+   2. [比較運算子](di-si-zhang-yun-suan-shi/bu-lin-yun-suan/bi-jiao-yun-suan-zi.md)
+   3. [邏輯運算子](di-si-zhang-yun-suan-shi/bu-lin-yun-suan/luo-ji-yun-suan-zi.md)
+5. 位元運算
+   1. [位元邏輯運算子](di-si-zhang-yun-suan-shi/wei-yuan-yun-suan/wei-yuan-luo-ji-yun-suan-zi.md)
+   2. [位元補數運算子](di-si-zhang-yun-suan-shi/wei-yuan-yun-suan/wei-yuan-bu-shu-yun-suan-zi.md)
+   3. [位元移位運算子](di-si-zhang-yun-suan-shi/wei-yuan-yun-suan/wei-yuan-yi-wei-yun-suan-zi.md)
 {% endtab %}
 
 {% tab title=" 第五章" %}
-第章  ????
+第五章  流程控制
 
 1. ????
 2. ????

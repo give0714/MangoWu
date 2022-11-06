@@ -4,11 +4,9 @@ description: Java 參照型別 Regerence Data Types 種類
 
 # Array
 
-
-
-{% hint style="warning" %}
-建置中...
-{% endhint %}
+{% content-ref url="../../di-liu-zhang-zhen-lie.md" %}
+[di-liu-zhang-zhen-lie.md](../../di-liu-zhang-zhen-lie.md)
+{% endcontent-ref %}
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
