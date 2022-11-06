@@ -251,6 +251,7 @@
       * [String](back-end/java/di-san-zhang-zi-liao-xing-bie/can-zhao-xing-bie/string.md)
       * [Array](back-end/java/di-san-zhang-zi-liao-xing-bie/can-zhao-xing-bie/array.md)
       * [Object](back-end/java/di-san-zhang-zi-liao-xing-bie/can-zhao-xing-bie/object.md)
+  * [第四章 運算式](back-end/java/di-si-zhang-yun-suan-shi.md)
   * [第X章 JDBC](back-end/java/dixzhang-jdbc.md)
 * [C](back-end/c.md)
 * [C ++](back-end/c-++.md)
