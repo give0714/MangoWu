@@ -77,8 +77,11 @@ public class DoubleValue {
 ```
 {% endcode %}
 
-{% hint style="warning" %}
-建置中...
+{% hint style="info" %}
+說明：
+
+* float 型別的數值最後必須加上 f 或 F，否則會被視為 double，而造成編譯錯誤。
+*
 {% endhint %}
 
 {% hint style="danger" %}
