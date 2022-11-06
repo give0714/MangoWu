@@ -1,8 +1,8 @@
 ---
-description: Java 陣列說明章節
+description: Java JDBC操作說明
 ---
 
-# 第六章 陣列
+# 第十二章 JDBC
 
 {% hint style="warning" %}
 建置中

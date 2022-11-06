@@ -238,6 +238,7 @@
     * [關鍵字 Keyword](back-end/java/di-er-zhang-bian-shu/guan-jian-zi-keyword.md)
     * [區域變數](back-end/java/di-er-zhang-bian-shu/qu-yu-bian-shu.md)
     * [全域變數](back-end/java/di-er-zhang-bian-shu/quan-yu-bian-shu.md)
+    * [常數](back-end/java/di-er-zhang-bian-shu/chang-shu.md)
   * [第三章 資料型別](back-end/java/di-san-zhang-zi-liao-xing-bie/README.md)
     * [分類說明](back-end/java/di-san-zhang-zi-liao-xing-bie/fen-lei-shuo-ming.md)
     * [基本型別](back-end/java/di-san-zhang-zi-liao-xing-bie/ji-ben-xing-bie/README.md)
@@ -278,9 +279,22 @@
       * [位元補數運算子](back-end/java/di-si-zhang-yun-suan-shi/wei-yuan-yun-suan/wei-yuan-bu-shu-yun-suan-zi.md)
       * [位元移位運算子](back-end/java/di-si-zhang-yun-suan-shi/wei-yuan-yun-suan/wei-yuan-yi-wei-yun-suan-zi.md)
   * [第五章 流程控制](back-end/java/di-wu-zhang-liu-cheng-kong-zhi.md)
-  * [第六章 陣列](back-end/java/di-liu-zhang-zhen-lie.md)
-  * [第X章 輸出、輸入](back-end/java/dixzhang-shu-chu-shu-ru.md)
-  * [第X章 JDBC](back-end/java/dixzhang-jdbc.md)
+  * [第六章 字串](back-end/java/di-liu-zhang-zi-chuan.md)
+  * [第七章 陣列](back-end/java/di-qi-zhang-zhen-lie.md)
+  * [第八章 物件導向程式設計](back-end/java/di-ba-zhang-wu-jian-dao-xiang-cheng-shi-she-ji/README.md)
+    * [類別與物件](back-end/java/di-ba-zhang-wu-jian-dao-xiang-cheng-shi-she-ji/lei-bie-yu-wu-jian.md)
+    * [方法](back-end/java/di-ba-zhang-wu-jian-dao-xiang-cheng-shi-she-ji/fang-fa.md)
+    * [OOP 三大特性](back-end/java/di-ba-zhang-wu-jian-dao-xiang-cheng-shi-she-ji/oop-san-da-te-xing/README.md)
+      * [封裝](back-end/java/di-ba-zhang-wu-jian-dao-xiang-cheng-shi-she-ji/oop-san-da-te-xing/feng-zhuang.md)
+      * [繼承](back-end/java/di-ba-zhang-wu-jian-dao-xiang-cheng-shi-she-ji/oop-san-da-te-xing/ji-cheng.md)
+      * [多型](back-end/java/di-ba-zhang-wu-jian-dao-xiang-cheng-shi-she-ji/oop-san-da-te-xing/duo-xing.md)
+    * [修飾子](back-end/java/di-ba-zhang-wu-jian-dao-xiang-cheng-shi-she-ji/xiu-shi-zi.md)
+    * [抽象](back-end/java/di-ba-zhang-wu-jian-dao-xiang-cheng-shi-she-ji/chou-xiang.md)
+    * [介面](back-end/java/di-ba-zhang-wu-jian-dao-xiang-cheng-shi-she-ji/jie-mian.md)
+  * [第九章 例外處理](back-end/java/di-jiu-zhang-li-wai-chu-li.md)
+  * [第十章 多執行緒](back-end/java/di-shi-zhang-duo-zhi-hang-xu.md)
+  * [第十一章 資料輸入、輸出](back-end/java/di-shi-yi-zhang-zi-liao-shu-ru-shu-chu.md)
+  * [第十二章 JDBC](back-end/java/di-shi-er-zhang-jdbc.md)
 * [C](back-end/c.md)
 * [C ++](back-end/c-++.md)
 
@@ -321,6 +335,10 @@
 
 * [資料結構](knowledge/zi-liao-jie-gou.md)
 * [演算法](knowledge/yan-suan-fa.md)
+
+## LeeCode
+
+* [Java](leecode/java.md)
 
 ## Tools
 

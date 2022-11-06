@@ -2,7 +2,7 @@
 description: Java 輸入、輸出操作說明
 ---
 
-# 第X章 輸出、輸入
+# 第十一章 資料輸入、輸出
 
 {% hint style="warning" %}
 建置中

@@ -45,6 +45,7 @@ description: 12210202_Vocational Training Learning
 3. [關鍵字 Keyward](di-er-zhang-bian-shu/guan-jian-zi-keyword.md)
 4. [區域變數](di-er-zhang-bian-shu/qu-yu-bian-shu.md)
 5. [全域變數](di-er-zhang-bian-shu/quan-yu-bian-shu.md)
+6. [常數](di-er-zhang-bian-shu/chang-shu.md)
 {% endtab %}
 
 {% tab title=" 第三章" %}
