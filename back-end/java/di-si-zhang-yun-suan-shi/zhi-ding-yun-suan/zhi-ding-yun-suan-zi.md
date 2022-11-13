@@ -6,7 +6,7 @@ description: Java 運算式說明章節
 
 ## 指定運算子 Assignment Operator
 
-<img src="../../../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
+<img src="../../../../.gitbook/assets/file.drawing (4).svg" alt="" class="gitbook-drawing">
 
 ### 指定變數的用法
 

@@ -13,7 +13,7 @@ description: Java 運算式說明章節
 
 {% code title="Increment.java" lineNumbers="true" %}
 ```java
-public class Increment{
+public class Increment {
 
 	public static void main(String[] args) {
 		
@@ -56,7 +56,7 @@ i % 3  = 1
 
 {% code title="Decrement.java" lineNumbers="true" %}
 ```java
-public class Decrement{
+public class Decrement {
 
 	public static void main(String[] args) {
 		

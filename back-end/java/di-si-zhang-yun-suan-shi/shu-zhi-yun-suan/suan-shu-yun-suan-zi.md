@@ -16,7 +16,7 @@ description: Java 運算式說明章節
 
 {% code title="Arithmetic.java" lineNumbers="true" %}
 ```java
-public class Arithmetic{
+public class Arithmetic {
 
 	public static void main(String[] args) {
 		
