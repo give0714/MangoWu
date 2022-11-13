@@ -6,7 +6,7 @@ description: Java 運算式說明章節
 
 ## 三元運算子 Ternary Operator
 
-<img src="../../../../.gitbook/assets/file.drawing (1).svg" alt="" class="gitbook-drawing">
+<img src="../../../../.gitbook/assets/file.drawing.svg" alt="" class="gitbook-drawing">
 
 {% code title="BinaryOperator.java" lineNumbers="true" %}
 ```java

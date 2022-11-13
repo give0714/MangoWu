@@ -20,6 +20,7 @@ public class Increment {
 		int a = 10;
 		System.out.println("a = " + a);
 		System.out.println("前置型遞增運算元為 " + (++a));
+		System.out.println("a = " + a);		
 		System.out.println("後置型遞增運算元為 " + (a++));
 		System.out.println("a = " + a);
 
@@ -33,6 +34,7 @@ public class Increment {
 ```
 a = 10
 前置型遞增運算元為 11
+a = 11
 後置型遞增運算元為 11
 a = 12
 ```
@@ -54,6 +56,7 @@ public class Decrement {
 		int b = 10;
 		System.out.println("b = " + b);
 		System.out.println("前置型遞減運算元為 " + (--b));
+		System.out.println("b = " + b);
 		System.out.println("後置型遞減運算元為 " + (b--));
 		System.out.println("b = " + b);
 
@@ -67,6 +70,7 @@ public class Decrement {
 ```
 b = 10
 前置型遞減運算元為 9
+b = 9
 後置型遞減運算元為 9
 b = 8
 ```
