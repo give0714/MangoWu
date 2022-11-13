@@ -8,8 +8,8 @@ description: Java 運算式說明章節
 
 ### 種類
 
-* var++ 後置型
-* \++var 前置型
+* var++ 後置型 Postfix
+* \++var 前置型 Prefix
 
 {% code title="Increment.java" lineNumbers="true" %}
 ```java
@@ -17,18 +17,11 @@ public class Increment {
 
 	public static void main(String[] args) {
 		
-		int i = 1;
-		System.out.println("i      = " + i);
-		i = i + 1;
-		System.out.println("i + 1  = " + i);
-		i = i - 1;
-		System.out.println("i - 1  = " + i);
-		i = i * 10;
-		System.out.println("i * 10 = " + i);
-		i = i / 2;
-		System.out.println("i / 5  = " + i);
-		i = i % 2;
-		System.out.println("i % 3  = " + i);
+		int a = 10;
+		System.out.println("a = " + a);
+		System.out.println("前置型遞增運算元為 " + (++a));
+		System.out.println("後置型遞增運算元為 " + (a++));
+		System.out.println("a = " + a);
 
 	}
 
@@ -38,12 +31,10 @@ public class Increment {
 
 {% code title="執行結果" %}
 ```
-i      = 1
-i + 1  = 2
-i - 1  = 1
-i * 10 = 10
-i / 5  = 5
-i % 3  = 1
+a = 10
+前置型遞增運算元為 11
+後置型遞增運算元為 11
+a = 12
 ```
 {% endcode %}
 
@@ -51,8 +42,8 @@ i % 3  = 1
 
 ### 種類
 
-* var--
-* \--var
+* var-- 後置型 Postfix
+* \--var 前置型 Prefix
 
 {% code title="Decrement.java" lineNumbers="true" %}
 ```java
@@ -60,18 +51,11 @@ public class Decrement {
 
 	public static void main(String[] args) {
 		
-		int i = 1;
-		System.out.println("i      = " + i);
-		i = i + 1;
-		System.out.println("i + 1  = " + i);
-		i = i - 1;
-		System.out.println("i - 1  = " + i);
-		i = i * 10;
-		System.out.println("i * 10 = " + i);
-		i = i / 2;
-		System.out.println("i / 5  = " + i);
-		i = i % 2;
-		System.out.println("i % 3  = " + i);
+		int b = 10;
+		System.out.println("b = " + b);
+		System.out.println("前置型遞減運算元為 " + (--b));
+		System.out.println("後置型遞減運算元為 " + (b--));
+		System.out.println("b = " + b);
 
 	}
 
@@ -81,17 +65,22 @@ public class Decrement {
 
 {% code title="執行結果" %}
 ```
-i      = 1
-i + 1  = 2
-i - 1  = 1
-i * 10 = 10
-i / 5  = 5
-i % 3  = 1
+b = 10
+前置型遞減運算元為 9
+後置型遞減運算元為 9
+b = 8
 ```
 {% endcode %}
 
-{% hint style="warning" %}
-建置中
+{% hint style="info" %}
+備註：
+
+* 前置型：\
+  當遞增或遞減運算子放置於變數前面，運算結果會是變數遞增後或遞減後的數值。
+* 後置型：\
+  當遞增或遞減運算子放置於變數後面，運算結果會是變數遞增前或遞減前的原始數值。
+* 只能用於變數上。
+* 可用在整數數值型別，也可以用在浮點數數值型別。
 {% endhint %}
 
 {% hint style="danger" %}
