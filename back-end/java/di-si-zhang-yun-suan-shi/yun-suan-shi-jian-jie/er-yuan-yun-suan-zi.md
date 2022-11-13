@@ -4,7 +4,7 @@ description: Java 運算式說明章節
 
 # 二元運算子
 
-* 如果運算子需要二個運算元，就可稱為二元運算子（Binary Operator）。
+## 二元運算子 Binary Operator
 
 {% code title="BinaryOperator.java" lineNumbers="true" %}
 ```java
@@ -32,6 +32,12 @@ public class BinaryOperator{
 二元運算子 k 的值：7
 ```
 {% endcode %}
+
+{% hint style="info" %}
+備註：
+
+* 如果運算子需要二個運算元，就可稱為二元運算子（Binary Operator）。
+{% endhint %}
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\

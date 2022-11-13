@@ -4,9 +4,7 @@ description: Java 運算式說明章節
 
 # 三元運算子
 
-* 三元運算子（Ternary Operator）又稱為條件運算子（Conditional Operator）。
-* 由 3 個運算元所組成，分別以 ? 與 : 區隔開來。&#x20;
-* 第一個運算元必須為 boolean。
+## 三元運算子 Ternary Operator
 
 {% code title="BinaryOperator.java" lineNumbers="true" %}
 ```java
@@ -34,8 +32,12 @@ b2 為false
 ```
 {% endcode %}
 
-{% hint style="warning" %}
-建置中
+{% hint style="info" %}
+備註：
+
+* 三元運算子（Ternary Operator）又稱為條件運算子（Conditional Operator）。
+* 由 3 個運算元所組成，分別以 ? 與 : 區隔開來。&#x20;
+* 第一個運算元必須為 boolean。
 {% endhint %}
 
 {% hint style="danger" %}

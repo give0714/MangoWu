@@ -267,7 +267,7 @@
       * [指定運算子](back-end/java/di-si-zhang-yun-suan-shi/zhi-ding-yun-suan/zhi-ding-yun-suan-zi.md)
       * [複合指定運算子](back-end/java/di-si-zhang-yun-suan-shi/zhi-ding-yun-suan/fu-he-zhi-ding-yun-suan-zi.md)
     * [數值運算](back-end/java/di-si-zhang-yun-suan-shi/shu-zhi-yun-suan/README.md)
-      * [四則運算子](back-end/java/di-si-zhang-yun-suan-shi/shu-zhi-yun-suan/si-ze-yun-suan-zi.md)
+      * [算術運算子](back-end/java/di-si-zhang-yun-suan-shi/shu-zhi-yun-suan/suan-shu-yun-suan-zi.md)
       * [遞增、遞減運算子](back-end/java/di-si-zhang-yun-suan-shi/shu-zhi-yun-suan/di-zeng-di-jian-yun-suan-zi.md)
       * [正、負號運算子](back-end/java/di-si-zhang-yun-suan-shi/shu-zhi-yun-suan/zheng-fu-hao-yun-suan-zi.md)
     * [布林運算](back-end/java/di-si-zhang-yun-suan-shi/bu-lin-yun-suan/README.md)

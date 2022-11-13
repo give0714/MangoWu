@@ -10,7 +10,7 @@ description: Java 運算式說明章節
 * 算符又稱為運算子。
 * 運算元可以是字面常數，也可以是變數，也可以是另一個運算式。
 
-<img src="../../../../.gitbook/assets/file.drawing (4).svg" alt="" class="gitbook-drawing">
+<img src="../../../../.gitbook/assets/file.drawing (1).svg" alt="" class="gitbook-drawing">
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
