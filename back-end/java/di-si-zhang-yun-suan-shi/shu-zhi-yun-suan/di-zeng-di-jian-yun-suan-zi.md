@@ -8,8 +8,8 @@ description: Java 運算式說明章節
 
 ### 種類
 
-* var++
-* \++var
+* var++ 後置型
+* \++var 前置型
 
 {% code title="Increment.java" lineNumbers="true" %}
 ```java

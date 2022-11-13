@@ -6,6 +6,8 @@ description: Java 運算式說明章節
 
 ## 三元運算子 Ternary Operator
 
+<img src="../../../../.gitbook/assets/file.drawing (4).svg" alt="" class="gitbook-drawing">
+
 {% code title="BinaryOperator.java" lineNumbers="true" %}
 ```java
 public class BinaryOperator{
