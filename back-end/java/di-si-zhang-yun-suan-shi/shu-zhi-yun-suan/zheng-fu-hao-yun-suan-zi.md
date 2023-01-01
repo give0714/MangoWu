@@ -9,18 +9,19 @@ description: Java 運算式說明章節
 * \+ var 正號運算子
 * \- var 負號運算子
 
-{% code title="Increment.java" lineNumbers="true" %}
+{% code title="Minus.java" lineNumbers="true" %}
 ```java
 public class Minus {
 
 	public static void main(String[] args) {
 		
-		int a = 10;
-		System.out.println("a = " + a);
-		System.out.println("前置型遞增運算元為 " + (++a));
-		System.out.println("a = " + a);		
-		System.out.println("後置型遞增運算元為 " + (a++));
-		System.out.println("a = " + a);
+		int i = 7;
+		int j = -i;
+		System.out.println("i = " + i );
+		System.out.println("j = " + j );
+		
+		int k = i - j;
+		System.out.println("k = i - j =>> " + k );
 
 	}
 
@@ -30,11 +31,9 @@ public class Minus {
 
 {% code title="執行結果" %}
 ```
-a = 10
-前置型遞增運算元為 11
-a = 11
-後置型遞增運算元為 11
-a = 12
+i = 7
+j = -7
+k = i - j =>> 14
 ```
 {% endcode %}
 
