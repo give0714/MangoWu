@@ -11,7 +11,7 @@ description: Java 運算式說明章節
 
 {% code title="Increment.java" lineNumbers="true" %}
 ```java
-public class Increment {
+public class Minus {
 
 	public static void main(String[] args) {
 		

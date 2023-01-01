@@ -6,7 +6,7 @@ description: Java 運算式說明章節
 
 ## 算術運算子 Arithmetic Operator
 
-### 種類
+## 種類
 
 1. \+   加
 2. \-   減
