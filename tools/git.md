@@ -4,20 +4,6 @@ description: 72012202_Company Learning
 
 # Git
 
-{% tabs %}
-{% tab title="1" %}
-第一章 &#x20;
-
-1.
-{% endtab %}
-
-{% tab title="2" %}
-第二章 &#x20;
-
-1.
-{% endtab %}
-{% endtabs %}
-
 {% hint style="warning" %}
 72012202\_持續撰寫中...
 {% endhint %}

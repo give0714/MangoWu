@@ -4,20 +4,6 @@ description: 32601202_Company Learning
 
 # SQuirrel SQL
 
-{% tabs %}
-{% tab title="1" %}
-第一章 &#x20;
-
-1.
-{% endtab %}
-
-{% tab title="2" %}
-第二章 &#x20;
-
-1.
-{% endtab %}
-{% endtabs %}
-
 {% hint style="warning" %}
 32601202\_持續撰寫中...
 {% endhint %}

@@ -4,20 +4,6 @@ description: 12210202_Vocational training Learning
 
 # Spring
 
-{% tabs %}
-{% tab title="1" %}
-第一章 &#x20;
-
-1.
-{% endtab %}
-
-{% tab title="2" %}
-第二章 &#x20;
-
-1.
-{% endtab %}
-{% endtabs %}
-
 {% hint style="warning" %}
 12210202\_持續撰寫中...
 {% endhint %}

@@ -4,20 +4,6 @@ description: XXXXXXXX_XXXX
 
 # 範例頁面
 
-{% tabs %}
-{% tab title="1" %}
-第一章 &#x20;
-
-1.
-{% endtab %}
-
-{% tab title="2" %}
-第二章 &#x20;
-
-1.
-{% endtab %}
-{% endtabs %}
-
 {% hint style="warning" %}
 XXXXXXXX\_持續撰寫中...
 {% endhint %}

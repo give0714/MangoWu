@@ -4,20 +4,6 @@ description: 11012202_Company Learning
 
 # Postgre SQL
 
-{% tabs %}
-{% tab title="1" %}
-第一章 &#x20;
-
-1.
-{% endtab %}
-
-{% tab title="2" %}
-第二章 &#x20;
-
-1.
-{% endtab %}
-{% endtabs %}
-
 {% hint style="warning" %}
 11012202\_持續撰寫中...
 {% endhint %}

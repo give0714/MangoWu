@@ -4,20 +4,6 @@ description: 10702202_Company Learning
 
 # Swagger
 
-{% tabs %}
-{% tab title="1" %}
-第一章 &#x20;
-
-1.
-{% endtab %}
-
-{% tab title="2" %}
-第二章 &#x20;
-
-1.
-{% endtab %}
-{% endtabs %}
-
 {% hint style="warning" %}
 10702202\_持續撰寫中...
 {% endhint %}

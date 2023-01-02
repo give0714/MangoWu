@@ -259,10 +259,10 @@
       * [二元運算子](back-end/java/di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/er-yuan-yun-suan-zi.md)
       * [三元運算子](back-end/java/di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/san-yuan-yun-suan-zi.md)
       * [運算順序](back-end/java/di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/yun-suan-shun-xu.md)
-      * [資料轉型](back-end/java/di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/zi-liao-zhuan-xing/README.md)
-        * [自動提升](back-end/java/di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/zi-liao-zhuan-xing/zi-dong-ti-sheng.md)
-        * [強制轉型](back-end/java/di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/zi-liao-zhuan-xing/qiang-zhi-zhuan-xing.md)
-        * [自動轉型](back-end/java/di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/zi-liao-zhuan-xing/zi-dong-zhuan-xing.md)
+      * [資料轉型\_待補充](back-end/java/di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/zi-liao-zhuan-xing-dai-bu-chong/README.md)
+        * [自動提升](back-end/java/di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/zi-liao-zhuan-xing-dai-bu-chong/zi-dong-ti-sheng.md)
+        * [強制轉型](back-end/java/di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/zi-liao-zhuan-xing-dai-bu-chong/qiang-zhi-zhuan-xing.md)
+        * [自動轉型](back-end/java/di-si-zhang-yun-suan-shi/yun-suan-shi-jian-jie/zi-liao-zhuan-xing-dai-bu-chong/zi-dong-zhuan-xing.md)
     * [指定運算](back-end/java/di-si-zhang-yun-suan-shi/zhi-ding-yun-suan/README.md)
       * [指定運算子](back-end/java/di-si-zhang-yun-suan-shi/zhi-ding-yun-suan/zhi-ding-yun-suan-zi.md)
       * [複合指定運算子](back-end/java/di-si-zhang-yun-suan-shi/zhi-ding-yun-suan/fu-he-zhi-ding-yun-suan-zi.md)
@@ -328,10 +328,6 @@
 * [jQuery](front-end/jquery.md)
 * [Bootstrap](front-end/bootstrap.md)
 
-## Framework
-
-* [範例頁面](framework/fan-li-ye-mian.md)
-
 ## Knowledge
 
 * [資料結構](knowledge/zi-liao-jie-gou.md)
@@ -347,6 +343,10 @@
 * [SQuirrel SQL](tools/squirrel-sql.md)
 * [DBeaver](tools/dbeaver.md)
 * [Git](tools/git.md)
+
+## Framework
+
+* [範例頁面](framework/fan-li-ye-mian.md)
 
 ## 範例群組頁面
 
