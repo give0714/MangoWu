@@ -6,12 +6,7 @@ description: Java 基本型別 Primitive Data Types 種類
 
 ## 種類
 
-|  進位方式 |        說明        |        例如       |  備註 |
-| :---: | :--------------: | :-------------: | :-: |
-|  2 進位 | 為 0b 或 0B 開頭的數值。 |  0b1010、0B1010  |     |
-|  8 進位 |    為 0 開頭的數值。    |       012       |     |
-| 10 進位 |    為非 0 開頭的數值。   |        10       |     |
-| 16 進位 | 為 0x 或 0X 開頭的數字。 | 0xa、0xA、0Xa、0XA |     |
+<table><thead><tr><th width="117" align="center">進位方式</th><th width="307" align="center">說明</th><th width="211" align="center">例如</th><th width="113" align="center">備註</th></tr></thead><tbody><tr><td align="center">2 進位</td><td align="center">為 0b 或 0B 開頭的數值。</td><td align="center">0b1010、0B1010</td><td align="center"></td></tr><tr><td align="center">8 進位</td><td align="center">為 0 開頭的數值。</td><td align="center">012</td><td align="center"></td></tr><tr><td align="center">10 進位</td><td align="center">為非 0 開頭的數值。</td><td align="center">10</td><td align="center"></td></tr><tr><td align="center">16 進位</td><td align="center">為 0x 或 0X 開頭的數字。</td><td align="center">0xa、0xA、0Xa、0XA</td><td align="center"></td></tr></tbody></table>
 
 ## 範例
 

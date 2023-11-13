@@ -6,12 +6,7 @@ description: Java 基本型別 Primitive Data Types 種類
 
 ## 種類
 
-|   型別  |    長度   |                                                       值域                                                       |    初值   | 使用建議 |  備註 |
-| :---: | :-----: | :------------------------------------------------------------------------------------------------------------: | :-----: | :--: | :-: |
-|  byte |  8 bits |                 <p>-2 的  7次方 ~ 2 的  7次方 - 1<br><mark style="color:blue;">-128 ~ 127</mark></p>                 |    0    |   X  |     |
-| short | 16 bits |               <p>-2 的 15次方 ~ 2 的 15次方 - 1<br><mark style="color:blue;">-32768 ~ 32767</mark></p>               |    0    |   X  |     |
-|  int  | 32 bits |          <p>-2 的 31次方 ~ 2 的 31次方 - 1<br><mark style="color:blue;">-2147483648 ~ 2147483647</mark></p>          |    0    |      |  預設 |
-|  long | 64 bits | <p>-2 的 63次方 ~ 2 的 63次方 - 1<br><mark style="color:blue;">-9223372036854775808 ~ 9223372036854775807</mark></p> | 0L / 0l |      |     |
+<table><thead><tr><th width="117" align="center">型別</th><th width="103" align="center">長度</th><th width="262" align="center">值域</th><th width="94" align="center">初值</th><th width="98" align="center">使用建議</th><th width="73" align="center">備註</th></tr></thead><tbody><tr><td align="center">byte</td><td align="center">8 bits</td><td align="center">-2 的  7次方 ~ 2 的  7次方 - 1<br><mark style="color:blue;">-128 ~ 127</mark></td><td align="center">0</td><td align="center">X</td><td align="center"></td></tr><tr><td align="center">short</td><td align="center">16 bits</td><td align="center">-2 的 15次方 ~ 2 的 15次方 - 1<br><mark style="color:blue;">-32768 ~ 32767</mark></td><td align="center">0</td><td align="center">X</td><td align="center"></td></tr><tr><td align="center">int</td><td align="center">32 bits</td><td align="center">-2 的 31次方 ~ 2 的 31次方 - 1<br><mark style="color:blue;">-2147483648 ~ 2147483647</mark></td><td align="center">0</td><td align="center"></td><td align="center">預設</td></tr><tr><td align="center">long</td><td align="center">64 bits</td><td align="center">-2 的 63次方 ~ 2 的 63次方 - 1<br><mark style="color:blue;">-9223372036854775808 ~ 9223372036854775807</mark></td><td align="center">0L / 0l</td><td align="center"></td><td align="center"></td></tr></tbody></table>
 
 ## 範例
 

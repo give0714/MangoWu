@@ -6,10 +6,7 @@ description: Java 基本型別 Primitive Data Types 種類
 
 ## 種類
 
-|   型別   |    長度   |                         值域                        |         初值         |  備註 |
-| :----: | :-----: | :-----------------------------------------------: | :----------------: | :-: |
-|  float | 32 bits |   <p>-3.4E38 ~ -1.4E-45<br>1.4E-45 ~ 3.4E38</p>   |        0.0F        |     |
-| double | 64 bits | <p>-1.8E308 ~ -4.9E-324<br>4.9E-324 ~ 1.8E308</p> | <p>0.0D<br>0.0</p> |  預設 |
+<table><thead><tr><th width="131" align="center">型別</th><th width="112" align="center">長度</th><th width="256" align="center">值域</th><th align="center">初值</th><th align="center">備註</th></tr></thead><tbody><tr><td align="center">float</td><td align="center">32 bits</td><td align="center">-3.4E38 ~ -1.4E-45<br>1.4E-45 ~ 3.4E38</td><td align="center">0.0F</td><td align="center"></td></tr><tr><td align="center">double</td><td align="center">64 bits</td><td align="center">-1.8E308 ~ -4.9E-324<br>4.9E-324 ~ 1.8E308</td><td align="center">0.0D<br>0.0</td><td align="center">預設</td></tr></tbody></table>
 
 ## 範例 1
 

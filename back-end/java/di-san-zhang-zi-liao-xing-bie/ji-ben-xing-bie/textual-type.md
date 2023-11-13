@@ -6,9 +6,7 @@ description: Java 基本型別 Primitive Data Types 種類
 
 ## 種類
 
-|  型別  |    長度   |                   值域                   |    初值    | 使用建議 |  備註 |
-| :--: | :-----: | :------------------------------------: | :------: | :--: | :-: |
-| char | 16 bits | <p>'\u0000' ~ 'uffff'<br>0 ~ 65535</p> | '\u0000' |      |     |
+<table><thead><tr><th width="93" align="center">型別</th><th width="89" align="center">長度</th><th width="273" align="center">值域</th><th width="102" align="center">初值</th><th width="98" align="center">使用建議</th><th width="73" align="center">備註</th></tr></thead><tbody><tr><td align="center">char</td><td align="center">16 bits</td><td align="center">'\u0000' ~ 'uffff'<br>0 ~ 65535</td><td align="center">'\u0000'</td><td align="center"></td><td align="center"></td></tr></tbody></table>
 
 ## 範例
 
@@ -48,16 +46,7 @@ char 型別的 < u5b57 > 為 字
 
 ## 跳脫序列 Escape Sequence
 
-| 跳脫序列 |   字碼   |      字元     |  備考 |
-| :--: | :----: | :---------: | :-: |
-|  \b  | \u0008 | 按下 Enter 退格 |     |
-|  \t  | \u0009 |  按下 Tab 跳八格 |     |
-|  \n  | \u000a |      換行     |     |
-|  \f  | \u000c |      換頁     |     |
-|  \r  | \u000d |      返回     |     |
-|  \\" | \u0022 |     雙引號     |     |
-|  \\' | \u0027 |     單引號     |     |
-| \\\\ | \u005c |     反斜線     |     |
+<table><thead><tr><th width="118" align="center">跳脫序列</th><th width="114" align="center">字碼</th><th width="329" align="center">字元</th><th width="189" align="center">備考</th></tr></thead><tbody><tr><td align="center">\b</td><td align="center">\u0008</td><td align="center">按下 Enter 退格</td><td align="center"></td></tr><tr><td align="center">\t</td><td align="center">\u0009</td><td align="center">按下 Tab 跳八格</td><td align="center"></td></tr><tr><td align="center">\n</td><td align="center">\u000a</td><td align="center">換行</td><td align="center"></td></tr><tr><td align="center">\f</td><td align="center">\u000c</td><td align="center">換頁</td><td align="center"></td></tr><tr><td align="center">\r</td><td align="center">\u000d</td><td align="center">返回</td><td align="center"></td></tr><tr><td align="center">\"</td><td align="center">\u0022</td><td align="center">雙引號</td><td align="center"></td></tr><tr><td align="center">\'</td><td align="center">\u0027</td><td align="center">單引號</td><td align="center"></td></tr><tr><td align="center">\\</td><td align="center">\u005c</td><td align="center">反斜線</td><td align="center"></td></tr></tbody></table>
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\

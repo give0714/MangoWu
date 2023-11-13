@@ -6,9 +6,7 @@ description: Java 基本型別 Primitive Data Types 種類
 
 ## 種類
 
-|    型別   |  長度 |      值域      |   初值  | 使用建議 |  備註 |
-| :-----: | :-: | :----------: | :---: | :--: | :-: |
-| boolean |     | true / false | false |   X  |     |
+<table><thead><tr><th width="116" align="center">型別</th><th width="103" align="center">長度</th><th width="262" align="center">值域</th><th width="79" align="center">初值</th><th align="center">使用建議</th><th width="89" align="center">備註</th></tr></thead><tbody><tr><td align="center">boolean</td><td align="center"></td><td align="center">true / false</td><td align="center">false</td><td align="center">X</td><td align="center"></td></tr></tbody></table>
 
 ## 範例
 

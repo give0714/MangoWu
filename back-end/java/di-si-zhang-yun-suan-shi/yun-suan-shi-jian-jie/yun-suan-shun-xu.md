@@ -4,27 +4,7 @@ description: Java 運算式說明章節
 
 # 運算順序
 
-|                               運算子                               |            說明            |         優先等級        | 結合性 |
-| :-------------------------------------------------------------: | :----------------------: | :-----------------: | :-: |
-|                         <p>++<br>--</p>                         |   <p>遞增運算子<br>遞減運算子</p>  |  <p>1<br>（最優先）</p>  |  右  |
-|                          <p>+<br>-</p>                          | <p>正號運算子</p><p>負號運算子</p> |          1          |  右  |
-|                                \~                               |          位元補數運算子         |          1          |  右  |
-|                                !                                |          邏輯反向運算子         |          1          |  右  |
-|                               （型別）                              |           轉型運算子          |          1          |  右  |
-|                              \*、/、%                             |           數學運算子          |          2          |  左  |
-|                               +、-                               |           數學運算子          |          3          |  左  |
-|                                +                                |          字串連接運算子         |          3          |  左  |
-|                            >>、>>>、<<                            |           位移運算子          |          4          |  左  |
-|                            <、<=、>、>=                            |           比較運算子          |          5          |  左  |
-|                            instanceof                           |           型別運算子          |          5          |  左  |
-|                              ==、!=                              |           比較運算子          |          6          |  左  |
-|                                &                                |          AND 運算子         |          7          |  左  |
-|                                ^                                |          XOR 運算子         |          8          |  左  |
-|                                \|                               |          OR 運算子          |          9          |  左  |
-|                                &&                               |          邏輯且運算子          |          10         |  左  |
-|                               \|\|                              |          邏輯或運算子          |          11         |  左  |
-|                                ?:                               |           條件運算子          |          12         |  右  |
-| <p>=<br>*=、/=、%=、+=、-=、&#x3C;&#x3C;=、>>=、>>>=、&#x26;=、|=、^=</p> |  <p>指定運算子<br>複合指定運算子</p> | <p>13<br>（最不優先）</p> |  右  |
+<table><thead><tr><th width="315" align="center">運算子</th><th width="185" align="center">說明</th><th width="143" align="center">優先等級</th><th align="center">結合性</th></tr></thead><tbody><tr><td align="center">++<br>--</td><td align="center">遞增運算子<br>遞減運算子</td><td align="center">1<br>（最優先）</td><td align="center">右</td></tr><tr><td align="center">+<br>-</td><td align="center"><p>正號運算子</p><p>負號運算子</p></td><td align="center">1</td><td align="center">右</td></tr><tr><td align="center">~</td><td align="center">位元補數運算子</td><td align="center">1</td><td align="center">右</td></tr><tr><td align="center">!</td><td align="center">邏輯反向運算子</td><td align="center">1</td><td align="center">右</td></tr><tr><td align="center">（型別）</td><td align="center">轉型運算子</td><td align="center">1</td><td align="center">右</td></tr><tr><td align="center">*、/、%</td><td align="center">數學運算子</td><td align="center">2</td><td align="center">左</td></tr><tr><td align="center">+、-</td><td align="center">數學運算子</td><td align="center">3</td><td align="center">左</td></tr><tr><td align="center">+</td><td align="center">字串連接運算子</td><td align="center">3</td><td align="center">左</td></tr><tr><td align="center">>>、>>>、&#x3C;&#x3C;</td><td align="center">位移運算子</td><td align="center">4</td><td align="center">左</td></tr><tr><td align="center">&#x3C;、&#x3C;=、>、>=</td><td align="center">比較運算子</td><td align="center">5</td><td align="center">左</td></tr><tr><td align="center">instanceof</td><td align="center">型別運算子</td><td align="center">5</td><td align="center">左</td></tr><tr><td align="center">==、!=</td><td align="center">比較運算子</td><td align="center">6</td><td align="center">左</td></tr><tr><td align="center">&#x26;</td><td align="center">AND 運算子</td><td align="center">7</td><td align="center">左</td></tr><tr><td align="center">^</td><td align="center">XOR 運算子</td><td align="center">8</td><td align="center">左</td></tr><tr><td align="center">|</td><td align="center">OR 運算子</td><td align="center">9</td><td align="center">左</td></tr><tr><td align="center">&#x26;&#x26;</td><td align="center">邏輯且運算子</td><td align="center">10</td><td align="center">左</td></tr><tr><td align="center">||</td><td align="center">邏輯或運算子</td><td align="center">11</td><td align="center">左</td></tr><tr><td align="center">?:</td><td align="center">條件運算子</td><td align="center">12</td><td align="center">右</td></tr><tr><td align="center">=<br>*=、/=、%=、+=、-=、&#x3C;&#x3C;=、>>=、>>>=、&#x26;=、|=、^=</td><td align="center">指定運算子<br>複合指定運算子</td><td align="center">13<br>（最不優先）</td><td align="center">右</td></tr></tbody></table>
 
 {% hint style="danger" %}
 【 M@nGo 留言區 】\
